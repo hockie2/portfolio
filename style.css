@@ -327,5 +327,180 @@ footer img{
 
 
 
-/*---------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------------------*/
+/*  ##Device = Desktops  ##Screen = 1281px to higher resolution desktops*/
+@media (min-width: 1281px) {
 
+  //CSS
+
+}
+/*------------------------------------------------------------------------------------------------------------------------*/
+/*  ##Device = Laptops, Desktops  ##Screen = B/w 1025px to 1280px */
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+  //CSS
+
+}
+/*------------------------------------------------------------------------------------------------------------------------*/
+/*  ##Device = Tablets, Ipads (portrait)  ##Screen = B/w 768px to 1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+
+}
+/*------------------------------------------------------------------------------------------------------------------------*/
+/*  ##Device = Tablets, Ipads (landscape)  ##Screen = B/w 768px to 1024px */
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  #header{
+    min-height: 350px
+  }
+  h1{
+    font-size:4.8em;
+  }
+
+  #content_wrapper{
+    margin-bottom: 20px;
+  }
+  #cards_main_wrapper{
+    margin-bottom: 0
+  }
+  .card{
+    width:48.6%;
+  }
+
+  .design_image{
+    width:172px;
+    height: 172px;
+  }
+
+}
+/*------------------------------------------------------------------------------------------------------------------------*/
+/*  ##Device = Low Resolution Tablets, Mobiles (Landscape)  ##Screen = B/w 481px to 767px */
+@media (min-width: 481px) and (max-width: 767px) {
+
+    #header{
+        min-height: 300px;
+    }
+
+    h1{
+        font-size: 3.5em
+    }
+
+    h2{
+        font-size: 1.8em;
+    }
+
+    h4{
+        font-size: 1em
+    }
+
+    #header_bottom{
+        width:90%;
+        flex-wrap: wrap;
+    }
+
+    #content_wrapper{
+        margin-bottom: 20px;
+    }
+
+    .card{
+        width:48%;
+    }
+
+    .design_image{
+        width:179px;
+        height: 179px
+    }
+
+    footer img{
+        height: 80px;
+        object-fit: cover;
+    }
+}
+/*------------------------------------------------------------------------------------------------------------------------*/
+/*  ##Device = Most of the Smartphones Mobiles (Portrait)  ##Screen = B/w 320px to 479px */
+@media (min-width: 320px) and (max-width: 480px) {
+
+    header{
+        /*width:100vw;*/
+        height:50px;
+    }
+
+    header img{
+        /*width:100vw;*/
+        height: 100%;
+        object-fit: cover;
+    }
+
+    #header_text{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    #header_text_left{
+        width:100%;
+    }
+    #header_text_right{
+        width:100%;
+    }
+    #header_bottom{
+        width:100%;
+        flex-wrap: wrap;
+    }
+
+    h1{
+        font-size: 3.4em;
+        text-align: center;
+    }
+
+    h2{
+        font-size:1.6em;
+        text-align: center;
+    }
+
+    h4{
+        font-size: .9em;
+        text-align: center;
+    }
+
+    #header_text_right{
+        padding-right: 15px;
+    }
+
+    #content_wrapper{
+        /*width:100%;*/
+        padding:0;
+        margin-bottom: 20px;
+    }
+
+    .category{
+        align-self: center;
+        padding:0 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .card_text_wrapper{
+        font-size: 1em;
+    }
+
+    hr{
+        margin:10px auto;
+    }
+
+    .design_image{
+        width:160px;
+        height: 160px;
+    }
+
+    #img01{
+        width:100%;
+    }
+
+    footer img{
+        height: 80px;
+        object-fit: cover;
+    }
+
+}
