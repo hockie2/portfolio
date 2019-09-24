@@ -303,7 +303,7 @@ hr{
 
 footer{
     /*width:100vw;*/
-    /*min-height:55px;*/
+    min-height:55px;
     margin:0;
     padding:0;
     /*border:0;*/
@@ -338,41 +338,69 @@ footer img{
 /*  ##Device = Laptops, Desktops  ##Screen = B/w 1025px to 1280px */
 @media (min-width: 1025px) and (max-width: 1280px) {
 
-  //CSS
+    .cards_wrapper{
+        justify-content: center;
+    }
+    .card{
+        width:48.9%;
+    }
+    .design_image{
+
+    }
 
 }
 /*------------------------------------------------------------------------------------------------------------------------*/
 /*  ##Device = Tablets, Ipads (portrait)  ##Screen = B/w 768px to 1024px */
 @media (min-width: 768px) and (max-width: 1024px) {
 
-
-
+    h1{
+        font-size: 4.6em;
+    }
+    .cards_wrapper{
+        justify-content:center;
+    }
+    .card{
+        width: 48.5%;
+    }
+    .design_image{
+        width:162px;
+        height: 162px
+    }
+    footer img{
+        height: 100px;
+        object-fit: cover;
+    }
 }
 /*------------------------------------------------------------------------------------------------------------------------*/
 /*  ##Device = Tablets, Ipads (landscape)  ##Screen = B/w 768px to 1024px */
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  #header{
-    min-height: 350px
-  }
-  h1{
-    font-size:4.8em;
-  }
+    #header{
+        min-height: 350px
+    }
+    h1{
+        font-size:4.6em;
+    }
 
-  #content_wrapper{
-    margin-bottom: 20px;
-  }
-  #cards_main_wrapper{
-    margin-bottom: 0
-  }
-  .card{
-    width:48.6%;
-  }
+    #content_wrapper{
+        margin-bottom: 20px;
+    }
+    #cards_main_wrapper{
+        margin-bottom: 0
+    }
+    .card{
+        width:48.5%;
+    }
 
-  .design_image{
-    width:172px;
-    height: 172px;
-  }
+    .design_image{
+        width:165px;
+        height: 165px;
+    }
+
+    footer img{
+        height: 80px;
+        object-fit: cover;
+    }
 
 }
 /*------------------------------------------------------------------------------------------------------------------------*/
@@ -405,9 +433,12 @@ footer img{
     }
 
     .card{
-        width:48%;
+        width:47%;
     }
 
+    #design_wrapper{
+        justify-content: center;
+    }
     .design_image{
         width:179px;
         height: 179px
@@ -480,7 +511,9 @@ footer img{
         flex-wrap: wrap;
         justify-content: center;
     }
-
+    .cards_wrapper{
+        justify-content: center;
+    }
     .card_text_wrapper{
         font-size: 1em;
     }
@@ -488,7 +521,9 @@ footer img{
     hr{
         margin:10px auto;
     }
-
+    #design_wrapper{
+        justify-content: center;
+    }
     .design_image{
         width:160px;
         height: 160px;
