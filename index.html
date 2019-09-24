@@ -2,9 +2,10 @@
 <html>
 <head>
     <title>Boon Hock's Portfolio</title>
-    <link href="https://fonts.googleapis.com/css?family=Arimo|Prompt|Oswald&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.3/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="https://fonts.googleapis.com/css?family=Arimo|Prompt|Oswald&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -13,44 +14,52 @@
     </header>
     <div id='main_wrapper'>
         <div id='header'>
-            <div id='header_text'>
-                <div id="header_text_left">
-                    <h1>HELLO. I'M BOON HOCK.</h1>
-                    <h2>I'm a Front-End Developer.</h2>
+            <div id="header_top">
+                <div id='header_text'>
+                    <div id="header_text_left">
+                        <h1><span style="color:grey">HELLO. I'M </span> BOON HOCK</h1>
+                        <h2>{ I'm a Front-End Developer }</h2>
+                    </div>
+                    <div id="header_text_right">
+                        <h4>With 8 years experience in creating 3D visuals. I'm looking forward to work on interactive projects where my graphics experience complements software development.
+                        </h4>
+                    </div>
                 </div>
-                <div id="header_text_right">
-                    <h4>I also have 8 years experience in creating 3D visuals. Looking forward to work on interactive projects where my graphics experience can complement software development.
-                    </h4>
-                </div>
+            </div>
+            <div id="header_bottom">
+                <span><i class='bx bxs-phone' ></i>94305700</span>
+                <span><a href="mailto:hockie2@yahoo.com.sg"><i class='bx bx-mail-send'></i>hockie2@yahoo.com.sg</a></span>
+                <span><a href="http://www.linkedin.com/in/hockie" target="_blank"><i class='bx bxl-linkedin-square'></i>www.linkedin.com/in/hockie</a></span>
+                <span><a href="https://dl.dropboxusercontent.com/s/yxlkdva35vs2tkj/TeoBoonHock_Resume_SEI4.pdf?dl=0" download><i class='bx bxs-file-doc'></i>RESUME</a></span>
             </div>
         </div>
         <div id='content_wrapper'>
             <div id="cards_main_wrapper">
-                <div class="category">Coding Projects</div>
+                <div class="category"><img src="images/fish_icon.png">CODING PROJECTS</div>
                 <div class="cards_wrapper">
                     <div class='card'>
-                        <img src="images/project_01.jpg" class="card_image">
+                        <a href="https://hockie2.github.io/Project_01/" target="_blank"><img src="images/project_01.jpg" class="card_image"></a>
                         <div class="card_text_wrapper">
                             <span>Whack-a-Mole.</span> A simple interactive game. Hit as many moles as possible within a timeframe. Game also designed to fit to mobile resolution.
                             <a href="https://hockie2.github.io/Project_01/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
                         </div>
                     </div>
                     <div class='card'>
-                        <img src="images/project_02.jpg" class="card_image">
+                        <a href="https://powerful-depths-72950.herokuapp.com/" target="_blank"><img src="images/project_02.jpg" class="card_image"></a>
                         <div class="card_text_wrapper">
                             <span>My Dream Home.</span> An interior design site where users can post and share photos of their renovated homes’ designs and details of their contractors. Other users can comment on the posts.
                             <a href="https://powerful-depths-72950.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
                         </div>
                     </div>
                     <div class='card'>
-                        <img src="images/project_03.jpg" class="card_image">
+                        <a href="https://giftssg.herokuapp.com/" target="_blank"><img src="images/project_03.jpg" class="card_image"></a>
                         <div class="card_text_wrapper">
                             <span>GiftsSG.</span> A non-profit site where the public can post unwanted useable items and those from less-privileged homes can reserve the items that they need. When item is reserved, gifter and requestor can communicate to arrange methods of delivery. Upon collection, gifter can mark item as collected.
                             <a href="https://giftssg.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
                         </div>
                     </div>
                     <div class='card'>
-                        <img src="images/project_04.jpg" class="card_image">
+                        <a href="https://snapshotbeginner.herokuapp.com/" target="_blank"><img src="images/project_04.jpg" class="card_image"></a>
                         <div class="card_text_wrapper">
                             <span>SnapShot.</span> A simple photography website to interest beginners with the basics of photography. Users can upload photographs to share with others. This is also a site to showcase my css animation and design.
                             <a href="https://snapshotbeginner.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
@@ -58,16 +67,25 @@
                     </div>
                 </div>
                 <hr>
-                <div class="category">Design & 3D</div>
-                <div class="cards_wrapper">
+                <div class="category"><img src="images/fish_icon.png">DESIGN & 3D &nbsp;
+                    <span id="gallery"><a href="https://www.deviantart.com/hockie/gallery" target="_blank">(VIEW GALLERY)</a></span>
+                </div>
+                <div class="design_cards_wrapper">
                     <div id="design_wrapper">
-                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd024cr-03f586a4-3c96-4b11-899b-2b78be78394a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjRjci0wM2Y1ODZhNC0zYzk2LTRiMTEtODk5Yi0yYjc4YmU3ODM5NGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UID9GsZv4U7UJdoCisvGVopsqeI4SCa6eTzXQpdZBGI" class="design_image">
-                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd0247j-834c1742-c1f0-4d05-bb2f-212eb7fa1592.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_005_by_hockie_dd0247j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyNDdqLTgzNGMxNzQyLWMxZjAtNGQwNS1iYjJmLTIxMmViN2ZhMTU5Mi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.7DVtSRwKynjvNILZEslCAqjMyLhf4dG4jrqY_egqclY" class="design_image">
-                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dalafr1-4d5f8ee8-5cc9-4634-a776-96d6c5c56894.jpg/v1/fill/w_900,h_506,q_75,strp/air_mask_by_hockie_dalafr1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWxhZnIxLTRkNWY4ZWU4LTVjYzktNDYzNC1hNzc2LTk2ZDZjNWM1Njg5NC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TCNrdiY-5w_LfBm6ZpZUWjBlp8CKupPGf06CPtfUeAg" class="design_image">
-                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023sa-0dfd0723-af18-4159-a3be-f262267a8a2c.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_03b_by_hockie_dd023sa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyM3NhLTBkZmQwNzIzLWFmMTgtNDE1OS1hM2JlLWYyNjIyNjdhOGEyYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qVK8zJ8YlxYTF9alNNQi9pQ65UsKUtLlEH5h4Nxrvp8" class="design_image">
-                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023td-956f7410-e73b-41a1-8b39-d5934eb42f59.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjN0ZC05NTZmNzQxMC1lNzNiLTQxYTEtOGIzOS1kNTkzNGViNDJmNTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TM93FFaKqJJQu4INbfeLQGhloyLNFpgNDO1oyGlGXeU" class="design_image">
-                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dakhylv-66dc0abe-015a-4c53-a785-688b48b69dcc.jpg/v1/fill/w_900,h_637,q_75,strp/sats___passion_to_delight_by_hockie_dakhylv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjM3IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWtoeWx2LTY2ZGMwYWJlLTAxNWEtNGM1My1hNzg1LTY4OGI0OGI2OWRjYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._hzIe_MWBcdJF9Gi-mDA0w7NdZuLnWRC1Ga6jE-DPEw" class="design_image">
-                    <p>View More</p>
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd024cr-03f586a4-3c96-4b11-899b-2b78be78394a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjRjci0wM2Y1ODZhNC0zYzk2LTRiMTEtODk5Yi0yYjc4YmU3ODM5NGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UID9GsZv4U7UJdoCisvGVopsqeI4SCa6eTzXQpdZBGI" class="design_image" style="cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd0247j-834c1742-c1f0-4d05-bb2f-212eb7fa1592.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_005_by_hockie_dd0247j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyNDdqLTgzNGMxNzQyLWMxZjAtNGQwNS1iYjJmLTIxMmViN2ZhMTU5Mi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.7DVtSRwKynjvNILZEslCAqjMyLhf4dG4jrqY_egqclY" class="design_image" style="cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dalafr1-4d5f8ee8-5cc9-4634-a776-96d6c5c56894.jpg/v1/fill/w_900,h_506,q_75,strp/air_mask_by_hockie_dalafr1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWxhZnIxLTRkNWY4ZWU4LTVjYzktNDYzNC1hNzc2LTk2ZDZjNWM1Njg5NC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TCNrdiY-5w_LfBm6ZpZUWjBlp8CKupPGf06CPtfUeAg" class="design_image" style="cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023sa-0dfd0723-af18-4159-a3be-f262267a8a2c.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_03b_by_hockie_dd023sa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyM3NhLTBkZmQwNzIzLWFmMTgtNDE1OS1hM2JlLWYyNjIyNjdhOGEyYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qVK8zJ8YlxYTF9alNNQi9pQ65UsKUtLlEH5h4Nxrvp8" class="design_image" style="cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023td-956f7410-e73b-41a1-8b39-d5934eb42f59.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjN0ZC05NTZmNzQxMC1lNzNiLTQxYTEtOGIzOS1kNTkzNGViNDJmNTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TM93FFaKqJJQu4INbfeLQGhloyLNFpgNDO1oyGlGXeU" class="design_image" style="cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dakhylv-66dc0abe-015a-4c53-a785-688b48b69dcc.jpg/v1/fill/w_900,h_637,q_75,strp/sats___passion_to_delight_by_hockie_dakhylv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjM3IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWtoeWx2LTY2ZGMwYWJlLTAxNWEtNGM1My1hNzg1LTY4OGI0OGI2OWRjYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._hzIe_MWBcdJF9Gi-mDA0w7NdZuLnWRC1Ga6jE-DPEw" class="design_image" style="cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/d2n6kr5-2b5297a9-30f4-4756-a198-e57aaf2b2f36.jpg/v1/fill/w_400,h_600,q_75,strp/rhino_protective_gears_by_hockie_d2n6kr5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kMm42a3I1LTJiNTI5N2E5LTMwZjQtNDc1Ni1hMTk4LWU1N2FhZjJiMmYzNi5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.72O-OqjRZYDRX9EqpPQPwSptox48C_R2RnT6trhx02g" class="design_image" style="cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+
+                    </div>
+                    <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+                      <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+                      <div class="w3-modal-content w3-animate-zoom" style="background-color: rgba(0,0,0,0);display: flex; justify-content: center">
+                        <img id="img01" style="height:80vh; object-fit:contain;">
+                      </div>
                     </div>
                 </div>
             </div>
@@ -77,7 +95,11 @@
     <footer>
         <img src="images/footer.jpg">
     </footer>
-
-
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
 </body>
 </html>

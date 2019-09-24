@@ -19,53 +19,100 @@ header img{
 }
 
 #main_wrapper{
-    /*width:100%;*/
-    /*border:1px solid green;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /*-----HEADER STARTS----------------------------------------------------------------*/
 #header{
     /*width:100%;*/
-    min-height:200px;
+    min-height:400px;
     background-image: url('images/header_bkgrd.jpg');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center bottom;
     /*border:1px solid red;*/
     color: #4a4a4a;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 1.8em;
+}
+
+#header_top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header_bottom{
+    width: 50vw;
+    height: 50px;
+    text-align: center;
+    margin: 20px auto;
+    font-family: 'Arimo', sans-serif;
+    color: grey;
+    display: flex;
+    justify-content: space-around;
+    /*border:1px solid red;*/
+}
+#header_bottom span{
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+}
+#header_bottom i{
+    font-size: 1.5em;
+}
+#header_bottom a{
+    display: flex;
+    align-items: center;
+    color: grey;
+    text-decoration: none;
+    padding: 5px;
+
+
+}
+#header_bottom a:hover{
+    color:white;
+    background-color: orange;
+    border-radius: 10px;
 }
 
 #header_text{
-    width:80%;
+    width:90%;
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    /*border:1px solid red;*/
 }
 
 #header_text_left{
-    width:60%;
+    width:65%;
     display:flex;
     flex-direction: column;
     justify-content: center;
     text-align: right;
-    padding-right: 30px;
+    margin-right: 15px;
+    /*border:1px solid red;*/
 }
 
 #header_text_right{
-    width:40%;
+    width:35%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    font-size: .7em;
-    font-family: 'Arimo', sans-serif;
+    margin-left: 15px;
+    /*color: orange;*/
+
 }
 
 h1{
     font-family: 'Prompt', sans-serif;
+    font-size: 5em;
+    font-weight: bold;
     margin:0;
     padding:0;
     line-height: 1.1;
@@ -74,33 +121,56 @@ h1{
 h2{
     margin: 0;
     font-family: 'Arimo', sans-serif;
-    font-size: .9em;
+    font-size: 2em;
     color: #5ac4c5;
+}
 
+h4{
+    /*font-size: .9em;*/
+    font-family: 'Arimo', sans-serif;
+    font-style: italic;
 }
 
 /*-----HEADER ENDS----------------------------------------------------------------*/
 /*-----CONTENT STARTS----------------------------------------------------------------*/
 
 #content_wrapper{
+    width:95%;
     min-height: 700px;
     background-color: #e8e8e8;
     padding: 20px;
-    margin:0 15px 100px 15px;
+    margin:0 5px 100px 5px;
     display: flex;
     flex-direction: column;
     align-items: center;
     border-radius: 20px;
+    /*border:1px red solid;*/
 }
 
 .category{
     font-family: 'Oswald', sans-serif;
-    font-size: 1.6em;
+    font-size: 2em;
     color: #4a4a4a;
     display: flex;
     align-self: flex-start;
+    align-items: center;
+    /*margin-right: 40px;*/
     /*margin-top: 20px ;*/
     /*border:1px solid red;*/
+}
+.category img{
+    width:50px;
+    margin-right: 20px
+}
+.category a{
+    font-family: 'Oswald', sans-serif;
+    font-size: .7em;
+    text-decoration: none;
+    color: #438e8c;
+}
+
+.category a:hover{
+    color: orange
 }
 
 hr{
@@ -112,24 +182,27 @@ hr{
 }
 
 #cards_main_wrapper{
-    width:90%;
+    width:100%;
     min-height: 300px;
     /*border:1px solid red;*/
     display: flex;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 
 .cards_wrapper{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: flex-start;
+    flex-wrap: wrap;
     /*border:1px solid red;*/
     margin-top: 10px
 }
 
 .card{
-    width:300px;
+    width:340px;
     min-height:400px;
+    margin:5px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -143,22 +216,14 @@ hr{
     height:200px;
     /*background-color: pink;*/
     object-fit: cover;
+    transition: .8s;
+    /*position: relative;*/
 }
 
-/*#design_wrapper{
-    position: relative;
-}*/
-
-.design_image{
-    width:200px;
-    height:200px;
-    object-fit: cover;
-    transition:1s;
-}
-
-.design_image:hover{
-    object-fit: cover;
-    transform: scale(1.1);
+.card_image:hover{
+    box-shadow: 0 0 20px grey;
+    border:2px solid white;
+    transform: scale(1.05);
 }
 
 .card_text_wrapper{
@@ -199,6 +264,41 @@ hr{
     padding-right: 5px;
 }
 
+/*-----DESIGN CARD STARTS----------------------------------------------------------------*/
+
+.design_cards_wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+#design_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.design_image{
+    width:185px;
+    height:185px;
+    object-fit: cover;
+    transition:.9s;
+    margin:5px;
+}
+
+.design_image:hover{
+    object-fit: cover;
+    box-shadow: 0 0 20px grey;
+    border:2px solid white;
+    transform: scale(1.1);
+}
+
+#gallery{
+    font-family: 'Arimo', sans-serif;
+
+}
+
+/*-----DESIGN CARD ENDS----------------------------------------------------------------*/
 /*-----CONTENT ENDS----------------------------------------------------------------*/
 
 footer{
@@ -209,7 +309,7 @@ footer{
     /*border:0;*/
     /*position: absolute;*/
     /*border:1px solid green;*/
-    background-color: red;
+    background-color: #5ac4c5;
 /*    position: absolute;
     bottom: 0;*/
 }
