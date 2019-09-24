@@ -61,6 +61,7 @@ header img{
     margin: 0 10px;
     display: flex;
     align-items: center;
+    font-size: 1.3em;
 }
 #header_bottom i{
     font-size: 1.5em;
@@ -126,7 +127,7 @@ h2{
 }
 
 h4{
-    /*font-size: .9em;*/
+    /*font-size: 1.3em;*/
     font-family: 'Arimo', sans-serif;
     font-style: italic;
 }
@@ -200,8 +201,8 @@ hr{
 }
 
 .card{
-    width:340px;
-    min-height:400px;
+    width:24%;
+    min-height:410px;
     margin:5px;
     background-color: white;
     display: flex;
@@ -230,7 +231,7 @@ hr{
     padding: 10px;
     font-family: 'Arimo', sans-serif;
     color:grey;
-    font-size: .8em;
+    font-size: 1em;
     /*border:1px solid red;*/
 }
 
@@ -352,7 +353,14 @@ footer img{
 /*------------------------------------------------------------------------------------------------------------------------*/
 /*  ##Device = Tablets, Ipads (portrait)  ##Screen = B/w 768px to 1024px */
 @media (min-width: 768px) and (max-width: 1024px) {
+    #header_bottom{
+        width: 90%;
+        flex-wrap: wrap;
+    }
 
+    #header_bottom span{
+        font-size: 1.2em;
+    }
     h1{
         font-size: 4.6em;
     }
@@ -381,7 +389,9 @@ footer img{
     h1{
         font-size:4.6em;
     }
-
+    #header_bottom span{
+        font-size: 1em;
+    }
     #content_wrapper{
         margin-bottom: 20px;
     }
@@ -427,7 +437,9 @@ footer img{
         width:90%;
         flex-wrap: wrap;
     }
-
+    #header_bottom span{
+        font-size: 1em;
+    }
     #content_wrapper{
         margin-bottom: 20px;
     }
@@ -477,9 +489,13 @@ footer img{
     }
     #header_bottom{
         width:100%;
+        min-height: 100px;
         flex-wrap: wrap;
     }
-
+    #header_bottom span{
+        font-size: 1em;
+        /*border:1px red solid;*/
+    }
     h1{
         font-size: 3.4em;
         text-align: center;
@@ -514,6 +530,10 @@ footer img{
     .cards_wrapper{
         justify-content: center;
     }
+    .card{
+        width:100%;
+        min-height: 430px;
+    }
     .card_text_wrapper{
         font-size: 1em;
     }
@@ -525,8 +545,8 @@ footer img{
         justify-content: center;
     }
     .design_image{
-        width:160px;
-        height: 160px;
+        width:142px;
+        height: 142px;
     }
 
     #img01{
