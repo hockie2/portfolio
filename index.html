@@ -33,7 +33,7 @@
                         <h2>{ I'm a Front-End Developer }</h2>
                     </div>
                     <div id="header_text_right">
-                        <h4>With 8 years experience in creating 3D visuals. I'm looking forward to work on interactive projects where my graphics experience complements software development.
+                        <h4>With <span id="number"></span> years experience in creating 3D visuals. I'm looking forward to work on interactive projects where my graphics experience complements software development.
                         </h4>
                     </div>
                 </div>
@@ -140,6 +140,16 @@
             event.preventDefault();
             $(this).ekkoLightbox();
         });
+    </script>
+
+    <script>
+        const startYear = 2024;
+        const startNumber = 17;
+        const currentYear = new Date().getFullYear();
+        const increment = currentYear - startYear;
+        const number = startNumber + increment;
+
+        document.getElementById('number').textContent = number;
     </script>
 </body>
 </html>
