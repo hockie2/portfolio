@@ -272,7 +272,8 @@ hr{
     flex-direction: column;
 }
 
-#design_wrapper{
+#design_wrapper,
+#animations_wrapper{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -297,6 +298,13 @@ hr{
 #gallery{
     font-family: 'Arimo', sans-serif;
 
+}
+
+#animations_wrapper video,
+#animations_wrapper img {
+	width: auto;
+	height: auto;
+	max-height: 250px;
 }
 
 /*-----DESIGN CARD ENDS----------------------------------------------------------------*/
