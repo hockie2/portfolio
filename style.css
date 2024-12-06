@@ -302,8 +302,6 @@ hr{
 
 #animations_wrapper video,
 #animations_wrapper img {
-	width: auto;
-	height: auto;
 	max-height: 250px;
 }
 
