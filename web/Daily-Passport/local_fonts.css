@@ -1,0 +1,150 @@
+/* CSS Document */
+
+/* M1 server Font */
+
+@font-face {
+    font-family: 'DINRoundOT-Medium';
+    src: url('fonts/DINRoundOT-Medium.eot');
+    src: url('fonts/DINRoundOT-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DINRoundOT-Medium.woff2') format('woff2'),
+        url('fonts/DINRoundOT-Medium.woff') format('woff'),
+        url('fonts/DINRoundOT-Medium.ttf') format('truetype'),
+        url('fonts/DINRoundOT-Medium.svg#DINRoundOT-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINRoundOT-Bold';
+    src: url('fonts/DINRoundOT-Bold.eot');
+    src: url('fonts/DINRoundOT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DINRoundOT-Bold.woff2') format('woff2'),
+        url('fonts/DINRoundOT-Bold.woff') format('woff'),
+        url('fonts/DINRoundOT-Bold.ttf') format('truetype'),
+        url('fonts/DINRoundOT-Bold.svg#DINRoundOT-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINRoundOT-Regular';
+    src: url('fonts/DINRoundOT.eot');
+    src: url('fonts/DINRoundOT.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DINRoundOT.woff2') format('woff2'),
+        url('fonts/DINRoundOT.woff') format('woff'),
+        url('fonts/DINRoundOT.ttf') format('truetype'),
+        url('fonts/DINRoundOT.svg#DINRoundOT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/*
+@font-face {
+  font-family: 'DIN-Regular';
+  font-weight: normal;
+  font-style: normal;
+  src: url('fonts/DIN-Regular/DIN-Regular-eot.eot?#iefix') format('embedded-opentype'),
+       url('fonts/DIN-Regular/DIN-Regular-woff.woff') format('woff'),
+       url('fonts/DIN-Regular/DIN-Regular-ttf.ttf')  format('truetype'),
+       url('fonts/DIN-Regular/DIN-Regular-svg.svg#DIN-Regular') format('svg');
+}
+   
+@font-face {
+  font-family: 'DIN-Medium';
+  font-weight: normal;
+  font-style: normal;
+  src: url('fonts/DIN-Medium/DIN-Medium-eot.eot?#iefix') format('embedded-opentype'),
+       url('fonts/DIN-Medium/DIN-Medium-woff.woff') format('woff'),
+       url('fonts/DIN-Medium/DIN-Medium-ttf.ttf')  format('truetype'),
+       url('fonts/DIN-Medium/DIN-Medium-svg.svg#DIN-Medium') format('svg');
+}  
+    
+@font-face {
+  font-family: 'DIN-Bold';
+  font-weight: normal;
+  font-style: normal;
+  src: url('fonts/DIN-Bold/DIN-Bold-eot.eot?#iefix') format('embedded-opentype'),
+       url('fonts/DIN-Bold/DIN-Bold-woff.woff') format('woff'),
+       url('fonts/DIN-Bold/DIN-Bold-ttf.ttf')  format('truetype'),
+       url('fonts/DIN-Bold/DIN-Bold-svg.svg#DIN-Medium') format('svg');
+}
+
+
+@font-face {
+  font-family: 'DIN-Pro-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/DINPro-Regular/DINPro-Regular-eot.eot?#iefix') format('embedded-opentype'),
+       url('fonts/DINPro-Regular/DINPro-Regular-otf.otf')  format('opentype'),
+       url('fonts/DINPro-Regular/DINPro-Regular-woff.woff') format('woff'),
+       url('fonts/DINPro-Regular/DINPro-Regular-ttf.ttf')  format('truetype'),
+       url('fonts/DINPro-Regular/DINPro-Regular-svg.svg#DINPro-Regular') format('svg'); 
+}
+
+
+@font-face {
+    font-family: 'DINRoundPro-Black';
+    src: url('fonts/DIN-Round/DINRoundPro-Black-eot.eot');
+    src: local('fonts/DIN-Round/DINRoundPro-Black'),
+        url('fonts/DIN-Round/DINRoundPro-Black-eot.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DIN-Round/DINRoundPro-Black-woff2.woff2') format('woff2'),
+        url('fonts/DIN-Round/DINRoundPro-Black-woff.woff') format('woff'),
+        url('fonts/DIN-Round/DINRoundPro-Black-tff.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro-Medium';
+    src: url('fonts/DIN-Round/DINRoundPro-Medim-eot.eot');
+    src: local('fonts/DIN-Round/DINRoundPro-Medim'),
+        url('fonts/DIN-Round/DINRoundPro-Medim-eot.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DIN-Round/DINRoundPro-Medim-woff2.woff2') format('woff2'),
+        url('fonts/DIN-Round/DINRoundPro-Medim-woff.woff') format('woff'),
+        url('fonts/DIN-Round/DINRoundPro-Medim-tff.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro-Light';
+    src: url('fonts/DIN-Round/DINRoundPro-Light-eot.eot');
+    src: local('fonts/DIN-Round/DINRoundPro-Light'),
+        url('fonts/DIN-Round/DINRoundPro-Light-eot.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DIN-Round/DINRoundPro-Light-woff2.woff2') format('woff2'),
+        url('fonts/DIN-Round/DINRoundPro-Light-woff.woff') format('woff'),
+        url('fonts/DIN-Round/DINRoundPro-Light-tff.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro-Regular';
+    src: url('fonts/DIN-Round/DINRoundPro-regular-eot.eot');
+    src: local('fonts/DIN-Round/DINRoundPro-regular'),
+        url('fonts/DIN-Round/DINRoundPro-regular-eot.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DIN-Round/DINRoundPro-regular-woff2.woff2') format('woff2'),
+        url('fonts/DIN-Round/DINRoundPro-regular-woff.woff') format('woff'),
+        url('fonts/DIN-Round/DINRoundPro-regular-tff.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINRoundPro-Bold';
+    src: url('fonts/DIN-Round/DINRoundPro-Bold-eot.eot');
+    src: local('fonts/DIN-Round/DINRoundPro-Bold'),
+        url('fonts/DIN-Round/DINRoundPro-Bold-eot.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DIN-Round/DINRoundPro-Bold-woff2.woff2') format('woff2'),
+        url('fonts/DIN-Round/DINRoundPro-Bold-woff.woff') format('woff'),
+        url('fonts/DIN-Round/DINRoundPro-Bold-tff.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+*/
+
+

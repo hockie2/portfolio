@@ -1,195 +1,463 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Boon Hock's Portfolio</title>
-    <meta name="viewport" content= "width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.3/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <link href="ekko-lightbox.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Arimo|Prompt|Oswald&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/header-style.css">
+    <link rel="stylesheet" type="text/css" href="css/web-style.css">
+    <link rel="stylesheet" type="text/css" href="css/animation-style.css">
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149280140-1"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-      gtag('config', 'UA-149280140-1');
+        gtag('config', 'UA-149280140-1');
     </script>
 
 </head>
+
 <body>
-    <header>
-        <img src="images/header.jpg">
+    <header id='header' class="container-fluid px-0">
+        <div class="row no-gutters">
+            <div class="col">
+                <div class="img-fluid"><img src="images/header.png" alt="header-top" class="img-fluid"></div>
+            </div>
+        </div>
+        <div id='header_text' class="row no-gutters px-3 py-5">
+            <!-- Left Header-->
+            <div id="header_text_left" class="col-12 col-md-6 text-md-right pr-3">
+                <h1><span style="color:grey">TEO</span> BOON HOCK</h1>
+                <h2>Visual & Interactive Designer</h2>
+            </div>
+
+            <!-- Right Header -->
+            <div id="header_text_right" class="col-12 col-md-6">
+                <div class="row no-gutters flex-column justify-content-around h-100">
+                    <div id="description" class="col d-flex align-items-center">
+                        I create impactful visuals by blending graphics, animation, and digital design. With
+                        experience in 3D animation and event graphics, I bring creativity and technical expertise to
+                        my work. After completing a software engineering bootcamp, I expanded my skills to include
+                        web development.
+                    </div>
+                    <div id="header_bottom" class="col-auto">
+                        <span><a href="mailto:hockie2@yahoo.com.sg" title="hockie2@yahoo.com.sg"><i
+                                    class='bx bx-mail-send'></i></a></span>
+                        <span><a href="http://www.linkedin.com/in/hockie" title="www.linkedin.com/in/hockie"
+                                target="_blank"><i class='bx bxl-linkedin-square'></i></a></span>
+                        <span><a href="tel:94305700"><i class='bx bxs-phone'></i>+65 94305700</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </header>
-    <div id='main_wrapper'>
-        <div id='header' class="container-fluid">
-            <div id="header_top" class="container">
-                <div id='header_text' class="row">
-                    <div id="header_text_left" class="col-12 col-md-6">
-                        <h1><span style="color:grey">HELLO. I'M </span> BOON HOCK</h1>
-                        <h2>Graphics | 3D | Fullstack Developer</h2>
+
+    <section>
+        <div class="container-fluid px-0 px-sm-3">
+            <div class="container px-0">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="web-tab" data-toggle="tab" data-target="#web" type="button"
+                            role="tab" aria-controls="web" aria-selected="true">Web • UI</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="profile-tab" data-toggle="tab" data-target="#animation"
+                            type="button" role="tab" aria-controls="animation" aria-selected="false">Animation</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="graphics-tab" data-toggle="tab" data-target="#graphics"
+                            type="button" role="tab" aria-controls="graphics" aria-selected="false">Graphics •
+                            3D</button>
+                    </li>
+                </ul>
+            </div>
+
+
+            <div class="tab-content mb-5" id="myTabContent">
+
+                <!---------------------------WEB--------------------------->
+                <div class="tab-pane fade show active" id="web" role="tabpanel" aria-labelledby="web-tab">
+                    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 cards_wrapper pane-wrapper">
+                        <!-- <div class='card'>
+                            <a href="https://burgerbuilder2.herokuapp.com/" target="_blank"><img src="images/burger_builder.jpg" class="card_image"></a>
+                            <div class="card_text_wrapper">
+                                <span>Burger Builder</span> (Work in progress..) Build your burger and make your order.
+                                <a href="https://burgerbuilder2.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
+                            </div>
+                        </div> -->
+                        <div class='col card'>
+                            <a href="https://hockie2.github.io/picoed2/" target="_blank"><img
+                                    src="images/web/financial_calculator.jpg" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper card-body">
+                                <span>Retirement Calculator&nbsp;</span>An interactive tool that helps you to determine
+                                if your retirement goal is achievable.
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">react</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <a href="https://hockie2.github.io/Project_01/" target="_blank"><img
+                                    src="images/web/project_01.jpg" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper card-body">
+                                <span>Whack-a-Mole&nbsp;</span>A simple interactive game. Hit as many moles as possible
+                                within a timeframe. Game also designed to fit to mobile resolution.
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">html</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                            </div>
+                        </div>
+                        <!--          <div class='card'>
+                            <a href="https://powerful-depths-72950.herokuapp.com/" target="_blank"><img src="images/web/project_02.jpg" class="card_image"></a>
+                            <div class="card_text_wrapper">
+                                <span>My Dream Home.</span> An interior design site where users can post and share photos of their renovated homes’ designs and details of their contractors. Other users can comment on the posts.
+                                <a href="https://powerful-depths-72950.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
+                            </div>
+                        </div> -->
+                        <!--  <div class='card'>
+                            <a href="https://giftssg.herokuapp.com/" target="_blank"><img src="images/web/project_03.jpg" class="card_image"></a>
+                            <div class="card_text_wrapper">
+                                <span>GiftsSG.</span> A non-profit site where the public can post unwanted useable items and those from less-privileged homes can reserve the items that they need. When item is reserved, gifter and requestor can communicate to arrange methods of delivery. Upon collection, gifter can mark item as collected.
+                                <a href="https://giftssg.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
+                            </div>
+                        </div> -->
+                        <!-- <div class='col card'>
+                            <a href="https://snapshot2.onrender.com/" target="_blank"><img
+                                    src="images/web/project_04.jpg" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>SnapShot&nbsp;</span>A simple photography website to interest beginners with the
+                                basics of photography. Users can upload photographs to share with others.
+                            </div>
+                        </div> -->
+                        <div class='col card'>
+                            <a href="https://ist2024.sg/" target="_blank"><img src="images/web/banner2.jpg"
+                                    class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>22<sup>nd</sup>World Congress of The International Society on
+                                    Toxinology&nbsp;</span>NUS conference
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">php</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                                <span class="badge badge-info">phpMyAdmin</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <a href="https://apte2024.sg/" target="_blank"><img src="images/web/banner.jpg"
+                                    class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>13<sup>th</sup>Asia-Pacific Conference on Transportation and the
+                                    Environment&nbsp;</span>NUS conference
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">php</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <!-- <a href="" data-toggle="modal" data-target="#cashbackxmas"><img
+                                    src="images/web/cashback-xmas.png" class="card_image img-fluid"></a> -->
+                            <a href="web/Cashback-Xmas2/cashback_xmas_01.html" target="myTab"><img
+                                    src="images/web/cashback-xmas.png" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>Cashback Xmas&nbsp;</span>M1 edm
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">html</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <a href="web/Christmas-Gamification-EDM2/launch_edm_01.html" target="myTab"><img
+                                    src="images/web/christmas-gamification.png" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>Christmas Gamification&nbsp;</span>M1 edm
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">html</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <a href="web/Daily-Passport/esim_highdata.html" target="myTab"><img
+                                    src="images/web/daily-passport.png" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>Daily Passport&nbsp;</span>M1 edm
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">html</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <a href="web/Stamping-Reward/stamping_01.html" target="myTab"><img
+                                    src="images/web/stamping.png" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>Stamping&nbsp;</span>M1 edm
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">html</span>
+                                <span class="badge badge-info">css</span>
+                                <span class="badge badge-info">javascript</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <a href="web/geneco-fiesta_Page_01.jpg" data-toggle="modal" data-target="#fivesta"><img
+                                    src="images/web/fivesta.jpg" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>Geneco FiveSta&nbsp;</span>Webpage layout
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">illustrator</span>
+                            </div>
+                        </div>
+                        <div class='col card'>
+                            <a href="web/powersavings_Page_1.jpg" data-toggle="modal" data-target="#powersavings"><img
+                                    src="images/web/powersavings.jpg" class="card_image img-fluid"></a>
+                            <div class="card_text_wrapper">
+                                <span>Geneco FiveSta&nbsp;</span>Webpage layout
+                            </div>
+                            <div class="card-footer">
+                                <span class="badge badge-info">illustrator</span>
+                            </div>
+                        </div>
                     </div>
-                    <div id="header_text_right" class="col-12 col-md-6">
-                        <h4>With <span id="number"></span> years experience in creating 3D visuals. I'm looking forward to work on interactive projects where my graphics experience complements software development.
-                        </h4>
+
+                </div>
+
+                <!-- Web Modals -->
+                <div w3-include-html="modals.html"></div>
+
+                <!------------------------Animation------------------------>
+                <div class="tab-pane fade" id="animation" role="tabpanel" aria-labelledby="animation-tab">
+                    <div class="row no-gutters pane-wrapper">
+                        <div class="card-columns">
+                            <div class="card">
+                                <video controls autoplay muted loop class="img-fluid">
+                                    <source src="images/animation/beat_gst_01.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                            <div class="card">
+                                <video controls autoplay muted loop class="img-fluid">
+                                    <source src="images/animation/footer_01.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                            <div class="card">
+                                <img src="images/animation/animation_01c_small.gif" alt="" class="img-fluid">
+                            </div>
+                            <div class="card">
+                                <img src="images/animation/cons_01.gif" alt="" class="img-fluid">
+                            </div>
+                            <div class="card">
+                                <video controls autoplay muted loop class="img-fluid">
+                                    <source src="images/animation/m1-juicydeals.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                            <div class="card">
+                                <img src="images/animation/web_banner_1440x671_04.gif" alt="" class="img-fluid">
+                            </div>
+                            <div class='card'>
+                                <a href="https://www.youtube.com/watch?v=6SMSQRhjzr8" target="myTab"><img
+                                        src="images/animation/hp-happyboss_upscayl_1x_upscayl-standard-4x.png"
+                                        class="card_image img-fluid">
+                            </div></a>
+
+                        </div>
+                        <div class="w-100 text-center">
+                            <a class="btn btn-info btn-lg" href="https://youtube.com/@hockie3?si=tdh87ZoVHWlAD2aX"
+                                role="button" target="myTab">View more</a>
+                        </div>
+                    </div>
+
+
+
+                    <!-- <div class="cards_wrapper" id="animations_wrapper">
+                        <video controls autoplay muted loop class="p-3 img-fluid">
+                            <source src="images/beat_gst_01.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+
+                        <video controls autoplay muted loop class="p-3 img-fluid">
+                            <source src="images/footer_01.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+
+                        <img src="images/animation_01c_small.gif" alt="" class="p-3 img-fluid">
+
+                        <img src="images/cons_01.gif" alt="" class="p-3 img-fluid">
+                        <span id="gallery"><a href="https://www.youtube.com/@hockie3/videos" target="_blank">(click here
+                                for
+                                more..)</a></span>
+                    </div> -->
+                </div>
+
+
+                <!------------------------3D------------------------>
+                <div class="tab-pane fade" id="graphics" role="tabpanel" aria-labelledby="graphics-tab">
+                    <div class="row no-gutters pane-wrapper">
+                        <h2 class="mb-2"><span class="badge badge-secondary badge-info">3D Renderings</span></h2>
+                        <div class="card-columns">
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#bugis">
+                                    <img src="images/graphics3d/bugis_floorplan_boothonly_FA.jpg"
+                                        class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#careerfair">
+                                    <img src="images/graphics3d/FCA_Career Fair_floorplan_V2_01.jpg"
+                                        class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#smarthome">
+                                    <img src="images/graphics3d/FCA_SmartHome_floorplan_V1_01.jpg"
+                                        class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#unlock">
+                                    <img src="images/graphics3d/FCA_Unlock Tomorrows Potential_V1_01.jpg"
+                                        class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <img src="images/graphics3d/image03.jpg" class="img-fluid design_image">
+                            </div>
+                            <div class="card">
+                                <img src="images/graphics3d/image05.jpg" class="img-fluid design_image">
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#happyboss2">
+                                    <img src="images/graphics3d/hp-happyboss-item1.png" class="img-fluid design_image">
+                                </a>
+                            </div>
+
+                        </div>
+                        <div class="w-100 text-center">
+                            <a class="btn btn-info btn-lg" href="https://www.deviantart.com/hockie/gallery/57219667/3d"
+                                role="button" target="myTab">View more</a>
+                        </div>
+                    </div>
+
+                    <div class="row no-gutters pane-wrapper">
+                        <h2 class="mb-2"><span class="badge badge-secondary badge-info">Graphics</span></h2>
+                        <div class="card-columns">
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#passion">
+                                    <img src="images/graphics3d/image06.jpg" class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#rhino">
+                                    <img src="images/graphics3d/image07a.png" class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#quiet">
+                                    <img src="images/graphics3d/Portfolio_02_Page_3.jpg" class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#fivesta2">
+                                    <img src="images/graphics3d/fivesta/fivesta-thumb.jpg"
+                                        class="img-fluid design_image">
+                                </a>
+                            </div>
+                            <div class="card">
+                                <a href="#" data-toggle="modal" data-target="#juicydeals">
+                                    <img src="images/graphics3d/juicydeals.jpg" class="img-fluid design_image">
+                                </a>
+                            </div>
+
+                        </div>
+                        <div class="w-100 text-center">
+                            <a class="btn btn-info btn-lg" href="https://www.deviantart.com/hockie/gallery"
+                                role="button" target="myTab">View more</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div id="header_bottom">
-                <span><i class='bx bxs-phone' ></i>94305700</span>
-                <span><a href="mailto:hockie2@yahoo.com.sg"><i class='bx bx-mail-send'></i>hockie2@yahoo.com.sg</a></span>
-                <span><a href="http://www.linkedin.com/in/hockie" target="_blank"><i class='bx bxl-linkedin-square'></i>www.linkedin.com/in/hockie</a></span>
-                <!-- <span><a href="https://dl.dropboxusercontent.com/s/jqfjkhhg93cc2vd/TeoBoonHock_Resume_Software.pdf?dl=0" download><i class='bx bxs-file-doc'></i>RESUME</a></span> -->
+
             </div>
         </div>
-        <div id='content_wrapper'>
-            <div id="cards_main_wrapper">
-				
-				<!--/////////////////////CODING/////////////////////-->
-                <div class="category"><img src="images/fish_icon.png">CODING PROJECTS</div>
-                <div class="cards_wrapper">
-                    <!-- <div class='card'>
-                        <a href="https://burgerbuilder2.herokuapp.com/" target="_blank"><img src="images/burger_builder.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>Burger Builder</span> (Work in progress..) Build your burger and make your order.
-                            <a href="https://burgerbuilder2.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div> -->
-                     <div class='card'>
-                        <a href="https://hockie2.github.io/picoed2/" target="_blank"><img src="images/financial_calculator.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>Retirement Calculator</span> An interactive tool that helps you to determine if your retirement goal is achievable.
-                            <a href="https://hockie2.github.io/picoed2/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div>
-                    <div class='card'>
-                        <a href="https://hockie2.github.io/Project_01/" target="_blank"><img src="images/project_01.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>Whack-a-Mole.</span> A simple interactive game. Hit as many moles as possible within a timeframe. Game also designed to fit to mobile resolution.
-                            <a href="https://hockie2.github.io/Project_01/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div>
-           <!--          <div class='card'>
-                        <a href="https://powerful-depths-72950.herokuapp.com/" target="_blank"><img src="images/project_02.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>My Dream Home.</span> An interior design site where users can post and share photos of their renovated homes’ designs and details of their contractors. Other users can comment on the posts.
-                            <a href="https://powerful-depths-72950.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div> -->
-                   <!--  <div class='card'>
-                        <a href="https://giftssg.herokuapp.com/" target="_blank"><img src="images/project_03.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>GiftsSG.</span> A non-profit site where the public can post unwanted useable items and those from less-privileged homes can reserve the items that they need. When item is reserved, gifter and requestor can communicate to arrange methods of delivery. Upon collection, gifter can mark item as collected.
-                            <a href="https://giftssg.herokuapp.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div> -->
-                    <div class='card'>
-                        <a href="https://snapshot2.onrender.com/" target="_blank"><img src="images/project_04.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>SnapShot.</span> A simple photography website to interest beginners with the basics of photography. Users can upload photographs to share with others.
-                            <a href="https://snapshot2.onrender.com/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div>
-                    <div class='card'>
-                        <a href="https://ist2024.sg/" target="_blank"><img src="images/banner2.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>22nd World Congress of The International Society on Toxinology</span> NUS conference
-                            <a href="https://ist2024.sg/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div>
-                    <div class='card'>
-                        <a href="https://apte2024.sg/" target="_blank"><img src="images/banner.jpg" class="card_image"></a>
-                        <div class="card_text_wrapper">
-                            <span>13th Asia-Pacific Conference on Transportation and the Environment</span> NUS conference
-                            <a href="https://apte2024.sg/" target="_blank"><i class='bx bxs-caret-right-circle' style="font-size: 1.3em"></i>WEBSITE</a>
-                        </div>
-                    </div>
-                </div>
-				
-                <hr>
-				
-				<!--/////////////////////ANIMATIONS/////////////////////-->
-				<div class="category"><img src="images/fish_icon.png">ANIMATIONS &nbsp;
-                    <span id="gallery"><a href="https://www.youtube.com/@hockie3/videos" target="_blank">(click here for more..)</a></span></div>
-                <div class="cards_wrapper" id="animations_wrapper">
-                     <video controls autoplay muted loop class="p-3 img-fluid">
-					  <source src="images/beat_gst_01.mp4" type="video/mp4">
-					  Your browser does not support the video tag.
-					</video>
-					
-					<video controls autoplay muted loop class="p-3 img-fluid">
-					  <source src="images/footer_01.mp4" type="video/mp4">
-					  Your browser does not support the video tag.
-					</video>
-					
-					<img src="images/animation_01c_small.gif" alt="" class="p-3 img-fluid">
-					
-					<img src="images/cons_01.gif" alt="" class="p-3 img-fluid">
-					
-                </div>
-				
-                <hr>
-				<!--/////////////////////DESIGN 3D/////////////////////-->
-                <div class="category"><img src="images/fish_icon.png">DESIGN & 3D &nbsp;
-                    <span id="gallery"><a href="https://www.deviantart.com/hockie/gallery" target="_blank">(click here for more..)</a></span>
-                </div>
-                <div class="design_cards_wrapper">
-                    <div id="design_wrapper">
-                        <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd024cr-03f586a4-3c96-4b11-899b-2b78be78394a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjRjci0wM2Y1ODZhNC0zYzk2LTRiMTEtODk5Yi0yYjc4YmU3ODM5NGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UID9GsZv4U7UJdoCisvGVopsqeI4SCa6eTzXQpdZBGI" data-toggle="lightbox" data-gallery="example-gallery">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd024cr-03f586a4-3c96-4b11-899b-2b78be78394a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjRjci0wM2Y1ODZhNC0zYzk2LTRiMTEtODk5Yi0yYjc4YmU3ODM5NGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UID9GsZv4U7UJdoCisvGVopsqeI4SCa6eTzXQpdZBGI" class="img-fluid design_image">
-                        </a>
-                        <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd0247j-834c1742-c1f0-4d05-bb2f-212eb7fa1592.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_005_by_hockie_dd0247j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyNDdqLTgzNGMxNzQyLWMxZjAtNGQwNS1iYjJmLTIxMmViN2ZhMTU5Mi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.7DVtSRwKynjvNILZEslCAqjMyLhf4dG4jrqY_egqclY" data-toggle="lightbox" data-gallery="example-gallery">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd0247j-834c1742-c1f0-4d05-bb2f-212eb7fa1592.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_005_by_hockie_dd0247j-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyNDdqLTgzNGMxNzQyLWMxZjAtNGQwNS1iYjJmLTIxMmViN2ZhMTU5Mi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.7DVtSRwKynjvNILZEslCAqjMyLhf4dG4jrqY_egqclY" class="img-fluid design_image">
-                        </a>
-                        <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dalafr1-4d5f8ee8-5cc9-4634-a776-96d6c5c56894.jpg/v1/fill/w_900,h_506,q_75,strp/air_mask_by_hockie_dalafr1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWxhZnIxLTRkNWY4ZWU4LTVjYzktNDYzNC1hNzc2LTk2ZDZjNWM1Njg5NC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TCNrdiY-5w_LfBm6ZpZUWjBlp8CKupPGf06CPtfUeAg" data-toggle="lightbox" data-gallery="example-gallery">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dalafr1-4d5f8ee8-5cc9-4634-a776-96d6c5c56894.jpg/v1/fill/w_900,h_506,q_75,strp/air_mask_by_hockie_dalafr1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWxhZnIxLTRkNWY4ZWU4LTVjYzktNDYzNC1hNzc2LTk2ZDZjNWM1Njg5NC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TCNrdiY-5w_LfBm6ZpZUWjBlp8CKupPGf06CPtfUeAg" class="img-fluid design_image">
-                        </a>
-                        <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023sa-0dfd0723-af18-4159-a3be-f262267a8a2c.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_03b_by_hockie_dd023sa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyM3NhLTBkZmQwNzIzLWFmMTgtNDE1OS1hM2JlLWYyNjIyNjdhOGEyYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qVK8zJ8YlxYTF9alNNQi9pQ65UsKUtLlEH5h4Nxrvp8" data-toggle="lightbox" data-gallery="example-gallery">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023sa-0dfd0723-af18-4159-a3be-f262267a8a2c.jpg/v1/fill/w_900,h_506,q_75,strp/pos_main_03b_by_hockie_dd023sa-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kZDAyM3NhLTBkZmQwNzIzLWFmMTgtNDE1OS1hM2JlLWYyNjIyNjdhOGEyYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.qVK8zJ8YlxYTF9alNNQi9pQ65UsKUtLlEH5h4Nxrvp8" class="img-fluid design_image">
-                        </a>
-                        <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023td-956f7410-e73b-41a1-8b39-d5934eb42f59.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjN0ZC05NTZmNzQxMC1lNzNiLTQxYTEtOGIzOS1kNTkzNGViNDJmNTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TM93FFaKqJJQu4INbfeLQGhloyLNFpgNDO1oyGlGXeU" data-toggle="lightbox" data-gallery="example-gallery">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dd023td-956f7410-e73b-41a1-8b39-d5934eb42f59.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjlmZjhlLWEyYTctNDI4ZC1iMTFjLTBjOThkMmY0MzZkMlwvZGQwMjN0ZC05NTZmNzQxMC1lNzNiLTQxYTEtOGIzOS1kNTkzNGViNDJmNTkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TM93FFaKqJJQu4INbfeLQGhloyLNFpgNDO1oyGlGXeU" class="img-fluid design_image">
-                        </a>
-                        <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dakhylv-66dc0abe-015a-4c53-a785-688b48b69dcc.jpg/v1/fill/w_900,h_637,q_75,strp/sats___passion_to_delight_by_hockie_dakhylv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjM3IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWtoeWx2LTY2ZGMwYWJlLTAxNWEtNGM1My1hNzg1LTY4OGI0OGI2OWRjYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._hzIe_MWBcdJF9Gi-mDA0w7NdZuLnWRC1Ga6jE-DPEw" data-toggle="lightbox" data-gallery="example-gallery">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/dakhylv-66dc0abe-015a-4c53-a785-688b48b69dcc.jpg/v1/fill/w_900,h_637,q_75,strp/sats___passion_to_delight_by_hockie_dakhylv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjM3IiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kYWtoeWx2LTY2ZGMwYWJlLTAxNWEtNGM1My1hNzg1LTY4OGI0OGI2OWRjYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._hzIe_MWBcdJF9Gi-mDA0w7NdZuLnWRC1Ga6jE-DPEw" class="img-fluid design_image">
-                        </a>
-                        <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/d2n6kr5-2b5297a9-30f4-4756-a198-e57aaf2b2f36.jpg/v1/fill/w_400,h_600,q_75,strp/rhino_protective_gears_by_hockie_d2n6kr5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kMm42a3I1LTJiNTI5N2E5LTMwZjQtNDc1Ni1hMTk4LWU1N2FhZjJiMmYzNi5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.72O-OqjRZYDRX9EqpPQPwSptox48C_R2RnT6trhx02g" data-toggle="lightbox" data-gallery="example-gallery">
-                            <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a29ff8e-a2a7-428d-b11c-0c98d2f436d2/d2n6kr5-2b5297a9-30f4-4756-a198-e57aaf2b2f36.jpg/v1/fill/w_400,h_600,q_75,strp/rhino_protective_gears_by_hockie_d2n6kr5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvN2EyOWZmOGUtYTJhNy00MjhkLWIxMWMtMGM5OGQyZjQzNmQyXC9kMm42a3I1LTJiNTI5N2E5LTMwZjQtNDc1Ni1hMTk4LWU1N2FhZjJiMmYzNi5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.72O-OqjRZYDRX9EqpPQPwSptox48C_R2RnT6trhx02g" class="img-fluid design_image">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    </section>
 
     <footer>
-        <img src="images/footer.jpg">
+        <div class="container-fluid"></div>
     </footer>
 
+    <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button" style="display: inline;"><i
+            class="fas fa-chevron-up"></i></a>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="ekko-lightbox.js"></script>
 
-    <script type="text/javascript">
-        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-            event.preventDefault();
-            $(this).ekkoLightbox();
-        });
-    </script>
+    <script src="jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
 
+    <script src="script.js"></script>
+
+    <!-- Include HTML script -->
     <script>
-        const startYear = 2024;
-        const startNumber = 17;
-        const currentYear = new Date().getFullYear();
-        const increment = currentYear - startYear;
-        const number = startNumber + increment;
-
-        document.getElementById('number').textContent = number;
+        function includeHTML() {
+            var z, i, elmnt, file, xhttp;
+            /*loop through a collection of all HTML elements:*/
+            z = document.getElementsByTagName("*");
+            for (i = 0; i < z.length; i++) {
+                elmnt = z[i];
+                /*search for elements with a certain attribute:*/
+                file = elmnt.getAttribute("w3-include-html");
+                if (file) {
+                    /*make an HTTP request using the attribute value as the file name:*/
+                    xhttp = new XMLHttpRequest();
+                    xhttp.onreadystatechange = function () {
+                        if (this.readyState == 4) {
+                            if (this.status == 200) { elmnt.innerHTML = this.responseText; }
+                            if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
+                            /*remove the attribute, and call this function once more:*/
+                            elmnt.removeAttribute("w3-include-html");
+                            includeHTML();
+                        }
+                    }
+                    xhttp.open("GET", file, true);
+                    xhttp.send();
+                    /*exit the function:*/
+                    return;
+                }
+            }
+        };
     </script>
+    <script>includeHTML();</script>
+
+
 </body>
+
 </html>

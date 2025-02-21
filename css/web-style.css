@@ -1,0 +1,103 @@
+.card {
+    background-color: transparent;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 40px;
+}
+
+.card-footer{
+    background-color: transparent;
+    border: 0;
+    padding: 0 1.25rem;
+}
+.card_image {
+    transition: .4s;
+    border: 1px solid #abdfdf;
+}
+
+.card a img:hover {
+    filter: blur(1px) saturate(0.5) opacity(0.7);
+}
+.card a{
+    position: relative;
+}
+.card a:hover::after {
+    content: url(../images/magnify.png);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.card_text_wrapper {
+    padding: 10px 0;
+    /* margin-bottom: 20px; */
+    font-family: 'Arimo', sans-serif;
+    color: grey;
+    font-size: clamp(12px, 3vw, 13px);
+    line-height: 1.1;
+}
+
+.card_text_wrapper span {
+    font-weight: bold;
+    font-size: 1.2em;
+    font-style: italic;
+    color: #419694;
+}
+
+
+
+
+
+
+.modal{
+    padding-right: 0!important;
+}
+.modal-dialog {
+    width: 95%;
+    /* max-width: 800px; */
+    height: 100%;
+    /* margin: 0 auto; */
+    padding: 0;
+}
+
+.modal-content {
+    height: 100%;
+    border: 0;
+    border-radius: 0;
+}
+
+.modal-body {
+    height: 100%;
+    padding: 0;
+}
+
+/* Extra small devices (portrait phones, less than 576px)
+No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    #web .card-columns{
+        column-count:2;
+    } 
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    #web .card-columns{
+        column-count:2;
+    } 
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    #web .card-columns{
+        column-count:3;
+    }    
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    #web .card-columns{
+        column-count:4;
+    } 
+ }

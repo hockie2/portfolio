@@ -1,0 +1,142 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #e4f7f7;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header img {
+    width: 100%;
+    object-fit: contain;
+}
+
+/* -----------------------Navbar starts----------------------- */
+
+.nav {
+    justify-content: center;
+}
+
+.nav-item {
+    width: calc(100% / 3);
+    padding: 0 2px;
+}
+
+.nav-link {
+    width: 100%;
+    background-color: #abdfdf !important;
+    color: white;
+    font-size: clamp(13px, 1.8vw, 22px);;
+    font-weight: bold;
+    border-top-left-radius: 1.25rem !important;
+    border-top-right-radius: 1.25rem !important;
+    min-height: 56px;
+}
+
+.nav-link:hover {
+    background-color: #40e1e4 !important;
+}
+
+.nav-link.active {
+    color: white !important;
+    background-color: orange !important;
+}
+
+.nav-tabs {
+    border: 0;
+}
+
+.tab-content {
+    /* border: 1px solid #abdfdf;
+    border-radius: 10px; */
+}
+.tab-pane .pane-wrapper{
+    border: 1px solid #abdfdf;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 20px;
+}
+.tab-pane .pane-wrapper h2{
+    font-weight: bold;
+}
+/* -----------------------Navbar ends----------------------- */
+
+
+.modal-body img{
+    margin-bottom: 30px;
+}
+
+
+
+/*-----DESIGN CARD STARTS----------------------------------------------------------------*/
+
+/* .carousel-item {
+    max-height: 200px;
+}
+
+.carousel-item img {
+}
+
+.design_cards_wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#design_wrapper,
+#animations_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.design_image {
+    width: 185px;
+    height: 185px;
+    object-fit: cover;
+    transition: .9s;
+    margin: 5px;
+}
+
+.design_image:hover {
+    object-fit: cover;
+    box-shadow: 0 0 20px grey;
+    border: 2px solid white;
+    transform: scale(1.1);
+}
+
+#gallery {
+    font-family: 'Arimo', sans-serif;
+}
+ */
+
+
+/*-----DESIGN CARD ENDS----------------------------------------------------------------*/
+
+/*-----CONTENT ENDS----------------------------------------------------------------*/
+
+footer {
+    min-height: 55px;
+    background-color: #66C2C7;
+    height: auto;
+    margin-bottom: 0;
+}
+
+footer img {
+    width: 100%;
+    object-fit: contain;
+}
+
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+
+
+

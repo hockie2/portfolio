@@ -1,0 +1,56 @@
+#animation img,
+#animation video{
+    /* width: 100%;
+    max-width: 400px; */
+}
+#animation .card-columns{
+    column-count:1;
+}
+
+#animation .card a:hover{
+    /* border: 2px solid red; */
+    /* box-sizing: border-box; */
+}
+
+/* .card a {
+    position: relative;
+}
+
+.card a:hover::after {
+    content: url(../images/magnify.png);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+ */
+
+/* Extra small devices (portrait phones, less than 576px)
+No media query for `xs` since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    #animation .card-columns{
+        column-count:2;
+    } 
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    #animation .card-columns{
+        column-count:2;
+    } 
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    #animation .card-columns{
+        column-count:3;
+    }    
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    #animation .card-columns{
+        column-count:4;
+    } 
+ }
