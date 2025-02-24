@@ -28,7 +28,7 @@ header img {
     width: 100%;
     background-color: #abdfdf !important;
     color: white;
-    font-size: clamp(13px, 1.8vw, 22px);;
+    font-size: clamp(19px, 1.8vw, 22px);;
     font-weight: bold;
     border-top-left-radius: 1.25rem !important;
     border-top-right-radius: 1.25rem !important;
@@ -48,15 +48,11 @@ header img {
     border: 0;
 }
 
-.tab-content {
-    /* border: 1px solid #abdfdf;
-    border-radius: 10px; */
-}
 .tab-pane .pane-wrapper{
     border: 1px solid #abdfdf;
     border-radius: 10px;
     padding: 1rem;
-    margin-bottom: 20px;
+    margin: 0 1rem 20px 1rem;
 }
 .tab-pane .pane-wrapper h2{
     font-weight: bold;
@@ -67,55 +63,17 @@ header img {
 .modal-body img{
     margin-bottom: 30px;
 }
-
-
-
-/*-----DESIGN CARD STARTS----------------------------------------------------------------*/
-
-/* .carousel-item {
-    max-height: 200px;
+.card img,
+.card video {
+    max-width: 100%;
+    height: auto;
 }
 
-.carousel-item img {
-}
-
-.design_cards_wrapper {
-    display: flex;
-    flex-direction: column;
-}
-
-#design_wrapper,
-#animations_wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: flex-start;
-}
-
-.design_image {
-    width: 185px;
-    height: 185px;
-    object-fit: cover;
-    transition: .9s;
-    margin: 5px;
-}
-
-.design_image:hover {
-    object-fit: cover;
-    box-shadow: 0 0 20px grey;
-    border: 2px solid white;
-    transform: scale(1.1);
-}
-
-#gallery {
-    font-family: 'Arimo', sans-serif;
-}
- */
 
 
-/*-----DESIGN CARD ENDS----------------------------------------------------------------*/
 
-/*-----CONTENT ENDS----------------------------------------------------------------*/
+
+
 
 footer {
     min-height: 55px;
@@ -135,6 +93,7 @@ footer img {
     bottom: 25px;
     right: 25px;
     display: none;
+    /* z-index: 3000; */
 }
 
 
