@@ -32,7 +32,7 @@ header img {
     font-weight: bold;
     border-top-left-radius: 1.25rem !important;
     border-top-right-radius: 1.25rem !important;
-    min-height: 56px;
+    min-height: 75px;
 }
 
 .nav-link:hover {
@@ -52,7 +52,7 @@ header img {
     border: 1px solid #abdfdf;
     border-radius: 10px;
     padding: 1rem;
-    margin: 0 1rem 20px 1rem;
+    margin: 0 0 20px 0;
 }
 .tab-pane .pane-wrapper h2{
     font-weight: bold;
@@ -98,4 +98,29 @@ footer img {
 
 
 
+/* Extra small devices (portrait phones, less than 576px)
+No media query for `xs` since this is the default in Bootstrap */
 
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    .nav-link{
+        min-height: 50px;
+    }
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .nav-link{
+        min-height: 60px;
+    }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+ }

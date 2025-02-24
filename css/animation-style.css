@@ -7,22 +7,6 @@
     column-count:1;
 }
 
-#animation .card a:hover{
-    /* border: 2px solid red; */
-    /* box-sizing: border-box; */
-}
-
-/* .card a {
-    position: relative;
-}
-
-.card a:hover::after {
-    content: url(../images/magnify.png);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-}
- */
 
 /* Extra small devices (portrait phones, less than 576px)
 No media query for `xs` since this is the default in Bootstrap */
