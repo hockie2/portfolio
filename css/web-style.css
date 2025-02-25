@@ -57,7 +57,7 @@
     padding: 10px 0;
     /* margin-bottom: 20px; */
     font-family: 'Arimo', sans-serif;
-    color: grey;
+    color: #494747;
     font-size: clamp(12px, 3vw, 13px);
     line-height: 1.1;
 }
