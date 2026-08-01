@@ -95,5 +95,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Ignore Design Folder
+# Ignore Folders
 _design/
+_old
+_original
