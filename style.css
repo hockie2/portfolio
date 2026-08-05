@@ -1465,6 +1465,7 @@ a:focus-visible, button:focus-visible{
   margin: 20px auto 28px;
   transition: max-width .4s ease;
 }
+.gallery-stack .cd-standalone-figure{ margin: 0 auto; }
 .cd-standalone-figure.cd-standalone-expanded{ max-width: 100%; }
 
 .cd-doc h2{
