@@ -315,4 +315,25 @@ document.addEventListener('DOMContentLoaded', function () {
       iframe.setAttribute('src', '');
     });
   });
+
+  document.querySelectorAll('.gallery-modal').forEach(function (modal) {
+    var autoplayVideos = modal.querySelectorAll('video[autoplay]');
+    if (!autoplayVideos.length) return;
+
+    modal.addEventListener('shown.bs.modal', function () {
+      autoplayVideos.forEach(function (video) {
+        video.muted = true;
+        video.play().catch(function () {
+          // The controls remain available if a browser still requires interaction.
+        });
+      });
+    });
+
+    modal.addEventListener('hidden.bs.modal', function () {
+      autoplayVideos.forEach(function (video) {
+        video.pause();
+        video.currentTime = 0;
+      });
+    });
+  });
 });
