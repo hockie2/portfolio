@@ -395,7 +395,7 @@ button.case-visual:focus-visible{
 .s-arc{ fill: none; stroke: var(--line-soft); stroke-width: 8; }
 .s-arc-accent{ fill: none; stroke: var(--teal); stroke-width: 8; }
 .s-needle{ stroke: var(--blue); stroke-width: 3; stroke-linecap: round; }
-
+.modal-xl { --bs-modal-width: 1800px; }
 .case-visual-col {
   /* background: #EEF2F8; */
 }
