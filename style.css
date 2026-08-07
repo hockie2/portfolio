@@ -396,6 +396,9 @@ button.case-visual:focus-visible{
 .s-arc-accent{ fill: none; stroke: var(--teal); stroke-width: 8; }
 .s-needle{ stroke: var(--blue); stroke-width: 3; stroke-linecap: round; }
 
+.case-visual-col {
+  /* background: #EEF2F8; */
+}
 .case-visual--photo{
   width: 100%;
   height: 100%;
@@ -405,7 +408,7 @@ button.case-visual:focus-visible{
 }
 .case-visual--photo .case-visual-img{
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   object-fit: cover;
   object-position: center;
   display: block;
