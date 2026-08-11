@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Materials Ops App — Teo Boon Hock</title>
+  <meta name="description"
+    content="Case study: a real-time shortage-tracking workspace for aerospace engine MRO, replacing static spreadsheets and email-based approvals.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+      <!-- Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+
+  <!-- Reuses your existing portfolio tokens/fonts -->
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    /* ============================================
+       MATERIALS OPS — standalone page
+       Namespaced under .mo- to avoid colliding with
+       the existing .cd-/.esc- case-doc styles.
+       ============================================ */
+
+    body { background: var(--paper); }
+
+    .mo-back {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(243, 246, 250, .92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--line);
+      padding: 16px 0;
+    }
+    .mo-back a {
+      font-family: var(--font-mono);
+      font-size: .82rem;
+      letter-spacing: .03em;
+      color: var(--ink-soft);
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .mo-back a:hover { color: var(--ink); }
+
+    /* ---------- HERO ---------- */
+    .mo-hero {
+      position: relative;
+      padding: 72px 0 56px;
+      overflow: hidden;
+      border-bottom: 1px solid var(--line);
+    }
+    .mo-hero-grid {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(var(--line-soft) 1px, transparent 1px),
+        linear-gradient(90deg, var(--line-soft) 1px, transparent 1px);
+      background-size: 42px 42px;
+      mask-image: linear-gradient(to bottom, black, transparent 82%);
+      -webkit-mask-image: linear-gradient(to bottom, black, transparent 82%);
+      pointer-events: none;
+    }
+    .mo-hero-inner { position: relative; z-index: 1; }
+    .mo-eyebrow {
+      font-family: var(--font-mono);
+      font-size: .8rem;
+      letter-spacing: .1em;
+      color: var(--blue-dark);
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      margin-bottom: 18px;
+    }
+    .mo-eyebrow-dot {
+      width: 7px; height: 7px;
+      background: var(--blue);
+      border-radius: 50%;
+      box-shadow: 0 0 0 3px rgba(30,86,224,.15);
+    }
+    .mo-title {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: clamp(2.4rem, 4.8vw, 3.8rem);
+      line-height: 1.05;
+      letter-spacing: -.02em;
+      margin-bottom: 8px;
+      max-width: 16ch;
+    }
+    .mo-subtitle {
+      font-family: var(--font-display);
+      font-weight: 500;
+      font-size: clamp(1.1rem, 2vw, 1.4rem);
+      color: var(--ink-soft);
+      margin-bottom: 22px;
+    }
+    .mo-byline {
+      font-size: .95rem;
+      color: var(--ink-soft);
+      margin-bottom: 36px;
+    }
+    .mo-byline strong { color: var(--ink); font-weight: 600; }
+
+    /* ---------- STAT STRIP ---------- */
+    .mo-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--paper-alt);
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+    .mo-stat {
+      padding: 22px 20px;
+      border-right: 1px solid var(--line);
+    }
+    .mo-stat:last-child { border-right: none; }
+    .mo-stat-num {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: clamp(1.6rem, 3vw, 2.2rem);
+      color: var(--blue);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+    .mo-stat-label {
+      font-family: var(--font-mono);
+      font-size: .74rem;
+      letter-spacing: .03em;
+      color: var(--ink-soft);
+      line-height: 1.4;
+    }
+    @media (max-width: 767px) {
+      .mo-stats { grid-template-columns: 1fr; }
+      .mo-stat { border-right: none; border-bottom: 1px solid var(--line); }
+      .mo-stat:last-child { border-bottom: none; }
+    }
+
+    .mo-note {
+      font-size: .82rem;
+      color: var(--ink-soft);
+      margin-top: 18px;
+      padding-left: 14px;
+      border-left: 2px solid var(--line);
+    }
+
+    /* ---------- SECTION SCAFFOLDING ---------- */
+    .mo-section { padding: 64px 0; }
+    .mo-section + .mo-section { border-top: 1px solid var(--line); }
+    .mo-eyebrow-inline {
+      font-family: var(--font-mono);
+      font-size: .74rem;
+      letter-spacing: .1em;
+      color: var(--teal);
+      display: block;
+      margin-bottom: 10px;
+    }
+    .mo-h2 {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: clamp(1.5rem, 2.6vw, 2rem);
+      letter-spacing: -.01em;
+      margin-bottom: 28px;
+      max-width: 26ch;
+    }
+
+    /* ---------- ANNOTATED SCREENSHOT ---------- */
+    .mo-shot {
+      position: relative;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+      background: #fff;
+      box-shadow: 0 24px 60px -32px rgba(16,20,28,.28);
+      margin-bottom: 22px;
+    }
+    .mo-shot img { display: block; width: 100%; height: auto; }
+    .mo-hotspot {
+      position: absolute;
+      width: 28px; height: 28px;
+      transform: translate(-50%, -50%);
+      background: var(--blue);
+      color: #fff;
+      border: 2px solid #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-size: .8rem;
+      font-weight: 500;
+      cursor: default;
+      box-shadow: 0 0 0 4px rgba(30,86,224,.18), 0 4px 10px rgba(16,20,28,.25);
+    }
+    .mo-hotspot::after {
+      content: '';
+      position: absolute;
+      inset: -8px;
+      border-radius: 50%;
+      border: 1px solid rgba(30,86,224,.35);
+      animation: mo-pulse 2.4s ease-out infinite;
+    }
+    @keyframes mo-pulse {
+      0%   { transform: scale(.9); opacity: .8; }
+      100% { transform: scale(1.9); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .mo-hotspot::after { animation: none; }
+    }
+
+    .mo-legend {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 10px;
+    }
+    .mo-legend li {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      font-size: .92rem;
+      color: var(--ink-soft);
+    }
+    .mo-legend-num {
+      flex: none;
+      width: 24px; height: 24px;
+      border-radius: 50%;
+      background: var(--blue);
+      color: #fff;
+      font-family: var(--font-mono);
+      font-size: .74rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1px;
+    }
+    .mo-legend strong { color: var(--ink); font-weight: 600; }
+    .mo-caption {
+      font-size: .85rem;
+      color: var(--ink-soft);
+      margin-top: 14px;
+    }
+
+    /* ---------- FEATURE (annotated, alternating) ---------- */
+    .mo-feature-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    .mo-feature-title {
+      font-family: var(--font-display);
+      font-weight: 600;
+      font-size: 1.35rem;
+      letter-spacing: -.01em;
+    }
+    .mo-feature-why {
+      font-size: .92rem;
+      color: var(--ink-soft);
+      max-width: 62ch;
+      margin-bottom: 22px;
+    }
+    .mo-feature-why strong { color: var(--ink); }
+
+    /* ---------- PERSONA CARD (compact, inline) ---------- */
+    .mo-persona {
+      display: flex;
+      gap: 18px;
+      align-items: flex-start;
+      border: 1px solid var(--line);
+      background: var(--paper-alt);
+      border-radius: 12px;
+      padding: 18px 20px;
+      margin: 28px 0;
+    }
+    .mo-persona-avatar {
+      flex: none;
+      width: 44px; height: 44px;
+      border-radius: 50%;
+      background: var(--teal);
+      color: #fff;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .mo-persona-name {
+      font-family: var(--font-display);
+      font-weight: 600;
+      font-size: 1rem;
+      margin-bottom: 6px;
+    }
+    .mo-persona-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .mo-persona-tags span {
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      letter-spacing: .02em;
+      color: var(--ink-soft);
+      background: var(--line-soft);
+      border-radius: 999px;
+      padding: 4px 11px;
+    }
+
+    /* ---------- PROBLEM / SOLUTION COLUMNS ---------- */
+    .mo-cols {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 28px;
+    }
+    @media (max-width: 767px) { .mo-cols { grid-template-columns: 1fr; } }
+    .mo-cols h4 {
+      font-family: var(--font-mono);
+      font-size: .74rem;
+      letter-spacing: .08em;
+      color: var(--ink-soft);
+      margin-bottom: 14px;
+    }
+    .mo-cols ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+    .mo-cols li { font-size: .92rem; line-height: 1.55; }
+    .mo-cols li strong { color: var(--ink); }
+
+    /* ---------- TABLE ---------- */
+    .mo-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .88rem;
+    }
+    .mo-table th, .mo-table td {
+      border: 1px solid var(--line);
+      padding: 12px 14px;
+      text-align: left;
+      vertical-align: top;
+    }
+    .mo-table th {
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      letter-spacing: .04em;
+      color: var(--ink-soft);
+      background: var(--line-soft);
+    }
+
+    /* ---------- TAKEAWAYS ---------- */
+    .mo-takeaways { list-style: none; padding: 0; margin: 0; display: grid; gap: 18px; }
+    .mo-takeaways li {
+      display: flex;
+      gap: 14px;
+      font-size: .95rem;
+      line-height: 1.6;
+    }
+    .mo-takeaways li strong { color: var(--ink); }
+    .mo-takeaways-num {
+      flex: none;
+      font-family: var(--font-mono);
+      font-size: .8rem;
+      color: var(--teal);
+      padding-top: 2px;
+    }
+
+    .mo-footer-link {
+      text-align: center;
+      padding: 56px 0 80px;
+    }
+    .mo-footer-link a {
+      font-family: var(--font-mono);
+      font-size: .85rem;
+      letter-spacing: .03em;
+      color: var(--ink);
+      border: 1px solid var(--ink);
+      border-radius: 999px;
+      padding: 12px 26px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="mo-back">
+    <div class="container">
+      <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to portfolio</a>
+    </div>
+  </div>
+
+  <div class="container">
+        <!-- ===== HERO ===== -->
+    <header class="mo-hero">
+        <div class="mo-hero-grid" aria-hidden="true"></div>
+        <div class="container mo-hero-inner">
+        <div class="row">
+            <div class="col-lg-9">
+            <p class="mo-eyebrow"><span class="mo-eyebrow-dot"></span>AEROSPACE · SUPPLY CHAIN · ENTERPRISE</p>
+            <h1 class="mo-title">Materials Ops App</h1>
+            <p class="mo-subtitle">Fixing Engine Shortage Requisitions</p>
+            <p class="mo-byline"><strong>Sole UX/UI Designer</strong> (End-to-end) · Enterprise Desktop Web App ·
+                Target user: Materials Planner</p>
+            </div>
+        </div>
+
+        <div class="mo-stats">
+            <div class="mo-stat">
+            <div class="mo-stat-num">2 views</div>
+            <div class="mo-stat-label">ENGINE vs. PARTS fulfillment modes, one tap apart</div>
+            </div>
+            <div class="mo-stat">
+            <div class="mo-stat-num">4-stage</div>
+            <div class="mo-stat-label">approval trail replacing untracked email chains</div>
+            </div>
+            <div class="mo-stat">
+            <div class="mo-stat-num">3 live</div>
+            <div class="mo-stat-label">stock indicators (GV / GCDR / GHR) against every part</div>
+            </div>
+        </div>
+        <p class="mo-note"><strong>Confidentiality note:</strong> Company names, part numbers, and operational
+            figures shown are anonymized or generalized per applicable NDAs. The workflow design and product
+            thinking are unaltered and authentic.</p>
+        </div>
+    </header>
+
+    <!-- ===== HERO SCREENSHOT — ANNOTATED ===== -->
+    <section class="mo-section" style="padding-top:56px;">
+        <div class="container">
+        <span class="mo-eyebrow-inline">AT A GLANCE</span>
+        <h2 class="mo-h2">One live workspace replaces the shortage spreadsheet.</h2>
+
+        <div class="row g-4">
+            <div class="col-12">
+            <figure class="mo-shot">
+                <img src="images/uiux/materials-ops/outstanding-materials-parts-overview-nda.svg"
+                alt="Outstanding Materials shortage list with the ENGINES/PARTS toggle, live stock chips, and add/add-alt actions">
+                <span class="mo-hotspot" style="left:17%; top:26%;" title="ENGINES / PARTS toggle">1</span>
+                <span class="mo-hotspot" style="left:60%; top:38%;" title="Live stock indicators">2</span>
+                <span class="mo-hotspot" style="left:83%; top:38%;" title="ADD / ADD ALT">3</span>
+                <span class="mo-hotspot" style="left:90%; top:19%;" title="Shared Approval Cart">4</span>
+            </figure>
+            </div>
+            <div class="col-12">
+            <ul class="mo-legend">
+                <li><span class="mo-legend-num">1</span><span><strong>Engine / Parts toggle —</strong> one tap
+                    switches whether shortages group by engine or by part.</span></li>
+                <li><span class="mo-legend-num">2</span><span><strong>Live stock chips —</strong> GV, GCDR and GHR
+                    counts sit directly against demand — no more cross-checking spreadsheets.</span></li>
+                <li><span class="mo-legend-num">3</span><span><strong>Add / Add Alt —</strong> a purple icon flags
+                    approved substitutes; one click adds either to the cart.</span></li>
+                <li><span class="mo-legend-num">4</span><span><strong>Shared Approval Cart —</strong> live count of
+                    items staged for sign-off, visible to the whole team.</span></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== THE PROBLEM ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">THE CHALLENGE</span>
+        <h2 class="mo-h2">Two things were costing shopfloor time.</h2>
+        <div class="mo-cols">
+            <div>
+            <h4>WHAT PLANNERS WERE DEALING WITH</h4>
+            <ul>
+                <li><strong>Spreadsheet fatigue:</strong> cross-referencing shortages against stock meant switching
+                between multiple static Excel files.</li>
+                <li><strong>Email bottlenecks:</strong> requisition approvals ran through manual threads — easy to
+                lose track of, and it held up engine assembly.</li>
+                <li><strong>Hidden substitutes:</strong> even when an approved alternative part existed, finding it
+                quickly wasn't easy.</li>
+            </ul>
+            </div>
+            <div>
+            <h4>WHAT THE APP DOES INSTEAD</h4>
+            <ul>
+                <li><strong>One view for stock:</strong> real-time counts sit directly against part demand.</li>
+                <li><strong>Purple alternative rows:</strong> an icon flags when alternatives exist, expanding into
+                nested rows on demand.</li>
+                <li><strong>Two fulfillment modes:</strong> toggle between clearing one Engine or batch-fulfilling
+                one part across every engine that needs it.</li>
+            </ul>
+            </div>
+        </div>
+
+        <div class="mo-persona">
+            <div class="mo-persona-avatar">M</div>
+            <div>
+            <p class="mo-persona-name">Marcus · Materials Planner</p>
+            <div class="mo-persona-tags">
+                <span>Pulls shortages from SAP</span>
+                <span>Cross-checks stock by hand</span>
+                <span>Routes approvals by email</span>
+                <span>Needs batch-fulfillment across engines</span>
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== FEATURE 02 — VENDOR DRAWER, ANNOTATED ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 02</span>
+        <div class="mo-feature-head">
+            <h3 class="mo-feature-title">Keeping Context When Entering Orders</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> a slide-out drawer instead of a modal or a new
+            page: a modal blocks the table behind it, a page reload loses your scroll position. The drawer lets
+            planners adjust an order while the row they're working on stays visible.</p>
+
+        <div class="row g-4">
+            <div class="col-6">
+            <figure class="mo-shot">
+                <img src="images/uiux/materials-ops/vendor-selection-drawer-nda.svg"
+                alt="Vendor selection drawer with fulfilment progress, vendor comparison table, and quantity entry">
+                <span class="mo-hotspot" style="left:50%; top:16%;" title="Fulfillment progress">1</span>
+                <span class="mo-hotspot" style="left:50%; top:55%;" title="Vendor comparison">2</span>
+                <span class="mo-hotspot" style="left:50%; top:92%;" title="Add to Cart">3</span>
+            </figure>
+            </div>
+            <div class="col-12">
+            <ul class="mo-legend">
+                <li><span class="mo-legend-num">1</span><span><strong>Live fulfillment % —</strong> updates in real
+                    time as stock is added to the cart, so a planner never double-orders.</span></li>
+                <li><span class="mo-legend-num">2</span><span><strong>Vendor comparison —</strong> price, MOQ and
+                    lead time side by side across NEW and USM sources, sortable.</span></li>
+                <li><span class="mo-legend-num">3</span><span><strong>Quantity → extended price —</strong> catalog
+                    constraints (MOQ/UPQ) are enforced before the order can be submitted.</span></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== FEATURE 03 — SHARED CART, ANNOTATED ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 03</span>
+        <div class="mo-feature-head">
+            <h3 class="mo-feature-title">Replacing Email Approvals with a Shared Cart</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> email threads meant no one had a single, current
+            view of what was pending. A shared cart gives the manager full context on a part and lets them sign off
+            in one tap: In Cart → Pending PPCS approval → PPCS Approved → ePR Approved.</p>
+
+        <div class="row g-4">
+            <div class="col-12">
+            <figure class="mo-shot">
+                <img src="images/uiux/materials-ops/approval-cart-engine-view-nda.svg"
+                alt="Shared approval cart grouped by Engine, showing live collaboration status and a submit-for-approval action">
+                <span class="mo-hotspot" style="left:14%; top:17%;" title="Real-time collaboration">1</span>
+                <span class="mo-hotspot" style="left:15%; top:40%;" title="Review queue &amp; status">2</span>
+                <span class="mo-hotspot" style="left:63%; top:92%;" title="Submit for Approval">3</span>
+            </figure>
+            </div>
+            <div class="col-12">
+            <ul class="mo-legend">
+                <li><span class="mo-legend-num">1</span><span><strong>Live collaboration —</strong> planner and
+                    manager see the same cart update in real time.</span></li>
+                <li><span class="mo-legend-num">2</span><span><strong>Review queue —</strong> every staged part shows
+                    its status at a glance — complete, pending, incomplete.</span></li>
+                <li><span class="mo-legend-num">3</span><span><strong>One-tap submit —</strong> the manager signs off
+                    without digging through an email thread.</span></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== WORKFLOW COMPARISON ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">BEFORE &amp; AFTER</span>
+        <h2 class="mo-h2">Workflow Comparison</h2>
+        <div class="table-responsive">
+            <table class="mo-table">
+            <thead>
+                <tr><th>Operational Area</th><th>Before</th><th>After</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                <td>Stock Verification</td>
+                <td>Manual cross-checking across static spreadsheets</td>
+                <td>Real-time stock indicators (GV, GCDR, GHR)</td>
+                </tr>
+                <tr>
+                <td>Alternative Parts</td>
+                <td>Hard to find manually</td>
+                <td>Icon expands into nested rows for instant substitution</td>
+                </tr>
+                <tr>
+                <td>Approvals</td>
+                <td>Untracked email chains causing delays</td>
+                <td>Shared cart with live PPCS/ePR status</td>
+                </tr>
+                <tr>
+                <td>Fulfillment</td>
+                <td>One rigid spreadsheet view</td>
+                <td>Two modes: Engine ESN or Part Batching</td>
+                </tr>
+            </tbody>
+            </table>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== TAKEAWAYS ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">REFLECTIONS</span>
+        <h2 class="mo-h2">Key UX Takeaways</h2>
+        <ol class="mo-takeaways">
+            <li><span class="mo-takeaways-num">01</span><span><strong>Dense tables need a clear hierarchy.</strong>
+                Color-coded stock chips and slide-out drawers kept the data scannable without losing the planner's
+                place.</span></li>
+            <li><span class="mo-takeaways-num">02</span><span><strong>Progressive disclosure beats always-on
+                clutter.</strong> Flagging substitutes with an icon let planners explore alternatives only when
+                they needed to.</span></li>
+            <li><span class="mo-takeaways-num">03</span><span><strong>One user, two jobs.</strong> A one-click switch
+                between Engine and Part views let the same planner do both without separate tools.</span></li>
+        </ol>
+        </div>
+    </section>
+
+    <div class="mo-footer-link">
+        <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to case studies</a>
+    </div>
+  </div>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
