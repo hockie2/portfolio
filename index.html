@@ -1139,8 +1139,7 @@
     </div>
   </div>
 
-  <div class="modal fade case-modal" id="modalMaterialsProvisioning" tabindex="-1"
-    aria-labelledby="modalMaterialsProvisioningLabel" aria-hidden="true">
+  <div class="modal fade case-modal" id="modalMaterialsProvisioning" tabindex="-1" aria-labelledby="modalMaterialsProvisioningLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable modal-xxl">
       <div class="modal-content">
         <div class="modal-header">
@@ -1165,15 +1164,11 @@
 
             <span class="cd-eyebrow-inline cd-eyebrow-inline--first case-doc-eyebrow">Materials Provisioning App</span>
             <h2>Header &amp; Executive Summary</h2>
-            <p>Material planners have to buy replacement parts months before an engine even shows up for
-              overhaul — and getting the quantity wrong in either direction costs real money. Order too little,
-              and turnaround time (TAT) slips. Order too much, and you've trapped capital in inventory that
-              might sit unused for months. I designed the Materials Provisioning App to replace a five-spreadsheet
-              manual process with one decision workspace.</p>
-            <p>The core moves were a 2×2 part categorization matrix that drives both layout and purchasing
-              logic, a predictive formula for high-cost parts (with the math shown, not hidden), and a vendor
-              USM matchmaker panel that surfaces used-part deals right next to the line item they apply to.
-              Together, these took the guesswork out of purchasing and gave planners one screen instead of five.</p>
+            <p>Material planners had to buy replacement parts months before an engine arrived for overhaul, and
+              getting the quantity wrong in either direction cost real money — too little delayed turnaround,
+              too much trapped capital in unused stock. I designed the Materials Provisioning App to replace a
+              five-spreadsheet manual process with one workspace, built around a 2×2 price/risk categorization
+              matrix, a predictive formula for high-cost parts, and a vendor USM matchmaker panel.</p>
 
             <ul class="mb-4">
               <li><strong>Role &amp; scope:</strong> Sole UX/UI Designer (End-to-end)</li>
@@ -1184,9 +1179,8 @@
 
             <div class="cd-summary case-doc-summary">
               <strong class="case-doc-summary-label">Core objective —</strong>
-              Take the guesswork out of pre-induction part purchasing by giving planners one workspace with
-              quadrant-based categorization, predictive quantity guidance, and in-context USM sourcing —
-              replacing a five-spreadsheet manual process.
+              Replace a five-spreadsheet manual process with one workspace: quadrant-based categorization,
+              predictive quantity guidance, and in-context USM sourcing.
             </div>
 
             <h3>Acronym Glossary for Non-Aero Readers</h3>
@@ -1197,10 +1191,6 @@
             </ul>
 
             <h3 class="mt-4">Target user persona</h3>
-            <p>Before touching the UI, I sat with material planners to walk through their actual purchasing
-              process — how they moved between spreadsheets, where the delays crept in, and what a "good"
-              decision looked like to them.</p>
-
             <div class="cd-persona">
               <p class="cd-persona-name">Elena · Material Planner</p>
               <dl>
@@ -1212,14 +1202,9 @@
                   files, then calculates order quantities by hand.</dd>
                 <dt>NEEDS</dt>
                 <dd>A fast way to categorize parts by price and usage risk, an automated calculation for
-                  high-cost items, and visibility into cheaper used-part alternatives — without running the
-                  math herself every time.</dd>
+                  high-cost items, and visibility into cheaper used-part alternatives.</dd>
               </dl>
             </div>
-            <p>Watching that process — pulling scrap history, checking the workscope forecast, scanning vendor
-              PDFs, calculating a quantity — is what shaped the quadrant matrix and the predictive formula.
-              Elena needed the app to make the categorization decision for her, then show its work, rather than
-              asking her to run the numbers across five files first.</p>
 
             <span class="cd-eyebrow-inline case-doc-eyebrow">The Challenge</span>
             <h2>The Problem &amp; Legacy Friction</h2>
@@ -1227,24 +1212,23 @@
               <div class="cd-col">
                 <h4>WHAT PLANNERS WERE DEALING WITH</h4>
                 <ul class="cd-list">
-                  <li><strong>Spreadsheet fatigue:</strong> every purchase decision meant cross-referencing up
-                    to five Excel files, plus vendor PDFs and email attachments, by hand.</li>
-                  <li><strong>Buried deals:</strong> vendor "push lists" for used parts sat in email inboxes, so
-                    cheaper USM alternatives to new stock routinely got missed.</li>
-                  <li><strong>Guesswork on high-value parts:</strong> with no forecasting tool to lean on,
-                    planners defaulted to over-ordering out of fear of shopfloor delays — real capital sitting
-                    in parts nobody would touch for months.</li>
+                  <li><strong>Spreadsheet fatigue:</strong> every decision meant cross-referencing up to five
+                    Excel files, plus vendor PDFs and email.</li>
+                  <li><strong>Buried deals:</strong> vendor "push lists" for used parts sat in inboxes, so
+                    cheaper USM alternatives routinely got missed.</li>
+                  <li><strong>Guesswork on high-value parts:</strong> no forecasting tool meant planners
+                    defaulted to over-ordering out of fear of shopfloor delays.</li>
                 </ul>
               </div>
               <div class="cd-col">
                 <h4>WHAT THE APP DOES INSTEAD</h4>
                 <ul class="cd-list">
-                  <li><strong>One matrix, one workspace:</strong> a 2×2 categorization grid (price × usage
-                    likelihood) drives both the screen layout and the underlying purchasing logic.</li>
-                  <li><strong>Guardrails, not spreadsheets:</strong> live budget bars and an automated predictive
+                  <li><strong>One matrix, one workspace:</strong> a 2×2 grid (price × usage likelihood)
+                    drives both layout and purchasing logic.</li>
+                  <li><strong>Guardrails, not spreadsheets:</strong> live budget bars and a predictive
                     formula handle the math planners used to do by hand.</li>
-                  <li><strong>USM in context:</strong> vendor market lists sit inline, next to the exact part
-                    they apply to, instead of buried in an inbox.</li>
+                  <li><strong>USM in context:</strong> vendor market lists sit inline, next to the part
+                    they apply to.</li>
                 </ul>
               </div>
             </div>
@@ -1266,22 +1250,18 @@
               </figure>
               <div class="cd-feature-text">
                 <h3>Feature 01 — Categorizing Parts by Price &amp; Risk</h3>
-                <p>Every part sits in one of four quadrants based on unit price (high/low) and usage likelihood
-                  (high/low): HH, HL, LH, LL. The quadrant a part falls into determines which purchasing rule
-                  applies to it.</p>
-                <div class="cd-why"><strong>UX rationale —</strong> stakeholders had already defined the business rules
-                  for
-                  each quadrant — I just needed to get the mathematical burden off the planner's plate. Turning
-                  the rules into a visible 2×2 grid meant Elena could see at a glance which parts needed a quick
-                  historical lookup and which needed a full forecast, instead of memorizing four different
-                  policies.</div>
+                <p>Every part sits in one of four quadrants based on unit price and usage likelihood: HH, HL,
+                  LH, LL. The quadrant determines which purchasing rule applies.</p>
+                <div class="cd-why"><strong>UX rationale —</strong> stakeholders had already defined the rules for
+                  each quadrant; I turned them into a visible 2×2 grid so Elena could see at a glance which parts
+                  needed a quick lookup versus a full forecast, instead of memorizing four policies.</div>
               </div>
             </div>
 
             <div class="cd-feature cd-feature--reverse">
               <figure class="cd-feature-media">
                 <button type="button" class="cd-media-btn" data-cd-zoom aria-pressed="false"
-                  aria-label="Expand screenshot: Coverage Tracking"">
+                  aria-label="Expand screenshot: Coverage Tracking">
                   <img src="images/uiux/provisioning/part-coverage-drawer-nda.svg"
                     alt="Part detail drawer showing NEW and USM coverage split, recommended quantity to buy, and a usage history and forecast chart"
                     class="gallery-image img-fluid">
@@ -1292,9 +1272,11 @@
               </figure>
               <div class="cd-feature-text">
                 <h3>Feature 02 — Coverage Tracking</h3>
-                <p>A progress bar breaks down how much of each part's demand is already covered — by new stock, USM, incoming shipments, or remaining quantity to buy.</p>
-                <div class="cd-why"><strong>UX rationale —</strong> without a coverage view, it's easy to accidentally double-order a part that's already partially fulfilled. 
-                  Converting that math into a single progress bar let Elena see fulfillment status at a glance, instead of cross-checking dues-in against on-hand stock manually.</div>
+                <p>A progress bar breaks down how much of each part's demand is already covered — by new stock,
+                  USM, incoming shipments, or remaining quantity to buy.</p>
+                <div class="cd-why"><strong>UX rationale —</strong> without this view, it's easy to accidentally
+                  double-order a part that's already partially fulfilled. One progress bar let Elena see
+                  fulfillment status at a glance instead of cross-checking manually.</div>
               </div>
             </div>
 
@@ -1314,10 +1296,9 @@
                 <h3>Feature 03 — Vendor USM Matchmaker Panel</h3>
                 <p>Incoming vendor USM market lists are embedded directly alongside the required line items, in a
                   side-drawer that shows cost savings versus buying new.</p>
-                <div class="cd-why"><strong>UX rationale —</strong> these deals used to arrive as static PDFs in
-                  someone's
-                  inbox, disconnected from the part they applied to. Sliding the market data out next to the
-                  actual line item turned a passive vendor email into an active, in-context savings decision.</div>
+                <div class="cd-why"><strong>UX rationale —</strong> these deals used to arrive as static PDFs,
+                  disconnected from the part they applied to. Sliding the data next to the line item turned a
+                  passive email into an active, in-context decision.</div>
               </div>
             </div>
 
@@ -1362,14 +1343,13 @@
                 </tr>
                 <tr>
                   <td>Recommended Quantities</td>
-                  <td>One-size calculation approach regardless of part category</td>
-                  <td>Quantity calculation logic tailored to each quadrant</td>
+                  <td>One-size calculation regardless of part category</td>
+                  <td>Quantity logic tailored to each quadrant</td>
                 </tr>
                 <tr>
                   <td>Stock Coverage Visibility</td>
                   <td>No single view of what's covered vs. still needed</td>
-                  <td>Progress bar showing new stock, USM, and recommended quantity to confirm coverage is sufficient
-                  </td>
+                  <td>Progress bar showing coverage sufficiency</td>
                 </tr>
                 <tr>
                   <td>USM Sourcing</td>
@@ -1382,15 +1362,12 @@
             <span class="cd-eyebrow-inline case-doc-eyebrow">Reflections</span>
             <h2>Key UX Takeaways &amp; Enterprise System Lessons</h2>
             <ol class="cd-takeaways">
-              <li><strong>Business rules should disappear into the UI.</strong> Translating rigid stakeholder
-                policy into a visible matrix, pre-filled defaults, and a budget bar let planners follow complex
-                rules without having to consciously think about them.</li>
-              <li><strong>Show the math, don't hide it.</strong> Auto-calculating a recommendation is only
-                trustworthy if the planner can check it — surfacing the formula on hover kept the workspace
-                transparent without cluttering the default view.</li>
-              <li><strong>External data is only useful where the decision happens.</strong> Vendor push lists
-                had real value that was going to waste sitting in an inbox. Pulling that data into the same line
-                item the planner was already looking at is what made it actionable.</li>
+              <li><strong>Business rules should disappear into the UI.</strong> A visible matrix and pre-filled
+                defaults let planners follow complex policy without consciously thinking about it.</li>
+              <li><strong>Show the math, don't hide it.</strong> An auto-calculated recommendation is only
+                trustworthy if the planner can check it on hover.</li>
+              <li><strong>External data is only useful where the decision happens.</strong> Vendor push lists had
+                real value going to waste in an inbox — pulling that data into the line item made it actionable.</li>
             </ol>
 
           </div>
