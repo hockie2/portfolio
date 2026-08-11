@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Engine Stream — Subcontract Module — Teo Boon Hock</title>
+  <meta name="description"
+    content="Case study: an AI-assisted, Human-in-the-Loop approval workbench replacing chaotic vendor email chains for aerospace engine subcontract scrap decisions.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+
+  <!-- Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="mo-back">
+    <div class="container">
+      <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to portfolio</a>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- ===== HERO ===== -->
+    <header class="mo-hero">
+      <div class="mo-hero-grid" aria-hidden="true"></div>
+      <div class="container mo-hero-inner">
+        <div class="row">
+          <div class="col-lg-9">
+            <p class="mo-eyebrow"><span class="mo-eyebrow-dot"></span>AEROSPACE · SALES · ENTERPRISE</p>
+            <h1 class="mo-title">Engine Stream — Subcontract Module</h1>
+            <p class="mo-subtitle">Replacing Chaotic Vendor Email Chains</p>
+            <p class="mo-byline"><strong>Sole UX/UI Designer</strong> (End-to-end) · Component 1 of 11 · Desktop
+              Web App &amp; Client Portal</p>
+          </div>
+        </div>
+
+        <div class="mo-stats">
+          <div class="mo-stat">
+            <div class="mo-stat-num">1 of 11</div>
+            <div class="mo-stat-label">Subcontract Module — component 1 of the Engine Stream ecosystem</div>
+          </div>
+          <div class="mo-stat">
+            <div class="mo-stat-num">3-phase</div>
+            <div class="mo-stat-label">Human-in-the-Loop rollout, from manual entry to full AI autonomy</div>
+          </div>
+          <div class="mo-stat">
+            <div class="mo-stat-num">4 statuses</div>
+            <div class="mo-stat-label">Pending / Approved / Rejected / Scrap-Hold tracked per part</div>
+          </div>
+        </div>
+        <p class="mo-note"><strong>Confidentiality note:</strong> In line with applicable NDAs, all company
+          names, client identities, proprietary part numbers, and live commercial data have been anonymized or
+          generalized. The underlying workflow design, information architecture, and product thinking presented
+          here are unaltered and authentic.</p>
+      </div>
+    </header>
+
+    <!-- ===== HERO SCREENSHOT — ANNOTATED ===== -->
+    <section class="mo-section" style="padding-top:56px;">
+      <div class="container">
+        <span class="mo-eyebrow-inline">AT A GLANCE</span>
+        <h2 class="mo-h2">One workbench replaces chaotic vendor email chains.</h2>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/customer-service/subcon-approval-workbench-nda.svg"
+                alt="EngineStream Subcon Approval Hub table showing scrap parts grouped by ESN with status tags">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>ESN grouping —</strong> every scrapped part
+                  rolls up under its Engine Serial Number, so nothing gets lost across vendor threads.</span></li>
+              <li><span><strong>Sticky filters —</strong> move between
+                  engines and vendors without losing your place in a dense table.</span></li>
+              <li><span><strong>Status tags —</strong> Pending, Approved,
+                  Rejected and Scrap-Hold, color-coded for a one-glance read of what still needs action.</span>
+              </li>
+              <li><span><strong>One-tap approve —</strong> replaces a full
+                  email reply-chain with a single click.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== THE PROBLEM ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE CHALLENGE</span>
+        <h2 class="mo-h2">Scrap decisions were scattered across inboxes and spreadsheets.</h2>
+        <div class="mo-cols">
+          <div>
+            <h4>WHAT CS/SALES WERE DEALING WITH</h4>
+            <ul>
+              <li><strong>Constant context-switching:</strong> bouncing between Outlook, MRO databases, and
+                tracking sheets just to confirm one scrap approval.</li>
+              <li><strong>Spreadsheet duplication:</strong> data from upstream MRO systems re-typed into offline
+                Excel trackers, one per Engine Serial Number.</li>
+              <li><strong>Manual filing burden:</strong> every approved .msg email saved, renamed, and filed by
+                hand for the audit record.</li>
+              <li><strong>No visibility for customers:</strong> airlines had no window into pending scrap
+                decisions, so status-check emails kept piling up.</li>
+            </ul>
+          </div>
+          <div>
+            <h4>WHAT THE APP DOES INSTEAD</h4>
+            <ul>
+              <li><strong>One workbench:</strong> scrap data synced automatically, organized by ESN, with
+                sticky filters and status tags.</li>
+              <li><strong>Dedicated customer portal:</strong> airlines track engine progress and scrap
+                decisions live, on their own.</li>
+              <li><strong>One-click confirmation:</strong> an AI pre-fill paired with the source email snippet,
+                confirmed in a single tap.</li>
+              <li><strong>Automatic archiving:</strong> approved .msg files file themselves to cloud storage,
+                no manual step required.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="mo-persona">
+          <div class="mo-persona-avatar">C</div>
+          <div>
+            <p class="mo-persona-name">CS/Sales Staff · Internal, dual role</p>
+            <div class="mo-persona-tags">
+              <span>Balances account management &amp; approvals</span>
+              <span>Needs fast verification tools</span>
+              <span>Wants an end to duplicate Excel entry</span>
+              <span>Hands-off .msg archiving</span>
+            </div>
+          </div>
+        </div>
+        <div class="mo-persona">
+          <div class="mo-persona-avatar">A</div>
+          <div>
+            <p class="mo-persona-name">Airline Customer · Fleet Rep, external</p>
+            <div class="mo-persona-tags">
+              <span>Signs off on replacement spend</span>
+              <span>Needs clear engine status visibility</span>
+              <span>Wants straightforward scrap justifications</span>
+              <span>An easy way to approve</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== THE APPROACH — 3-PHASE HITL FRAMEWORK ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · APPROACH</span>
+        <h2 class="mo-h2">A three-phase rollout built to earn trust in AI.</h2>
+        <p class="mo-feature-why">Introducing AI into a high-stakes aerospace MRO workflow called for a gradual
+          rollout, not a leap. Each phase hands the system a little more autonomy once the one before it has
+          proven reliable.</p>
+
+        <div class="esc-phase-track">
+          <div class="esc-phase-pill">
+            <span class="esc-phase-num">PHASE 1</span>
+            <p><strong>Human digitization.</strong> CS/Sales staff log part decisions directly in the web app and
+              upload .msg files for the audit trail, while customers follow engine progress through a dedicated
+              portal.</p>
+            <img src="images/uiux/customer-service/human-approval.png" alt="Phase 1: Human digitization"
+              class="img-fluid border rounded-3">
+          </div>
+          <div class="esc-phase-pill">
+            <span class="esc-phase-num">PHASE 2</span>
+            <p><strong>AI verification (HITL).</strong> AI reads incoming email threads and pre-fills the likely
+              decision. CS/Sales confirms each NLP read with a single approval click.</p>
+            <img src="images/uiux/customer-service/ai-approval-human-verify.png"
+              alt="Phase 2: AI verification-HITL" class="img-fluid border rounded-3">
+          </div>
+          <div class="esc-phase-pill">
+            <span class="esc-phase-num">PHASE 3</span>
+            <p><strong>Full AI autonomy.</strong> AI records customer decisions straight from email and archives
+              the .msg files to cloud storage automatically, no human step required.</p>
+            <img src="images/uiux/customer-service/ai-approval.png" alt="Phase 3: Full AI autonomy"
+              class="img-fluid border rounded-3">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 01 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 01</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Unified CS/Sales Scrap Workbench</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> a single-pane table over a multi-tab layout
+          keeps every scrap part tied to its ESN. Sticky filters and color-coded status tags let staff move
+          through dense part lists without losing their place.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/customer-service/subcon-approval-workbench-nda.svg"
+                alt="EngineStream Subcon Approval Hub table showing scrap parts grouped by ESN with status tags">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>ESN-grouped rows —</strong> consolidates
+                  scrapped-part data coming in from vendors via email and Excel, organized by engine.</span></li>
+              <li><span><strong>Status tags —</strong> Pending, Approved,
+                  Rejected and Scrap-Hold — no more juggling separate spreadsheets.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 02 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 02</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Dedicated Airline Customer Portal</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> the client view is kept separate from internal
+          vendor margins and private notes. Customers get full transparency into decisions, while inbound
+          status emails and inbox back-and-forth drop off significantly.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/customer-service/airline-customer-portal-nda.svg"
+                alt="EngineStream Subcon Approval Hub as seen by the airline customer, logged in under their own account">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Engine progress tracker —</strong> airline
+                  reps follow repair status without a single status-check email.</span></li>
+              <li><span><strong>Scrap justification &amp; photos —</strong>
+                  high-res inspection images sit next to each part's replacement rationale.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 03 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 03</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Human-in-the-Loop AI Parsing Interface</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> pairing one-click confirmation with the
+          highlighted email snippet lets staff sanity-check the AI's read in seconds, without wading through
+          full threads or dense metadata — a bridge from manual review toward AI autonomy.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/customer-service/ai-approval-verification-nda.svg"
+                alt="EngineStream approval hub showing an entry marked and approved by the AI system, with a Verify AI Approval action">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Highlighted email snippet —</strong> the
+                  exact phrase the AI read from the customer's email, surfaced next to its interpreted status.
+                </span></li>
+              <li><span><strong>Verify AI Approval —</strong> CS/Sales
+                  confirms the AI's call with one click instead of re-reading the thread.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== WORKFLOW COMPARISON ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">BEFORE &amp; AFTER</span>
+        <h2 class="mo-h2">Workflow Comparison</h2>
+        <div class="table-responsive">
+          <table class="mo-table">
+            <thead>
+              <tr>
+                <th>Operational Area</th>
+                <th>Before</th>
+                <th>After</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Data Ingestion</td>
+                <td>Scattered Excel files &amp; manual lookups</td>
+                <td>Live sync into one central web app</td>
+              </tr>
+              <tr>
+                <td>Decision Tracking</td>
+                <td>Digging through nested inboxes</td>
+                <td>One workbench with status tags per part</td>
+              </tr>
+              <tr>
+                <td>Customer Communication</td>
+                <td>Unstructured email, no status visibility</td>
+                <td>Dedicated portal for live tracking</td>
+              </tr>
+              <tr>
+                <td>Audit Backup (.msg)</td>
+                <td>Manual save, rename, local filing</td>
+                <td>Automatic archiving, fully traceable</td>
+              </tr>
+              <tr>
+                <td>CS/Sales Role</td>
+                <td>Manual data transcriber</td>
+                <td>AI verifier, moving toward account strategist</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== TAKEAWAYS ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">REFLECTIONS</span>
+        <h2 class="mo-h2">Key UX Takeaways</h2>
+        <ol class="mo-takeaways">
+          <li><span class="mo-takeaways-num">01</span><span><strong>Building trust for progressive
+                automation.</strong> A Human-in-the-Loop step with one-click approvals gave CS/Sales confidence
+              in the model before handing over background autonomy.</span></li>
+          <li><span class="mo-takeaways-num">02</span><span><strong>Auditability isn't optional.</strong> Having
+              the AI surface the exact sentence it read from the customer's email means every scrap approval
+              traces cleanly back to its source.</span></li>
+          <li><span class="mo-takeaways-num">03</span><span><strong>Cutting context-switching and admin
+                load.</strong> One workbench turned CS/Sales from manual data loggers into higher-value account
+              managers.</span></li>
+        </ol>
+      </div>
+    </section>
+
+    <div class="mo-footer-link">
+      <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to case studies</a>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+
+</body>
+
+</html>

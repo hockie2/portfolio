@@ -2,26 +2,30 @@ document.addEventListener('DOMContentLoaded', function () {
 
   /* ---- Navbar: solid background after scroll ---- */
   var nav = document.getElementById('mainNav');
-  function onScroll () {
-    if (window.scrollY > 40) {
-      nav.classList.add('scrolled');
-    } else {
-      nav.classList.remove('scrolled');
+  if (nav) {
+    function onScroll () {
+      if (window.scrollY > 40) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
     }
+    onScroll();
+    window.addEventListener('scroll', onScroll, { passive: true });
   }
-  onScroll();
-  window.addEventListener('scroll', onScroll, { passive: true });
 
   /* ---- Collapse mobile nav after a link is tapped ---- */
   var navMenu = document.getElementById('navMenu');
-  navMenu.querySelectorAll('.nav-link').forEach(function (link) {
-    link.addEventListener('click', function () {
-      if (navMenu.classList.contains('show')) {
-        var collapse = bootstrap.Collapse.getOrCreateInstance(navMenu);
-        collapse.hide();
-      }
+  if (navMenu) {
+    navMenu.querySelectorAll('.nav-link').forEach(function (link) {
+      link.addEventListener('click', function () {
+        if (navMenu.classList.contains('show')) {
+          var collapse = bootstrap.Collapse.getOrCreateInstance(navMenu);
+          collapse.hide();
+        }
+      });
     });
-  });
+  }
 
   /* ---- Scroll reveal ---- */
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

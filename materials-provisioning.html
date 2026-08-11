@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Materials Provisioning App — Teo Boon Hock</title>
+  <meta name="description"
+    content="Case study: a predictive purchasing workspace for aerospace engine MRO, replacing a five-spreadsheet manual process for pre-induction part buying.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+
+  <!-- Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="mo-back">
+    <div class="container">
+      <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to portfolio</a>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- ===== HERO ===== -->
+    <header class="mo-hero">
+      <div class="mo-hero-grid" aria-hidden="true"></div>
+      <div class="container mo-hero-inner">
+        <div class="row">
+          <div class="col-lg-9">
+            <p class="mo-eyebrow"><span class="mo-eyebrow-dot"></span>AEROSPACE · SUPPLY CHAIN · ENTERPRISE</p>
+            <h1 class="mo-title">Materials Provisioning App</h1>
+            <p class="mo-subtitle">Predictive Purchasing Before the Engine Arrives</p>
+            <p class="mo-byline"><strong>Sole UX/UI Designer</strong> (End-to-end) · UX &amp; system
+              architecture · Enterprise Desktop Web App</p>
+          </div>
+        </div>
+
+        <div class="mo-stats">
+          <div class="mo-stat">
+            <div class="mo-stat-num">5 → 1</div>
+            <div class="mo-stat-label">spreadsheets consolidated into one workspace</div>
+          </div>
+          <div class="mo-stat">
+            <div class="mo-stat-num">2×2 matrix</div>
+            <div class="mo-stat-label">price × usage-risk categorization drives every purchasing rule</div>
+          </div>
+          <div class="mo-stat">
+            <div class="mo-stat-num">USM in context</div>
+            <div class="mo-stat-label">vendor market lists surfaced next to the line item they apply to</div>
+          </div>
+        </div>
+        <p class="mo-note"><strong>Confidentiality note:</strong> In line with applicable NDAs, company names,
+          part numbers, and financial totals have been anonymized or generalized. The underlying workflow
+          design, information architecture, and product thinking presented here are unaltered and authentic.
+        </p>
+      </div>
+    </header>
+
+    <!-- ===== HERO SCREENSHOT — ANNOTATED ===== -->
+    <section class="mo-section" style="padding-top:56px;">
+      <div class="container">
+        <span class="mo-eyebrow-inline">AT A GLANCE</span>
+        <h2 class="mo-h2">One workspace replaces a five-spreadsheet manual process.</h2>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/provisioning/parts-risk-categories-nda.svg"
+                alt="Materials Provisioning parts list with LL, LH, HH price/usage category filter">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Quadrant filter —</strong> one tap narrows
+                  the list to the price/risk category being worked through.</span></li>
+              <li><span><strong>Historical usage —</strong> attached to
+                  every row, so past demand is never a separate lookup.</span></li>
+              <li><span><strong>Recommended quantity —</strong> the app's
+                  calculated suggestion sits right next to the part it applies to.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== THE PROBLEM ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE CHALLENGE</span>
+        <h2 class="mo-h2">Five spreadsheets, one guessing game on high-value parts.</h2>
+        <div class="mo-cols">
+          <div>
+            <h4>WHAT PLANNERS WERE DEALING WITH</h4>
+            <ul>
+              <li><strong>Spreadsheet fatigue:</strong> every decision meant cross-referencing up to five Excel
+                files, plus vendor PDFs and email.</li>
+              <li><strong>Buried deals:</strong> vendor "push lists" for used parts sat in inboxes, so cheaper
+                USM alternatives routinely got missed.</li>
+              <li><strong>Guesswork on high-value parts:</strong> no forecasting tool meant planners defaulted
+                to over-ordering out of fear of shopfloor delays.</li>
+            </ul>
+          </div>
+          <div>
+            <h4>WHAT THE APP DOES INSTEAD</h4>
+            <ul>
+              <li><strong>One matrix, one workspace:</strong> a 2×2 grid (price × usage likelihood) drives both
+                layout and purchasing logic.</li>
+              <li><strong>Guardrails, not spreadsheets:</strong> live budget bars and a predictive formula
+                handle the math planners used to do by hand.</li>
+              <li><strong>USM in context:</strong> vendor market lists sit inline, next to the part they apply
+                to.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="mo-persona">
+          <div class="mo-persona-avatar">E</div>
+          <div>
+            <p class="mo-persona-name">Elena · Material Planner</p>
+            <div class="mo-persona-tags">
+              <span>Reviews upcoming engine workscopes</span>
+              <span>Cross-checks vendor price sheets by hand</span>
+              <span>Calculates order quantities manually</span>
+              <span>Needs cheaper USM alternatives surfaced</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 01 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 01</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Categorizing Parts by Price &amp; Risk</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> stakeholders had already defined the rules
+          for each quadrant; turning them into a visible 2×2 grid let Elena see at a glance which parts needed
+          a quick lookup versus a full forecast, instead of memorizing four policies.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/provisioning/parts-risk-categories-nda.svg"
+                alt="Materials Provisioning parts list with LL, LH, HH price/usage category filter">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Quadrant tag —</strong> every part sits in
+                  one of four categories; the tag determines which purchasing rule applies automatically.
+                </span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 02 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 02</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Coverage Tracking</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> without this view, it's easy to accidentally
+          double-order a part that's already partially fulfilled. One progress bar lets Elena see fulfillment
+          status at a glance instead of cross-checking manually.</p>
+
+        <div class="row g-4">
+          <div class="col-md-6">
+            <figure class="mo-shot">
+              <img src="images/uiux/provisioning/part-coverage-drawer-nda.svg"
+                alt="Part detail drawer showing NEW and USM coverage split, recommended quantity to buy, and a usage history and forecast chart">
+            </figure>
+          </div>
+          <div class="col-md-6">
+            <ul class="mo-legend">
+              <li><span><strong>Coverage progress bar —</strong> shows how
+                  much of the part's demand is covered by new stock, USM, and incoming shipments.</span></li>
+              <li><span><strong>Recommended quantity —</strong> the
+                  remaining amount to buy, calculated automatically.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 03 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 03</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Vendor USM Matchmaker Panel</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> these deals used to arrive as static PDFs,
+          disconnected from the part they applied to. Sliding the data next to the line item turned a passive
+          email into an active, in-context decision.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/provisioning/vendor-comparison-panel-nda.svg"
+                alt="Vendor selection panel comparing price and condition across multiple vendors for a single part">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Vendor comparison —</strong> price and
+                  condition side by side across every matching vendor.</span></li>
+              <li><span><strong>Cost savings —</strong> a running total
+                  shows exactly what's saved versus ordering new.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 04 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 04</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Submission Cart &amp; Review Queue</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> staging picks in a cart before submission
+          means Elena can review everything at once instead of submitting parts one at a time.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/provisioning/submission-cart-review-nda.svg"
+                alt="Submission cart and review queue showing selected parts staged for order before approval">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Staged parts —</strong> every pick sits in
+                  a review queue before going out as an order, catching mistakes before submission.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 05 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 05</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Approval Monitoring</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> every submitted order needs a single place
+          to check status, rather than following up over email.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/provisioning/approval-monitoring-nda.svg"
+                alt="Approval monitoring table tracking submitted materials by status, planner, order and customer">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Status tracking —</strong> every submitted
+                  order tracked by status, planner, and the engine/customer it's tied to.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== WORKFLOW COMPARISON ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">BEFORE &amp; AFTER</span>
+        <h2 class="mo-h2">Workflow Comparison</h2>
+        <div class="table-responsive">
+          <table class="mo-table">
+            <thead>
+              <tr>
+                <th>Operational Area</th>
+                <th>Before</th>
+                <th>After</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Data Gathering</td>
+                <td>5 Excel sheets, vendor PDFs, and email</td>
+                <td>Single unified decision workspace</td>
+              </tr>
+              <tr>
+                <td>Recommended Quantities</td>
+                <td>One-size calculation regardless of part category</td>
+                <td>Quantity logic tailored to each quadrant</td>
+              </tr>
+              <tr>
+                <td>Stock Coverage Visibility</td>
+                <td>No single view of what's covered vs. still needed</td>
+                <td>Progress bar showing coverage sufficiency</td>
+              </tr>
+              <tr>
+                <td>USM Sourcing</td>
+                <td>Ad-hoc scanning of vendor PDF attachments</td>
+                <td>In-context side-drawer matching panel</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== TAKEAWAYS ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">REFLECTIONS</span>
+        <h2 class="mo-h2">Key UX Takeaways</h2>
+        <ol class="mo-takeaways">
+          <li><span class="mo-takeaways-num">01</span><span><strong>Business rules should disappear into the
+                UI.</strong> A visible matrix and pre-filled defaults let planners follow complex policy
+              without consciously thinking about it.</span></li>
+          <li><span class="mo-takeaways-num">02</span><span><strong>Show the math, don't hide it.</strong> An
+              auto-calculated recommendation is only trustworthy if the planner can check it on hover.</span>
+          </li>
+          <li><span class="mo-takeaways-num">03</span><span><strong>External data is only useful where the
+                decision happens.</strong> Vendor push lists had real value going to waste in an inbox —
+              pulling that data into the line item made it actionable.</span></li>
+        </ol>
+      </div>
+    </section>
+
+    <div class="mo-footer-link">
+      <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to case studies</a>
+    </div>

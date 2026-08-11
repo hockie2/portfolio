@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sales Pipeline &amp; Engine Forecast Workspace — Teo Boon Hock</title>
+  <meta name="description"
+    content="Case study: a role-tailored sales pipeline dashboard for aerospace engine MRO, replacing a single spreadsheet trying to serve three different jobs.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+
+  <!-- Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="mo-back">
+    <div class="container">
+      <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to portfolio</a>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- ===== HERO ===== -->
+    <header class="mo-hero">
+      <div class="mo-hero-grid" aria-hidden="true"></div>
+      <div class="container mo-hero-inner">
+        <div class="row">
+          <div class="col-lg-9">
+            <p class="mo-eyebrow"><span class="mo-eyebrow-dot"></span>AEROSPACE · SALES · ENTERPRISE</p>
+            <h1 class="mo-title">Sales Pipeline &amp; Engine Forecast Workspace</h1>
+            <p class="mo-subtitle">One Workspace for Three Different Jobs</p>
+            <p class="mo-byline"><strong>Sole UX/UI Designer</strong> (End-to-end) · UX &amp; system
+              architecture · Enterprise Web Application</p>
+          </div>
+        </div>
+
+        <div class="mo-stats">
+          <div class="mo-stat">
+            <div class="mo-stat-num">3 roles</div>
+            <div class="mo-stat-label">Director, KAM &amp; Sales Support served by one dashboard</div>
+          </div>
+          <div class="mo-stat">
+            <div class="mo-stat-num">1 dataset</div>
+            <div class="mo-stat-label">Live pipeline data, no more shared-spreadsheet conflicts</div>
+          </div>
+          <div class="mo-stat">
+            <div class="mo-stat-num">Full audit</div>
+            <div class="mo-stat-label">Structured, immutable edit log replacing fragile formulas</div>
+          </div>
+        </div>
+        <p class="mo-note"><strong>Confidentiality note:</strong> In line with applicable NDAs, revenue
+          figures, customer account names, and proprietary business logic have been anonymized or generalized.
+          The underlying workflow design, information architecture, and product thinking presented here are
+          unaltered and authentic.</p>
+      </div>
+    </header>
+
+    <!-- ===== HERO SCREENSHOT — ANNOTATED ===== -->
+    <section class="mo-section" style="padding-top:56px;">
+      <div class="container">
+        <span class="mo-eyebrow-inline">AT A GLANCE</span>
+        <h2 class="mo-h2">One live dashboard replaces the shared pipeline spreadsheet.</h2>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/sales/engine-dashboard-nda.svg"
+                alt="Sales pipeline dashboard with revenue vs target chart and a filterable engine forecast table">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Revenue vs. target —</strong> the Sales
+                  Director's headline chart, visible the moment the dashboard loads.</span></li>
+              <li><span><strong>Sticky filters —</strong> Year, Month,
+                  Status and Account, so meeting prep never means a live pivot table.</span></li>
+              <li><span><strong>Account-level rows —</strong> KAMs see
+                  forecasts scoped to just the accounts they own.</span></li>
+              <li><span><strong>Certainty tags —</strong> bid confidence
+                  logged directly against each engine, no separate tracker.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== THE PROBLEM ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE CHALLENGE</span>
+        <h2 class="mo-h2">One spreadsheet was asked to serve three different jobs.</h2>
+        <div class="mo-cols">
+          <div>
+            <h4>WHAT THE TEAM WAS DEALING WITH</h4>
+            <ul>
+              <li><strong>One file, three jobs:</strong> a single spreadsheet served the Sales Director, KAMs,
+                and Sales Support at once — and satisfied none of them well.</li>
+              <li><strong>Meeting prep by hand:</strong> sales reviews meant building pivot tables live, on the
+                spot, to answer a question about a given month or account.</li>
+              <li><strong>Hidden tabs and fragile formulas:</strong> data lived across scattered tabs with
+                formulas that broke easily under regular editing.</li>
+              <li><strong>No audit trail:</strong> no reliable history of who changed what on a given engine's
+                forecast.</li>
+            </ul>
+          </div>
+          <div>
+            <h4>WHAT THE APP DOES INSTEAD</h4>
+            <ul>
+              <li><strong>Role-based dashboards:</strong> the Director, KAMs and Sales Support each get exactly
+                the density they need.</li>
+              <li><strong>Sticky filters:</strong> Year, Month, Status and Account, ready before a review even
+                starts.</li>
+              <li><strong>Structured, auditable records:</strong> an immutable edit log replaces fragile
+                formulas.</li>
+              <li><strong>Optional capacity guardrails:</strong> shopfloor WIP thresholds sit as light context,
+                not core clutter.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row g-3 mt-1">
+          <div class="col-md-4">
+            <div class="mo-persona">
+              <div class="mo-persona-avatar">D</div>
+              <div>
+                <p class="mo-persona-name">Sales Director · HOD</p>
+                <div class="mo-persona-tags">
+                  <span>Reviews revenue vs. target</span>
+                  <span>Tracks margins &amp; YoY performance</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="mo-persona">
+              <div class="mo-persona-avatar">K</div>
+              <div>
+                <p class="mo-persona-name">Key Account Manager</p>
+                <div class="mo-persona-tags">
+                  <span>Owns a portfolio of airlines</span>
+                  <span>Logs bid certainty &amp; status</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="mo-persona">
+              <div class="mo-persona-avatar">S</div>
+              <div>
+                <p class="mo-persona-name">Sales Support · Operations</p>
+                <div class="mo-persona-tags">
+                  <span>Logs high-volume daily activity</span>
+                  <span>Needs a chart-free, dense grid</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 01 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 01</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Role-Based Dashboard Architecture</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> a one-size-fits-all dashboard satisfies no
+          one here. Executives need fast, scannable summaries; account managers only need their own portfolio;
+          data entry operators need every chart removed so rows stay visible.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/sales/engine-dashboard-nda.svg"
+                alt="Sales pipeline dashboard with revenue vs target chart and a filterable engine forecast table">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Strategic chart —</strong> visible only in
+                  the Director's view: revenue vs. target, margins, and year-over-year comparison.</span></li>
+              <li><span><strong>Account-filtered rows —</strong> KAMs see
+                  just their own portfolio; Sales Support gets the same rows with every chart stripped out.
+                </span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 02 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 02</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Automated, Auditable Records</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> the old file had no reliable way to trace who
+          changed a forecast or when. Structured tracking per ESN means the data can be trusted during a
+          review, not just referenced.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/sales/engine-detail-page-nda.svg"
+                alt="Individual engine forecast record with structured sales and bidding fields per ESN">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>Structured entry fields —</strong> every
+                  field ties back to the ESN it belongs to, replacing free-form spreadsheet cells.</span></li>
+              <li><span><strong>Immutable edit log —</strong> every change
+                  is timestamped and attributed, so a forecast can be trusted during a review.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== FEATURE 03 ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 03</span>
+        <div class="mo-feature-head">
+          <h3 class="mo-feature-title">Optional Shopfloor Capacity Guardrails</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> shopfloor throughput matters to sales
+          planning, but it isn't the core job of this workspace. Treating it as light, optional context —
+          rather than a primary feature — keeps the focus on the pipeline itself.</p>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <figure class="mo-shot">
+              <img src="images/uiux/sales/forecast-tracker-nda.svg"
+                alt="Overview Forecast Tracker chart with WIP upper and lower threshold bands layered over actual and forecast input, output and WIP lines">
+            </figure>
+          </div>
+          <div class="col-12">
+            <ul class="mo-legend">
+              <li><span><strong>WIP threshold band —</strong> upper and
+                  lower shopfloor capacity limits (e.g. 40 / 20) shown as a light reference layer.</span></li>
+              <li><span><strong>Actual vs. forecast trend —</strong> the
+                  primary line stays the focus; capacity sits behind it as context, not competition.</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== WORKFLOW COMPARISON ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">BEFORE &amp; AFTER</span>
+        <h2 class="mo-h2">Workflow Comparison</h2>
+        <div class="table-responsive">
+          <table class="mo-table">
+            <thead>
+              <tr>
+                <th>Operational Area</th>
+                <th>Before</th>
+                <th>After</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Interface</td>
+                <td>One cluttered file with hidden tabs, shared across every role</td>
+                <td>Role-tailored dashboard: strategic view for leadership, dense grid for data entry</td>
+              </tr>
+              <tr>
+                <td>Data Visibility</td>
+                <td>Fragmented across emails and shared files</td>
+                <td>Centralized pipeline tracking with live filtering</td>
+              </tr>
+              <tr>
+                <td>Sales Meetings</td>
+                <td>Hours spent building pivot tables</td>
+                <td>Sticky filters by Year, Month, Status &amp; Account</td>
+              </tr>
+              <tr>
+                <td>Audit &amp; History</td>
+                <td>Fragile formulas, no traceability</td>
+                <td>Structured tracking with an immutable edit log per ESN</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== TAKEAWAYS ===== -->
+    <section class="mo-section">
+      <div class="container">
+        <span class="mo-eyebrow-inline">REFLECTIONS</span>
+        <h2 class="mo-h2">Key UX Takeaways</h2>
+        <ol class="mo-takeaways">
+          <li><span class="mo-takeaways-num">01</span><span><strong>One dashboard can't serve three
+                jobs.</strong> Decoupling executive visualization from operational data entry meant each role
+              got the density they actually needed, instead of a shared compromise.</span></li>
+          <li><span class="mo-takeaways-num">02</span><span><strong>Filters can replace whole
+                workflows.</strong> Putting Year, Month, Status, and Account filters directly on the dashboard
+              turned pivot-table prep into a single click during live reviews.</span></li>
+          <li><span class="mo-takeaways-num">03</span><span><strong>Auxiliary data should stay
+                auxiliary.</strong> Shopfloor capacity thresholds mattered to sales planning, but treating them
+              as a secondary reference — not a core feature — kept the workspace focused on the pipeline
+              itself.</span></li>
+        </ol>
+      </div>
+    </section>
+
+    <div class="mo-footer-link">
+      <a href="index.html#work"><i class="bi bi-arrow-left"></i> Back to case studies</a>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+
+</body>
+
+</html>
