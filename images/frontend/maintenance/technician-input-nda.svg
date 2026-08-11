@@ -1,0 +1,84 @@
+<svg width="691" height="707" viewBox="0 0 691 707" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="690" height="705.182" rx="9.5" fill="white"/>
+<rect x="0.5" y="0.5" width="690" height="705.182" rx="9.5" stroke="#DAE8FC"/>
+<rect x="25" y="25" width="40" height="40" rx="20" fill="#C0C0C0"/>
+<path d="M51.9092 55.5587L50.5482 57.0908L38.0911 44.9998L50.5482 32.9089L51.9092 34.441L41.0309 44.9998L51.9092 55.5587Z" stroke="white" stroke-width="3.58473"/>
+<rect x="96" y="31" width="266" height="28" rx="5" fill="#F4F4F4"/>
+<path d="M104 41C104 38.2386 106.239 36 109 36H179C181.761 36 184 38.2386 184 41V49C184 51.7614 181.761 54 179 54H109C106.239 54 104 51.7614 104 49V41Z" fill="#F4F4F4"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="116.309" y="49.1602">All Status</tspan></text>
+<path d="M189 41C189 38.2386 191.239 36 194 36H264C266.761 36 269 38.2386 269 41V49C269 51.7614 266.761 54 264 54H194C191.239 54 189 51.7614 189 49V41Z" fill="#2B64F3"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="205.316" y="49.1602">Pending</tspan></text>
+<rect x="274" y="36" width="80" height="18" rx="5" fill="#F4F4F4"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="284.65" y="49.1602">Submitted</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="15.2727" letter-spacing="0em"><tspan x="491" y="50.2947">3 of 5 pending</tspan></text>
+<rect width="40" height="40" rx="20" transform="matrix(-1 0 0 1 666 25)" fill="#C0C0C0"/>
+<path d="M639.091 55.5587L640.452 57.0908L652.909 44.9998L640.452 32.9089L639.091 34.441L649.969 44.9998L639.091 55.5587Z" stroke="white" stroke-width="3.58473"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="25" y="98.751">BUILDING</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="25" y="125.024">503</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="131" y="98.751">LOCATION</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="131" y="125.024">Level 1</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="266.333" y="98.751">SUB-LOCATION</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="266.333" y="125.024">Men&#x2019;s toilet</tspan></text>
+<rect x="554.636" y="95.1364" width="110.727" height="26.9091" rx="12.0909" fill="#FFEBEC"/>
+<rect x="554.636" y="95.1364" width="110.727" height="26.9091" rx="12.0909" stroke="#FFC4C4" stroke-width="1.27273"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="15.2727" font-weight="bold" letter-spacing="0em"><tspan x="579.5" y="113.886">Pending</tspan></text>
+<rect x="25.5" y="153.682" width="640" height="150" rx="9.5" fill="#F8FAFC"/>
+<rect x="25.5" y="153.682" width="640" height="150" rx="9.5" stroke="#DAE8FC"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="44" y="194.342">METER TYPE</tspan></text>
+<rect x="44.5536" y="214.664" width="91.8929" height="30.9643" rx="15.4821" fill="#E4F4FF"/>
+<rect x="44.5536" y="214.664" width="91.8929" height="30.9643" rx="15.4821" stroke="#ADCEFF" stroke-width="1.10714"/>
+<path d="M66.7833 223.783C65.6955 222.526 64.4711 221.395 63.1329 220.41C63.0144 220.327 62.8733 220.282 62.7287 220.282C62.584 220.282 62.4429 220.327 62.3244 220.41C60.9886 221.395 59.7667 222.527 58.681 223.783C56.26 226.563 54.9822 229.494 54.9822 232.259C54.9822 234.315 55.7987 236.286 57.2521 237.739C58.7055 239.193 60.6767 240.009 62.7322 240.009C64.7876 240.009 66.7588 239.193 68.2123 237.739C69.6657 236.286 70.4822 234.315 70.4822 232.259C70.4822 229.494 69.2043 226.563 66.7833 223.783ZM67.6508 233.082C67.4681 234.102 66.9771 235.042 66.244 235.775C65.5109 236.508 64.5708 236.999 63.5503 237.181C63.5128 237.187 63.4748 237.191 63.4367 237.191C63.26 237.191 63.0897 237.125 62.9597 237.005C62.8297 236.885 62.7494 236.721 62.7348 236.545C62.7201 236.369 62.7722 236.194 62.8807 236.054C62.9892 235.915 63.1462 235.821 63.3205 235.792C64.7798 235.546 66.018 234.308 66.2655 232.846C66.2968 232.662 66.4 232.497 66.5524 232.389C66.7049 232.281 66.8941 232.238 67.0783 232.269C67.2626 232.3 67.4269 232.404 67.5351 232.556C67.6433 232.708 67.6865 232.898 67.6552 233.082H67.6508Z" fill="#2B64F3"/>
+<text fill="#2B64F3" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="76.0178" y="236.386">Water</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="196.5" y="194.342">PREVIOUS READING</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="196.881" y="240.162">4,100.2 </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" letter-spacing="0em"><tspan x="327.135" y="240.162">m&#xb3;</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="196.5" y="269.342">13 Feb 2026, 2.35pm</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="415" y="194.342">CURRENT READING</tspan></text>
+<rect x="415.5" y="207.682" width="231" height="66" rx="9.5" fill="white"/>
+<rect x="415.5" y="207.682" width="231" height="66" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#DDDDDD" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="513.43" y="253.162">0.00 </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" letter-spacing="0em"><tspan x="593.586" y="253.162">m&#xb3;</tspan></text>
+<rect x="25.5" y="323.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="25.5" y="323.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="96.25" y="364.002">7</tspan></text>
+<rect x="187" y="323.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="187" y="323.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="257.75" y="364.002">8</tspan></text>
+<rect x="348.5" y="323.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="348.5" y="323.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="419.25" y="364.002">9</tspan></text>
+<rect x="510" y="323.682" width="155.5" height="64" rx="9.5" fill="#FFEBEC"/>
+<rect x="510" y="323.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<path d="M600.607 345.482H580.857C580.487 345.483 580.124 345.566 579.802 345.724C579.48 345.882 579.211 346.109 579.019 346.383L572.903 355.204C572.803 355.349 572.75 355.514 572.75 355.682C572.75 355.85 572.803 356.015 572.903 356.159L579.019 364.981C579.211 365.255 579.48 365.482 579.802 365.64C580.124 365.798 580.487 365.881 580.857 365.882H600.607C601.175 365.882 601.721 365.687 602.122 365.339C602.524 364.991 602.75 364.519 602.75 364.027V347.336C602.75 346.845 602.524 346.373 602.122 346.025C601.721 345.677 601.175 345.482 600.607 345.482ZM600.607 364.027H580.857L575.071 355.682L580.857 347.336H600.607V364.027ZM585.921 357.808L588.378 355.682L585.921 353.556C585.72 353.382 585.607 353.146 585.607 352.9C585.607 352.654 585.72 352.418 585.921 352.244C586.122 352.07 586.394 351.972 586.679 351.972C586.963 351.972 587.236 352.07 587.437 352.244L589.893 354.371L592.349 352.244C592.449 352.158 592.567 352.09 592.697 352.043C592.827 351.996 592.966 351.972 593.107 351.972C593.248 351.972 593.387 351.996 593.517 352.043C593.648 352.09 593.766 352.158 593.865 352.244C593.965 352.33 594.044 352.433 594.098 352.545C594.152 352.658 594.179 352.778 594.179 352.9C594.179 353.022 594.152 353.143 594.098 353.255C594.044 353.368 593.965 353.47 593.865 353.556L591.408 355.682L593.865 357.808C593.965 357.894 594.044 357.996 594.098 358.109C594.152 358.221 594.179 358.342 594.179 358.464C594.179 358.586 594.152 358.706 594.098 358.819C594.044 358.931 593.965 359.034 593.865 359.12C593.766 359.206 593.648 359.274 593.517 359.321C593.387 359.368 593.248 359.392 593.107 359.392C592.966 359.392 592.827 359.368 592.697 359.321C592.567 359.274 592.449 359.206 592.349 359.12L589.893 356.993L587.437 359.12C587.337 359.206 587.219 359.274 587.089 359.321C586.959 359.368 586.82 359.392 586.679 359.392C586.538 359.392 586.399 359.368 586.269 359.321C586.138 359.274 586.02 359.206 585.921 359.12C585.821 359.034 585.742 358.931 585.688 358.819C585.634 358.706 585.607 358.586 585.607 358.464C585.607 358.342 585.634 358.221 585.688 358.109C585.742 357.996 585.821 357.894 585.921 357.808Z" fill="#E15C5C"/>
+<rect x="25.5" y="393.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="25.5" y="393.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="96.25" y="434.002">4</tspan></text>
+<rect x="187" y="393.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="187" y="393.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="257.75" y="434.002">5</tspan></text>
+<rect x="348.5" y="393.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="348.5" y="393.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="419.25" y="434.002">6</tspan></text>
+<rect x="510" y="393.682" width="155.5" height="64" rx="9.5" fill="#FFF6E4"/>
+<rect x="510" y="393.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="562.75" y="434.002">CLR</tspan></text>
+<rect x="25.5" y="463.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="25.5" y="463.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="96.25" y="504.002">1</tspan></text>
+<rect x="187" y="463.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="187" y="463.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="257.75" y="504.002">2</tspan></text>
+<rect x="348.5" y="463.682" width="155.5" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="348.5" y="463.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="419.25" y="504.002">3</tspan></text>
+<rect x="510" y="463.682" width="155.5" height="64" rx="9.5" fill="#E4F4FF"/>
+<rect x="510" y="463.682" width="155.5" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="584.25" y="504.002">.</tspan></text>
+<rect x="25.5" y="533.682" width="640" height="64" rx="9.5" fill="#F4F4F4"/>
+<rect x="25.5" y="533.682" width="640" height="64" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="338.5" y="574.002">0</tspan></text>
+<rect x="25" y="626.518" width="261.09" height="54.6638" rx="5" fill="#E6E6E6"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="132.545" y="658.704">Cancel</tspan></text>
+<rect x="295.471" y="626.182" width="370.529" height="54.6638" rx="5" fill="#2B64F3"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="427.236" y="658.367">Submit Reading</tspan></text>
+</svg>
