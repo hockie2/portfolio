@@ -667,6 +667,7 @@ a.case-visual--photo:hover .case-visual-img{ transform: scale(1.015); }
   background: linear-gradient(to top, rgba(16,20,28,0.82), transparent);
   color: #fff;
   display: flex; flex-direction: column; gap: 2px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
 }
 .craft-title{ font-family: var(--font-display); font-weight: 600; font-size: .92rem; }
 .craft-sub{ font-family: var(--font-mono); font-size: .68rem; opacity: .8; }
