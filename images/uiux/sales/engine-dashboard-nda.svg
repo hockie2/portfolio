@@ -836,7 +836,8 @@
             <text class="st30" transform="translate(1167 1030.8)"><tspan x="0" y="0">ALTRON-Direct</tspan></text>
           </g>
           <g class="st45">
-            <text class="st24" transform="translate(966.1 1018.8)"><tspan x="0" y="0"> </tspan></text>
+            <text class="st24" transform="translate(966.1 1018.8)"><tspan x="0" y="0">
+</tspan></text>
             <text class="st30" transform="translate(886.7 1034.8)"><tspan x="0" y="0">9 Jan,25 - 15 Jan, 25</tspan></text>
           </g>
           <g class="st45">
@@ -862,7 +863,7 @@
           </g>
           <path class="st92" d="M1306,1013h94c7.2,0,13,5.8,13,13h0c0,7.2-5.8,13-13,13h-94c-7.2,0-13-5.8-13-13h0c0-7.2,5.8-13,13-13Z"/>
           <g class="st45">
-            <text class="st51" transform="translate(1330.3 1030.2)"><tspan x="0" y="0">LOCKED</tspan></text>
+            <text class="st51" transform="translate(1330.3 1030.2)"><tspan x="0" y="0">FIRM</tspan></text>
           </g>
           <path class="st11" d="M1382.5,1023.5l5.5,5,5.5-5"/>
           <path class="st92" d="M1433,1013h94c7.2,0,13,5.8,13,13h0c0,7.2-5.8,13-13,13h-94c-7.2,0-13-5.8-13-13h0c0-7.2,5.8-13,13-13Z"/>
@@ -882,7 +883,7 @@
           <path class="st67" d="M1125,1008h10v10l-10-10Z"/>
           <path class="st67" d="M578,1008h10v10l-10-10Z"/>
           <g class="st45">
-            <text class="st51" transform="translate(1452.5 1030.2)"><tspan x="0" y="0">LOCKED</tspan></text>
+            <text class="st51" transform="translate(1452.5 1030.2)"><tspan x="0" y="0">FIRM</tspan></text>
           </g>
           <g class="st45">
             <text class="st30" transform="translate(177.1 1094.8)"><tspan x="0" y="0">AEROLINK SG</tspan></text>

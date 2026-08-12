@@ -414,7 +414,7 @@ button.case-visual:focus-visible{
   display: block;
   transition: transform .3s ease;
 }
-button.case-visual--photo:hover .case-visual-img{ transform: scale(1.015); }
+a.case-visual--photo:hover .case-visual-img{ transform: scale(1.015); }
 @media (max-width: 991.98px){
   .case-visual--photo{
     height: auto;
@@ -983,7 +983,7 @@ a:focus-visible, button:focus-visible{
     color: var(--esc-accent);
     background: var(--esc-accent-soft);
     border-radius: 999px;
-    padding: 0.15rem 0.6rem;
+    /* padding: 0.15rem 0.6rem; */
     margin-bottom: 0.5rem;
   }
   .esc-phase-pill p {
@@ -1980,7 +1980,7 @@ a:focus-visible, button:focus-visible{
   font-size: clamp(1.5rem, 2.6vw, 2rem);
   letter-spacing: -.01em;
   margin-bottom: 28px;
-  max-width: 26ch;
+  /* max-width: 26ch; */
 }
 
 /* ---------- ANNOTATED SCREENSHOT ---------- */
@@ -2042,7 +2042,6 @@ a:focus-visible, button:focus-visible{
 .mo-feature-why {
   font-size: .92rem;
   color: var(--ink-soft);
-  max-width: 62ch;
   margin-bottom: 22px;
 }
 .mo-feature-why strong { color: var(--ink); }
