@@ -341,3 +341,26 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 });
+
+/* ============================================
+   Back to top button — show after scrolling down, and scroll smoothly to top on click
+   ============================================ */
+
+const backToTopBtn = document.getElementById('backToTopBtn');
+
+// Show button when scrolled down 300px
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 300) {
+    backToTopBtn.classList.add('show');
+  } else {
+    backToTopBtn.classList.remove('show');
+  }
+});
+
+// Smoothly scroll to top on click
+backToTopBtn.addEventListener('click', () => {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+});

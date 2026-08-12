@@ -2192,3 +2192,39 @@ a:focus-visible, button:focus-visible{
   max-height: none;
   overflow-y: visible;
 }
+
+/* ============================================
+   Back to top button
+   ============================================ */
+#backToTopBtn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 48px;
+  height: 48px;
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  
+  /* Smooth fade-in/out transition */
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.2s ease;
+  z-index: 1000;
+}
+
+#backToTopBtn:hover {
+  background-color: #0056b3;
+  transform: translateY(-3px);
+}
+
+/* Class added via JS when scrolled down */
+#backToTopBtn.show {
+  opacity: 1;
+  visibility: visible;
+}
