@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="535" height="1026" viewBox="0 0 535 1026" fill="none">
+<defs><style>
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap');
+
+text,
+tspan {
+    font-family: 'Arimo', Arial, sans-serif !important;
+}
+</style></defs><g clip-path="url(#clip0_6247_12626)">
+<path d="M0 10C0 4.47718 4.47715 0 10 0H535V1026H10C4.47716 1026 0 1021.52 0 1016V10Z" fill="#F5F5F5"/>
+<rect width="535" height="98" fill="white"/>
+<path d="M515.781 36.9621C515.851 37.0345 515.906 37.1205 515.944 37.2151C515.981 37.3097 516.001 37.4111 516.001 37.5135C516.001 37.6159 515.981 37.7172 515.944 37.8118C515.906 37.9064 515.851 37.9924 515.781 38.0648C515.711 38.1372 515.629 38.1946 515.538 38.2338C515.447 38.273 515.349 38.2932 515.25 38.2932C515.152 38.2932 515.054 38.273 514.963 38.2338C514.872 38.1946 514.789 38.1372 514.72 38.0648L508.5 31.6018L502.281 38.0648C502.14 38.211 501.949 38.2932 501.75 38.2932C501.551 38.2932 501.361 38.211 501.22 38.0648C501.079 37.9186 501 37.7203 501 37.5135C501 37.3067 501.079 37.1084 501.22 36.9621L507.44 30.5001L501.22 24.0381C501.079 23.8918 501 23.6935 501 23.4867C501 23.2799 501.079 23.0816 501.22 22.9354C501.361 22.7892 501.551 22.707 501.75 22.707C501.949 22.707 502.14 22.7892 502.281 22.9354L508.5 29.3984L514.72 22.9354C514.861 22.7892 515.051 22.707 515.25 22.707C515.449 22.707 515.64 22.7892 515.781 22.9354C515.922 23.0816 516.001 23.2799 516.001 23.4867C516.001 23.6935 515.922 23.8918 515.781 24.0381L509.561 30.5001L515.781 36.9621Z" fill="black"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="63" y="68.8535" font-family="Arimo">FAN BLADE SHIM</tspan></text>
+<text fill="#1672D4" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="63" y="49.4336" font-family="Arimo">ADC1234456</tspan></text>
+<path d="M42.84 44.9894L30.5708 38.2761C30.2429 38.095 29.8745 38 29.5 38C29.1255 38 28.7571 38.095 28.4292 38.2761L16.16 44.9922C15.8096 45.1839 15.5171 45.4661 15.3131 45.8095C15.109 46.1528 15.0009 46.5447 15 46.9441V60.2785C15.0009 60.6779 15.109 61.0697 15.3131 61.4131C15.5171 61.7564 15.8096 62.0387 16.16 62.2304L28.4292 68.9464C28.7571 69.1276 29.1255 69.2226 29.5 69.2226C29.8745 69.2226 30.2429 69.1276 30.5708 68.9464L42.84 62.2304C43.1904 62.0387 43.4829 61.7564 43.6869 61.4131C43.891 61.0697 43.9991 60.6779 44 60.2785V46.9455C43.9998 46.5454 43.8921 46.1527 43.688 45.8085C43.4839 45.4643 43.191 45.1814 42.84 44.9894ZM29.5 40.2281L40.7012 46.3627L29.5 52.4973L18.2987 46.3627L29.5 40.2281ZM17.2308 48.3146L28.3846 54.4186V66.3797L17.2308 60.2799V48.3146ZM30.6154 66.3797V54.4241L41.7692 48.3146V60.2743L30.6154 66.3797Z" fill="#B8C2CC"/>
+<g clip-path="url(#clip1_6247_12626)">
+<rect x="16.5" y="115" width="502" height="143" rx="10" fill="#FFFEFE"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="49.5" y="146.16" font-family="Arimo">ALL ENGINES</tspan></text>
+<path d="M38 136C36.7144 136 35.4577 136.381 34.3888 137.095C33.3199 137.81 32.4868 138.825 31.9948 140.013C31.5028 141.2 31.3741 142.507 31.6249 143.768C31.8757 145.029 32.4948 146.187 33.4038 147.096C34.3128 148.005 35.471 148.624 36.7319 148.875C37.9928 149.126 39.2997 148.997 40.4874 148.505C41.6752 148.013 42.6903 147.18 43.4046 146.111C44.1188 145.042 44.5 143.786 44.5 142.5C44.498 140.777 43.8126 139.125 42.594 137.906C41.3754 136.687 39.7233 136.002 38 136ZM43.5 142.5C43.5004 143.007 43.4304 143.512 43.2919 144H40.885C41.0383 143.006 41.0383 141.994 40.885 141H43.2919C43.4304 141.488 43.5004 141.993 43.5 142.5ZM36.375 145H39.625C39.3048 146.049 38.749 147.011 38 147.812C37.2513 147.011 36.6955 146.049 36.375 145ZM36.1313 144C35.9596 143.007 35.9596 141.993 36.1313 141H39.8738C40.0454 141.993 40.0454 143.007 39.8738 144H36.1313ZM32.5 142.5C32.4996 141.993 32.5696 141.488 32.7081 141H35.115C34.9617 141.994 34.9617 143.006 35.115 144H32.7081C32.5696 143.512 32.4996 143.007 32.5 142.5ZM39.625 140H36.375C36.6952 138.951 37.251 137.989 38 137.187C38.7487 137.989 39.3045 138.951 39.625 140ZM42.8956 140H40.6694C40.3888 138.971 39.9159 138.004 39.2756 137.15C40.0492 137.336 40.7734 137.687 41.3987 138.179C42.024 138.671 42.5355 139.292 42.8981 140H42.8956ZM36.7244 137.15C36.0841 138.004 35.6112 138.971 35.3306 140H33.1019C33.4645 139.292 33.976 138.671 34.6013 138.179C35.2266 137.687 35.9508 137.336 36.7244 137.15ZM33.1019 145H35.3306C35.6112 146.029 36.0841 146.996 36.7244 147.85C35.9508 147.664 35.2266 147.313 34.6013 146.821C33.976 146.329 33.4645 145.708 33.1019 145ZM39.2756 147.85C39.9159 146.996 40.3888 146.029 40.6694 145H42.8981C42.5355 145.708 42.024 146.329 41.3987 146.821C40.7734 147.313 40.0492 147.664 39.2756 147.85Z" fill="#878682"/>
+<text fill="#D95C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="486.045" y="146.854" font-family="Arimo">-4</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="483.262" y="146.854" font-family="Arimo"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="427.295" y="146.854" font-family="Arimo">SHORTAGE</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="387.914" y="146.854" font-family="Arimo">35</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="385.131" y="146.854" font-family="Arimo"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="333.422" y="146.854" font-family="Arimo">DUES OUT</tspan></text>
+<line x1="138.5" y1="141.5" x2="324.5" y2="141.5" stroke="#D9E1EA"/>
+<line x1="415" y1="136" x2="415" y2="148" stroke="#D9E1EA"/>
+<g clip-path="url(#clip2_6247_12626)">
+<rect x="33.5" y="176" width="465" height="10" rx="5" fill="#F3F6F9"/>
+<rect x="33.5" y="175" width="24" height="12" fill="#2DB55D"/>
+<rect x="57.5" y="175" width="348" height="12" fill="#1672D4"/>
+</g>
+<rect x="34" y="176.5" width="464" height="9" rx="4.5" stroke="#D9E1EA"/>
+<text fill="#D95C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="458.77" y="207.854" font-family="Arimo">88.5%</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="49.5" y="208.16" font-family="Arimo">GV stock </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="101.543" y="208.16" font-family="Arimo">(3)</tspan></text>
+<circle cx="38.5" cy="204" r="5" fill="#2DB55D"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="153.5" y="208.16" font-family="Arimo">In cart / Approval </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="246.969" y="208.16" font-family="Arimo">(28)</tspan></text>
+<circle cx="142.5" cy="204" r="5" fill="#1672D4"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="399" y="208.16" font-family="Arimo">Fulfillment</tspan></text>
+<path d="M16.5 235H192.5C195.261 235 197.5 237.239 197.5 240V258H16.5V235Z" fill="#0B4DA2"/>
+<path d="M31.375 241.5C30.3861 241.5 29.4194 241.793 28.5972 242.343C27.7749 242.892 27.134 243.673 26.7556 244.587C26.3772 245.5 26.2781 246.506 26.4711 247.475C26.664 248.445 27.1402 249.336 27.8395 250.036C28.5387 250.735 29.4296 251.211 30.3995 251.404C31.3695 251.597 32.3748 251.498 33.2884 251.119C34.202 250.741 34.9829 250.1 35.5323 249.278C36.0818 248.456 36.375 247.489 36.375 246.5C36.3736 245.174 35.8464 243.903 34.909 242.966C33.9716 242.029 32.7007 241.501 31.375 241.5ZM31.375 250.731C30.5382 250.731 29.7203 250.483 29.0245 250.018C28.3288 249.553 27.7865 248.892 27.4663 248.119C27.1461 247.346 27.0623 246.495 27.2255 245.675C27.3888 244.854 27.7917 244.1 28.3834 243.508C28.9751 242.917 29.7289 242.514 30.5496 242.351C31.3703 242.187 32.221 242.271 32.994 242.591C33.7671 242.911 34.4279 243.454 34.8928 244.15C35.3576 244.845 35.6058 245.663 35.6058 246.5C35.6045 247.622 35.1583 248.697 34.3652 249.49C33.5721 250.283 32.4967 250.729 31.375 250.731ZM30.9904 246.885V244.192C30.9904 244.09 31.0309 243.992 31.103 243.92C31.1752 243.848 31.273 243.808 31.375 243.808C31.477 243.808 31.5748 243.848 31.647 243.92C31.7191 243.992 31.7596 244.09 31.7596 244.192V246.885C31.7596 246.987 31.7191 247.084 31.647 247.157C31.5748 247.229 31.477 247.269 31.375 247.269C31.273 247.269 31.1752 247.229 31.103 247.157C31.0309 247.084 30.9904 246.987 30.9904 246.885ZM31.9519 248.615C31.9519 248.729 31.9181 248.841 31.8547 248.936C31.7913 249.031 31.7012 249.105 31.5958 249.148C31.4904 249.192 31.3744 249.203 31.2624 249.181C31.1505 249.159 31.0477 249.104 30.9671 249.023C30.8864 248.943 30.8314 248.84 30.8092 248.728C30.7869 248.616 30.7983 248.5 30.842 248.395C30.8857 248.289 30.9596 248.199 31.0545 248.136C31.1494 248.072 31.2609 248.038 31.375 248.038C31.528 248.038 31.6748 248.099 31.7829 248.207C31.8911 248.316 31.9519 248.462 31.9519 248.615Z" fill="white"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="43.625" y="249.967" font-family="Arimo">2 alternatives stocks available</tspan></text>
+</g>
+<rect x="17" y="115.5" width="501" height="142" rx="9.5" stroke="#D9E1EA"/>
+<path d="M27.5 275.5H507.5C512.747 275.5 517 279.753 517 285V347C517 352.247 512.747 356.5 507.5 356.5H27.5C22.2533 356.5 18 352.247 18 347V285C18 279.753 22.2533 275.5 27.5 275.5Z" fill="#FFFEFE"/>
+<path d="M27.5 275.5H507.5C512.747 275.5 517 279.753 517 285V347C517 352.247 512.747 356.5 507.5 356.5H27.5C22.2533 356.5 18 352.247 18 347V285C18 279.753 22.2533 275.5 27.5 275.5Z" stroke="#D9E1EA"/>
+<line x1="418" y1="295" x2="418" y2="307" stroke="#D9E1EA"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="47.5" y="303.16" font-family="Arimo">THIS ENGINE</tspan></text>
+<path d="M40.0357 299.036H39.5517C39.4403 297.724 38.8685 296.494 37.9375 295.563C37.0065 294.631 35.7762 294.06 34.4643 293.948V293.464C34.4643 293.341 34.4154 293.223 34.3283 293.136C34.2412 293.049 34.1231 293 34 293C33.8769 293 33.7588 293.049 33.6717 293.136C33.5846 293.223 33.5357 293.341 33.5357 293.464V293.948C32.2238 294.06 30.9935 294.631 30.0625 295.563C29.1315 296.494 28.5597 297.724 28.4483 299.036H27.9643C27.8411 299.036 27.7231 299.085 27.636 299.172C27.5489 299.259 27.5 299.377 27.5 299.5C27.5 299.623 27.5489 299.741 27.636 299.828C27.7231 299.915 27.8411 299.964 27.9643 299.964H28.4483C28.5597 301.276 29.1315 302.506 30.0625 303.437C30.9935 304.369 32.2238 304.94 33.5357 305.052V305.536C33.5357 305.659 33.5846 305.777 33.6717 305.864C33.7588 305.951 33.8769 306 34 306C34.1231 306 34.2412 305.951 34.3283 305.864C34.4154 305.777 34.4643 305.659 34.4643 305.536V305.052C35.7762 304.94 37.0065 304.369 37.9375 303.437C38.8685 302.506 39.4403 301.276 39.5517 299.964H40.0357C40.1588 299.964 40.2769 299.915 40.364 299.828C40.4511 299.741 40.5 299.623 40.5 299.5C40.5 299.377 40.4511 299.259 40.364 299.172C40.2769 299.085 40.1588 299.036 40.0357 299.036ZM34.4643 304.12V303.679C34.4643 303.555 34.4154 303.437 34.3283 303.35C34.2412 303.263 34.1231 303.214 34 303.214C33.8769 303.214 33.7588 303.263 33.6717 303.35C33.5846 303.437 33.5357 303.555 33.5357 303.679V304.12C32.4707 304.011 31.4757 303.538 30.7187 302.781C29.9617 302.024 29.489 301.029 29.3804 299.964H29.8214C29.9446 299.964 30.0627 299.915 30.1497 299.828C30.2368 299.741 30.2857 299.623 30.2857 299.5C30.2857 299.377 30.2368 299.259 30.1497 299.172C30.0627 299.085 29.9446 299.036 29.8214 299.036H29.3804C29.489 297.971 29.9617 296.976 30.7187 296.219C31.4757 295.462 32.4707 294.989 33.5357 294.88V295.321C33.5357 295.445 33.5846 295.563 33.6717 295.65C33.7588 295.737 33.8769 295.786 34 295.786C34.1231 295.786 34.2412 295.737 34.3283 295.65C34.4154 295.563 34.4643 295.445 34.4643 295.321V294.88C35.5293 294.989 36.5243 295.462 37.2813 296.219C38.0383 296.976 38.511 297.971 38.6196 299.036H38.1786C38.0554 299.036 37.9373 299.085 37.8503 299.172C37.7632 299.259 37.7143 299.377 37.7143 299.5C37.7143 299.623 37.7632 299.741 37.8503 299.828C37.9373 299.915 38.0554 299.964 38.1786 299.964H38.6196C38.511 301.029 38.0383 302.024 37.2813 302.781C36.5243 303.538 35.5293 304.011 34.4643 304.12ZM34 297.179C33.5409 297.179 33.092 297.315 32.7103 297.57C32.3285 297.825 32.031 298.187 31.8553 298.612C31.6796 299.036 31.6336 299.503 31.7232 299.953C31.8127 300.403 32.0338 300.817 32.3585 301.141C32.6832 301.466 33.0968 301.687 33.5471 301.777C33.9974 301.866 34.4642 301.82 34.8884 301.645C35.3126 301.469 35.6751 301.171 35.9302 300.79C36.1853 300.408 36.3214 299.959 36.3214 299.5C36.3214 298.884 36.0768 298.294 35.6415 297.859C35.2061 297.423 34.6157 297.179 34 297.179ZM34 300.893C33.7245 300.893 33.4552 300.811 33.2262 300.658C32.9971 300.505 32.8186 300.288 32.7132 300.033C32.6077 299.779 32.5802 299.498 32.6339 299.228C32.6876 298.958 32.8203 298.71 33.0151 298.515C33.2099 298.32 33.4581 298.188 33.7283 298.134C33.9985 298.08 34.2785 298.108 34.533 298.213C34.7875 298.319 35.0051 298.497 35.1581 298.726C35.3112 298.955 35.3929 299.225 35.3929 299.5C35.3929 299.869 35.2461 300.224 34.9849 300.485C34.7237 300.746 34.3694 300.893 34 300.893Z" fill="#878682"/>
+<rect x="31.0569" y="321.557" width="101.355" height="17.8207" fill="#F2F2F2"/>
+<rect x="31.0569" y="321.557" width="101.355" height="17.8207" stroke="#D9E1EA" stroke-width="1.11379"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="37.6282" y="336.08" font-family="Arimo">TWAY 864351</tspan></text>
+<rect x="141.323" y="321.557" width="101.355" height="17.8207" fill="#F2F2F2"/>
+<rect x="141.323" y="321.557" width="101.355" height="17.8207" stroke="#D9E1EA" stroke-width="1.11379"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="148.942" y="336.08" font-family="Arimo">LO 55002454</tspan></text>
+<rect x="251.588" y="321.557" width="101.355" height="17.8207" fill="#F2F2F2"/>
+<rect x="251.588" y="321.557" width="101.355" height="17.8207" stroke="#D9E1EA" stroke-width="1.11379"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="269.218" y="336.193" font-family="Arimo">QKN76-7Y</tspan></text>
+<text fill="#D95C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="488.545" y="303.854" font-family="Arimo">-2</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="485.762" y="303.854" font-family="Arimo"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="429.795" y="303.854" font-family="Arimo">SHORTAGE</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="395.707" y="303.854" font-family="Arimo">5</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="392.924" y="303.854" font-family="Arimo"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" font-weight="bold" letter-spacing="0em"><tspan x="341.215" y="303.854" font-family="Arimo">DUES OUT</tspan></text>
+<line x1="141.5" y1="298.5" x2="327.5" y2="298.5" stroke="#D9E1EA"/>
+<rect width="535" height="489" transform="translate(0 411.295)" fill="#F6F6F6"/>
+<path d="M0 421.59C0 416.067 4.47715 411.59 10 411.59H257.5C263.023 411.59 267.5 416.067 267.5 421.59V458.697H0V421.59Z" fill="#0B4DA2"/>
+<path d="M122.48 432.428L116.98 429.419C116.833 429.338 116.668 429.295 116.5 429.295C116.332 429.295 116.167 429.338 116.02 429.419L110.52 432.429C110.363 432.515 110.232 432.642 110.14 432.796C110.049 432.95 110 433.125 110 433.304V439.282C110 439.461 110.049 439.637 110.14 439.79C110.232 439.944 110.363 440.071 110.52 440.157L116.02 443.167C116.167 443.249 116.332 443.291 116.5 443.291C116.668 443.291 116.833 443.249 116.98 443.167L122.48 440.157C122.637 440.071 122.768 439.944 122.86 439.79C122.951 439.637 123 439.461 123 439.282V433.305C123 433.126 122.952 432.95 122.86 432.795C122.769 432.641 122.637 432.514 122.48 432.428ZM116.5 430.294L121.521 433.044L116.5 435.794L111.479 433.044L116.5 430.294ZM111 433.919L116 436.655V442.017L111 439.282V433.919ZM117 442.017V436.657L122 433.919V439.28L117 442.017Z" fill="white"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="13.2" font-weight="bold" letter-spacing="0em"><tspan x="128" y="441.371" font-family="Arimo">NEW</tspan></text>
+<mask id="path-44-inside-1_6247_12626" fill="white">
+<path d="M267.5 421.59C267.5 416.067 271.977 411.59 277.5 411.59H525C530.523 411.59 535 416.067 535 421.59V458.697H267.5V421.59Z"/>
+</mask>
+<path d="M267.5 421.59C267.5 416.067 271.977 411.59 277.5 411.59H525C530.523 411.59 535 416.067 535 421.59V458.697H267.5V421.59Z" fill="#E7E7E7"/>
+<path d="M267.5 411.59H535H267.5M535 459.697H267.5V457.697H535V459.697ZM535 457.697M267.5 458.697V411.59V458.697M267.5 458.697M535 411.59V458.697V411.59" fill="#D9E1EA" mask="url(#path-44-inside-1_6247_12626)"/>
+<path d="M384 430.295C382.714 430.295 381.458 430.676 380.389 431.39C379.32 432.105 378.487 433.12 377.995 434.307C377.503 435.495 377.374 436.802 377.625 438.063C377.876 439.324 378.495 440.482 379.404 441.391C380.313 442.3 381.471 442.919 382.732 443.17C383.993 443.421 385.3 443.292 386.487 442.8C387.675 442.308 388.69 441.475 389.405 440.406C390.119 439.337 390.5 438.08 390.5 436.795C390.498 435.072 389.813 433.419 388.594 432.201C387.375 430.982 385.723 430.297 384 430.295ZM389.5 436.795C389.5 437.302 389.43 437.807 389.292 438.295H386.885C387.038 437.301 387.038 436.289 386.885 435.295H389.292C389.43 435.783 389.5 436.288 389.5 436.795ZM382.375 439.295H385.625C385.305 440.344 384.749 441.306 384 442.107C383.251 441.306 382.696 440.344 382.375 439.295ZM382.131 438.295C381.96 437.302 381.96 436.288 382.131 435.295H385.874C386.045 436.288 386.045 437.302 385.874 438.295H382.131ZM378.5 436.795C378.5 436.288 378.57 435.783 378.708 435.295H381.115C380.962 436.289 380.962 437.301 381.115 438.295H378.708C378.57 437.807 378.5 437.302 378.5 436.795ZM385.625 434.295H382.375C382.695 433.246 383.251 432.284 384 431.482C384.749 432.284 385.304 433.246 385.625 434.295ZM388.896 434.295H386.669C386.389 433.265 385.916 432.298 385.276 431.445C386.049 431.631 386.773 431.982 387.399 432.474C388.024 432.966 388.535 433.587 388.898 434.295H388.896ZM382.724 431.445C382.084 432.298 381.611 433.265 381.331 434.295H379.102C379.465 433.587 379.976 432.966 380.601 432.474C381.227 431.982 381.951 431.631 382.724 431.445ZM379.102 439.295H381.331C381.611 440.324 382.084 441.291 382.724 442.145C381.951 441.959 381.227 441.608 380.601 441.116C379.976 440.624 379.465 440.003 379.102 439.295ZM385.276 442.145C385.916 441.291 386.389 440.324 386.669 439.295H388.898C388.535 440.003 388.024 440.624 387.399 441.116C386.773 441.608 386.049 441.959 385.276 442.145Z" fill="#B8C2CC"/>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="13.2" font-weight="bold" letter-spacing="0em"><tspan x="395.5" y="441.371" font-family="Arimo">USM</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="29" y="490.514" font-family="Arimo">Sort by:</tspan></text>
+<rect x="87.5" y="476.197" width="57" height="19" fill="white"/>
+<rect x="87.5" y="476.197" width="57" height="19" stroke="#B8C2CC"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="93" y="490.551" font-family="Arimo">Price</tspan></text>
+<path d="M138.868 486.279C138.826 486.237 138.777 486.204 138.722 486.182C138.667 486.159 138.609 486.147 138.55 486.147C138.491 486.147 138.432 486.159 138.377 486.182C138.323 486.204 138.273 486.237 138.231 486.279L134.95 489.561V480.748C134.95 480.629 134.903 480.514 134.818 480.43C134.734 480.345 134.619 480.298 134.5 480.298C134.381 480.298 134.266 480.345 134.182 480.43C134.097 480.514 134.05 480.629 134.05 480.748V489.561L130.769 486.279C130.684 486.195 130.57 486.147 130.45 486.147C130.331 486.147 130.216 486.195 130.132 486.279C130.047 486.364 130 486.478 130 486.598C130 486.717 130.047 486.832 130.132 486.916L134.182 490.966C134.223 491.008 134.273 491.041 134.328 491.063C134.382 491.086 134.441 491.098 134.5 491.098C134.559 491.098 134.618 491.086 134.672 491.063C134.727 491.041 134.777 491.008 134.818 490.966L138.868 486.916C138.91 486.874 138.943 486.825 138.966 486.77C138.988 486.715 139 486.657 139 486.598C139 486.538 138.988 486.48 138.966 486.425C138.943 486.371 138.91 486.321 138.868 486.279Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="158" y="490.514" font-family="Arimo">Lead Time</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="237" y="490.514" font-family="Arimo">MOQ</tspan></text>
+<g clip-path="url(#clip3_6247_12626)">
+<g clip-path="url(#clip4_6247_12626)">
+<mask id="path-56-inside-2_6247_12626" fill="white">
+<path d="M29 538.691H507V578.691H29V538.691Z"/>
+</mask>
+<path d="M29 538.691H507V578.691H29V538.691Z" fill="#F3F6F9"/>
+<path d="M507 578.691V577.691H29V578.691V579.691H507V578.691Z" fill="#D9E1EA" mask="url(#path-56-inside-2_6247_12626)"/>
+<path d="M473.5 552.691C472.214 552.691 470.958 553.073 469.889 553.787C468.82 554.501 467.987 555.516 467.495 556.704C467.003 557.892 466.874 559.199 467.125 560.459C467.376 561.72 467.995 562.879 468.904 563.788C469.813 564.697 470.971 565.316 472.232 565.567C473.493 565.817 474.8 565.689 475.987 565.197C477.175 564.705 478.19 563.872 478.905 562.803C479.619 561.734 480 560.477 480 559.191C479.998 557.468 479.313 555.816 478.094 554.597C476.876 553.379 475.223 552.693 473.5 552.691ZM473.5 564.691C472.412 564.691 471.349 564.369 470.444 563.764C469.54 563.16 468.835 562.301 468.419 561.296C468.002 560.291 467.893 559.185 468.106 558.118C468.318 557.052 468.842 556.072 469.611 555.302C470.38 554.533 471.36 554.009 472.427 553.797C473.494 553.585 474.6 553.694 475.605 554.11C476.61 554.526 477.469 555.231 478.073 556.136C478.677 557.04 479 558.104 479 559.191C478.998 560.65 478.418 562.048 477.387 563.079C476.356 564.11 474.958 564.69 473.5 564.691ZM474.5 562.191C474.5 562.324 474.447 562.451 474.354 562.545C474.26 562.639 474.133 562.691 474 562.691C473.735 562.691 473.48 562.586 473.293 562.399C473.105 562.211 473 561.957 473 561.691V559.191C472.867 559.191 472.74 559.139 472.646 559.045C472.553 558.951 472.5 558.824 472.5 558.691C472.5 558.559 472.553 558.432 472.646 558.338C472.74 558.244 472.867 558.191 473 558.191C473.265 558.191 473.52 558.297 473.707 558.484C473.895 558.672 474 558.926 474 559.191V561.691C474.133 561.691 474.26 561.744 474.354 561.838C474.447 561.932 474.5 562.059 474.5 562.191ZM472.5 556.441C472.5 556.293 472.544 556.148 472.626 556.025C472.709 555.901 472.826 555.805 472.963 555.748C473.1 555.692 473.251 555.677 473.396 555.706C473.542 555.735 473.675 555.806 473.78 555.911C473.885 556.016 473.957 556.15 473.986 556.295C474.015 556.441 474 556.591 473.943 556.728C473.886 556.865 473.79 556.983 473.667 557.065C473.543 557.147 473.398 557.191 473.25 557.191C473.051 557.191 472.86 557.112 472.72 556.972C472.579 556.831 472.5 556.64 472.5 556.441Z" fill="#878682"/>
+<g clip-path="url(#clip5_6247_12626)">
+<circle cx="49" cy="558.691" r="10.5" fill="white" stroke="#0B4DA2"/>
+<circle cx="49" cy="558.691" r="7" fill="#0B4DA2"/>
+</g>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="77" y="564.545" font-family="Arimo">CFMi</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="187.047" y="564.238" font-family="Arimo">5</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="251.047" y="564.238" font-family="Arimo">1</tspan></text>
+<path d="M309.5 565.691C312.538 565.691 315 563.229 315 560.191C315 557.154 312.538 554.691 309.5 554.691C306.462 554.691 304 557.154 304 560.191C304 563.229 306.462 565.691 309.5 565.691Z" stroke="#878682" stroke-width="0.916667" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M309.5 556.984V560.193H312.708" stroke="#878682" stroke-width="0.916667" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="322.207" y="564.545" font-family="Arimo">5d</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="387" y="564.238" font-family="Arimo">$5,571.94</tspan></text>
+<mask id="path-70-inside-3_6247_12626" fill="white">
+<path d="M29 578.691H507V618.691H29V578.691Z"/>
+</mask>
+<path d="M29 578.691H507V618.691H29V578.691Z" fill="white"/>
+<path d="M507 618.691V617.691H29V618.691V619.691H507V618.691Z" fill="#D9E1EA" mask="url(#path-70-inside-3_6247_12626)"/>
+<path d="M473.5 592.691C472.214 592.691 470.958 593.073 469.889 593.787C468.82 594.501 467.987 595.516 467.495 596.704C467.003 597.892 466.874 599.199 467.125 600.459C467.376 601.72 467.995 602.879 468.904 603.788C469.813 604.697 470.971 605.316 472.232 605.567C473.493 605.817 474.8 605.689 475.987 605.197C477.175 604.705 478.19 603.872 478.905 602.803C479.619 601.734 480 600.477 480 599.191C479.998 597.468 479.313 595.816 478.094 594.597C476.876 593.379 475.223 592.693 473.5 592.691ZM473.5 604.691C472.412 604.691 471.349 604.369 470.444 603.764C469.54 603.16 468.835 602.301 468.419 601.296C468.002 600.291 467.893 599.185 468.106 598.118C468.318 597.052 468.842 596.072 469.611 595.302C470.38 594.533 471.36 594.009 472.427 593.797C473.494 593.585 474.6 593.694 475.605 594.11C476.61 594.526 477.469 595.231 478.073 596.136C478.677 597.04 479 598.104 479 599.191C478.998 600.65 478.418 602.048 477.387 603.079C476.356 604.11 474.958 604.69 473.5 604.691ZM474.5 602.191C474.5 602.324 474.447 602.451 474.354 602.545C474.26 602.639 474.133 602.691 474 602.691C473.735 602.691 473.48 602.586 473.293 602.399C473.105 602.211 473 601.957 473 601.691V599.191C472.867 599.191 472.74 599.139 472.646 599.045C472.553 598.951 472.5 598.824 472.5 598.691C472.5 598.559 472.553 598.432 472.646 598.338C472.74 598.244 472.867 598.191 473 598.191C473.265 598.191 473.52 598.297 473.707 598.484C473.895 598.672 474 598.926 474 599.191V601.691C474.133 601.691 474.26 601.744 474.354 601.838C474.447 601.932 474.5 602.059 474.5 602.191ZM472.5 596.441C472.5 596.293 472.544 596.148 472.626 596.025C472.709 595.901 472.826 595.805 472.963 595.748C473.1 595.692 473.251 595.677 473.396 595.706C473.542 595.735 473.675 595.806 473.78 595.911C473.885 596.016 473.957 596.15 473.986 596.295C474.015 596.441 474 596.591 473.943 596.728C473.886 596.865 473.79 596.983 473.667 597.065C473.543 597.147 473.398 597.191 473.25 597.191C473.051 597.191 472.86 597.112 472.72 596.972C472.579 596.831 472.5 596.64 472.5 596.441Z" fill="#878682"/>
+<g clip-path="url(#clip6_6247_12626)">
+<circle cx="49" cy="598.691" r="10.5" fill="white" stroke="#0B4DA2"/>
+</g>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="77" y="604.545" font-family="Arimo">Boeing</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="187.047" y="604.238" font-family="Arimo">1</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="246.094" y="604.238" font-family="Arimo">10</tspan></text>
+<path d="M309.5 605.691C312.538 605.691 315 603.229 315 600.191C315 597.154 312.538 594.691 309.5 594.691C306.462 594.691 304 597.154 304 600.191C304 603.229 306.462 605.691 309.5 605.691Z" stroke="#878682" stroke-width="0.916667" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M309.5 596.984V600.193H312.708" stroke="#878682" stroke-width="0.916667" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="322.207" y="604.545" font-family="Arimo">4d</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="387" y="604.238" font-family="Arimo">$4,577.57</tspan></text>
+<mask id="path-83-inside-4_6247_12626" fill="white">
+<path d="M29 618.691H507V875.691H29V618.691Z"/>
+</mask>
+<path d="M29 618.691H507V875.691H29V618.691Z" fill="white"/>
+<path d="M507 875.691V874.691H29V875.691V876.691H507V875.691Z" fill="#D9E1EA" mask="url(#path-83-inside-4_6247_12626)"/>
+<rect x="77.275" y="795.966" width="61.45" height="32.45" rx="5.225" fill="white" stroke="#B8C2CC" stroke-width="0.55"/>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" letter-spacing="0em"><tspan x="83" y="818.432" font-family="Arimo">0</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="77" y="786.545" font-family="Arimo">UPQ</tspan></text>
+<rect x="156.275" y="795.966" width="61.45" height="32.45" rx="5.225" fill="white" stroke="#B8C2CC" stroke-width="0.55"/>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" letter-spacing="0em"><tspan x="162" y="818.432" font-family="Arimo">0</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="156" y="786.545" font-family="Arimo">MOQ</tspan></text>
+<rect x="235.275" y="795.966" width="109.45" height="32.45" rx="5.225" fill="white" stroke="#B8C2CC" stroke-width="0.55"/>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" letter-spacing="0em"><tspan x="245.486" y="818.432" font-family="Arimo">Days</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="235" y="786.545" font-family="Arimo">Lead time</tspan></text>
+<rect x="361.275" y="795.966" width="110.45" height="32.45" rx="5.225" fill="white" stroke="#B8C2CC" stroke-width="0.55"/>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" letter-spacing="0em"><tspan x="374.49" y="818.432" font-family="Arimo">$</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="395.275" y="786.545" font-family="Arimo"> (USD)</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="361" y="786.545" font-family="Arimo">Price</tspan></text>
+<g clip-path="url(#clip7_6247_12626)">
+<circle cx="49" cy="638.691" r="10.5" fill="white" stroke="#0B4DA2"/>
+</g>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="77" y="644.545" font-family="Arimo">Other</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="76" y="681.545" font-family="Arimo">Vendor code</tspan></text>
+<path d="M81 690.191H467C469.485 690.191 471.5 692.206 471.5 694.691V736.691C471.5 739.177 469.485 741.191 467 741.191H81C78.5147 741.191 76.5 739.177 76.5 736.691V694.691C76.5 692.206 78.5147 690.191 81 690.191Z" fill="white"/>
+<path d="M81 690.191H467C469.485 690.191 471.5 692.206 471.5 694.691V736.691C471.5 739.177 469.485 741.191 467 741.191H81C78.5147 741.191 76.5 739.177 76.5 736.691V694.691C76.5 692.206 78.5147 690.191 81 690.191Z" stroke="#D9E1EA"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="91" y="713.545" font-family="Arimo">CFM Materials LP</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="91" y="727.852" font-family="Arimo">397896</tspan></text>
+<path d="M449.5 721.486L455.995 712.793H443.005L449.5 721.486Z" fill="#D4D4D4"/>
+</g>
+<rect x="29.5" y="539.191" width="477" height="336" rx="4.5" stroke="#D9E1EA"/>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="183" y="528.852" font-family="Arimo">UPQ</tspan></text>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="76" y="528.852" font-family="Arimo">Vendor</tspan></text>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="245" y="528.852" font-family="Arimo">MOQ</tspan></text>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="298" y="528.852" font-family="Arimo">Lead time</tspan></text>
+<text fill="#B8C2CC" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="381" y="528.852" font-family="Arimo">Unit Price (USD)</tspan></text>
+</g>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="35" y="385.16" font-family="Arimo">VENDOR SELECTION</tspan></text>
+<path d="M26.56 378.151L21.9062 375.652C21.7818 375.584 21.6421 375.549 21.5 375.549C21.3579 375.549 21.2182 375.584 21.0938 375.652L16.44 378.152C16.3071 378.223 16.1962 378.328 16.1188 378.456C16.0414 378.584 16.0003 378.73 16 378.878V383.842C16.0003 383.991 16.0414 384.137 16.1188 384.265C16.1962 384.392 16.3071 384.497 16.44 384.569L21.0938 387.069C21.2182 387.136 21.3579 387.172 21.5 387.172C21.6421 387.172 21.7818 387.136 21.9062 387.069L26.56 384.569C26.6929 384.497 26.8038 384.392 26.8812 384.265C26.9586 384.137 26.9997 383.991 27 383.842V378.879C26.9999 378.73 26.9591 378.584 26.8817 378.456C26.8042 378.327 26.6931 378.222 26.56 378.151ZM21.5 376.378L25.7487 378.662L21.5 380.946L17.2513 378.662L21.5 376.378ZM16.8462 379.389L21.0769 381.661V386.113L16.8462 383.843V379.389ZM21.9231 386.113V381.663L26.1538 379.389V383.841L21.9231 386.113Z" fill="#878682"/>
+<line x1="169" y1="380.371" x2="519" y2="380.371" stroke="#D9E1EA"/>
+<rect width="535" height="180" transform="translate(0 846)" fill="#E7E7E7"/>
+<rect x="29.5" y="961" width="476" height="47" rx="5.5" fill="url(#paint0_linear_6247_12626)"/>
+<rect x="29.5" y="961" width="476" height="47" rx="5.5" fill="black" fill-opacity="0.1"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="223.914" y="990.547" font-family="Arimo">Add to Cart</tspan></text>
+<rect x="29.775" y="884.275" width="138.45" height="32.45" rx="5.225" fill="white" stroke="#B8C2CC" stroke-width="0.55"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="93.9998" y="906.74" font-family="Arimo">1</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="29.5" y="876.854" font-family="Arimo">Quantity</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-style="italic" letter-spacing="0em"><tspan x="29.5" y="934.16" font-family="Arimo">Note: MOQ: 1 and UPQ: 5</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="476.562" y="915.934" font-family="Arimo"> USD</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="387.5" y="915.934" font-family="Arimo">$5,571.94</tspan></text>
+<text fill="#065AB1" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="387.5" y="893.354" font-family="Arimo">Extended price</tspan></text>
+<rect x="193" y="34.0664" width="37" height="18.0352" rx="9.01758" fill="#1672D4"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="201.492" y="47.7441" font-family="Arimo">PRI</tspan></text>
+</g>
+<path d="M10 0.5H534.5V1025.5H10C4.7533 1025.5 0.5 1021.25 0.5 1016V10C0.500012 4.7533 4.7533 0.5 10 0.5Z" stroke="#B8C2CC"/>
+<defs>
+<linearGradient id="paint0_linear_6247_12626" x1="267.5" y1="961" x2="267.5" y2="1008" gradientUnits="userSpaceOnUse">
+<stop stop-color="#065AB1"/>
+<stop offset="1" stop-color="#065AB1"/>
+</linearGradient>
+<clipPath id="clip0_6247_12626">
+<path d="M0 10C0 4.47718 4.47715 0 10 0H535V1026H10C4.47716 1026 0 1021.52 0 1016V10Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_6247_12626">
+<rect x="16.5" y="115" width="502" height="143" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip2_6247_12626">
+<rect x="33.5" y="176" width="465" height="10" rx="5" fill="white"/>
+</clipPath>
+<clipPath id="clip3_6247_12626">
+<rect width="535" height="332.993" fill="white" transform="translate(0 512.697)"/>
+</clipPath>
+<clipPath id="clip4_6247_12626">
+<rect x="29" y="538.691" width="478" height="337" rx="5" fill="white"/>
+</clipPath>
+<clipPath id="clip5_6247_12626">
+<rect width="40" height="40" fill="white" transform="translate(29 538.691)"/>
+</clipPath>
+<clipPath id="clip6_6247_12626">
+<rect width="40" height="40" fill="white" transform="translate(29 578.691)"/>
+</clipPath>
+<clipPath id="clip7_6247_12626">
+<rect width="40" height="40" fill="white" transform="translate(29 618.691)"/>
+</clipPath>
+</defs>
+</svg>

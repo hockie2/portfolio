@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 1024">
-  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" version="1.1" viewBox="0 0 1440 1024">
+  <defs><style type="text/css"><![CDATA[
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+text,
+tspan {
+    font-family: 'Arimo', Arial, sans-serif !important;
+}
+]]></style></defs><!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
   <defs>
     <style>
-<![CDATA[
-    @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-    text,
-    tspan {
-      font-family: 'Arimo', Arial, sans-serif;
-    }
-  ]]>
       .st0 {
         fill: url(#linear-gradient2);
       }
@@ -36,7 +35,7 @@
       }
 
       .st20, .st24, .st27, .st30, .st31, .st36, .st38, .st39, .st40, .st42, .st43 {
-        font-family: Arimo-Regular, Arimo;
+        font-family: 'Arimo', Arial, sans-serif;
       }
 
       .st20, .st45, .st37, .st46, .st47, .st43 {
@@ -61,7 +60,7 @@
       }
 
       .st21, .st22, .st23, .st25, .st26, .st28, .st29, .st32, .st33, .st34, .st37, .st41, .st44 {
-        font-family: Arimo-Bold, Arimo;
+        font-family: 'Arimo', Arial, sans-serif;
         font-weight: 700;
       }
 
@@ -369,21 +368,21 @@
   <rect class="st68" x="53.5" y="241.5" width="1365" height="782" rx="4.5" ry="4.5"/>
   <rect class="st15" x="53.5" y="241.5" width="1365" height="782" rx="4.5" ry="4.5"/>
   <g class="st35">
-    <text class="st24" transform="translate(164 318.9)"><tspan x="0" y="0">SKYJET AIR</tspan></text>
+    <text class="st24" transform="translate(164 318.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">SKYJET AIR</tspan></text>
   </g>
   <g class="st35">
-    <text class="st32" transform="translate(291 318.9)"><tspan x="0" y="0">2 ESNs</tspan></text>
+    <text class="st32" transform="translate(291 318.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">2 ESNs</tspan></text>
   </g>
   <path class="st9" d="M85.2,314l-6.1,6.1-6.1-6.1"/>
   <path class="st80" d="M53,246c0-2.8,2.2-5,5-5h1356c2.8,0,5,2.2,5,5v35H53v-35Z"/>
   <g class="st35">
-    <text class="st34" transform="translate(164 265.9)"><tspan x="0" y="0">CUSTOMER</tspan></text>
+    <text class="st34" transform="translate(164 265.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">CUSTOMER</tspan></text>
   </g>
   <g class="st35">
-    <text class="st34" transform="translate(292 265.9)"><tspan x="0" y="0">SUBITEMS</tspan></text>
+    <text class="st34" transform="translate(292 265.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">SUBITEMS</tspan></text>
   </g>
   <g class="st35">
-    <text class="st34" transform="translate(1226 265.9)"><tspan x="0" y="0">STATUS / ACTIONS </tspan></text>
+    <text class="st34" transform="translate(1226 265.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">STATUS / ACTIONS </tspan></text>
   </g>
   <g class="st57">
     <path class="st68" d="M112,250.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
@@ -394,14 +393,14 @@
   <rect class="st87" x="1230" y="294" width="130" height="35" rx="5" ry="5"/>
   <path class="st11" d="M1265.6,312.3l-1.7-3.9-3,8.6-3.5-11.6-2.1,6.8h-2.3v.9h3l1.4-4.7,3.5,11.4,3.2-9,1,2.3h2.9v-.9h-2.4Z"/>
   <g class="st35">
-    <text class="st31" transform="translate(1274.5 315.2)"><tspan x="0" y="0">Activity Log</tspan></text>
+    <text class="st31" transform="translate(1274.5 315.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Activity Log</tspan></text>
   </g>
   <path class="st10" d="M53,1001h1366"/>
   <g class="st35">
-    <text class="st24" transform="translate(164 969.9)"><tspan x="0" y="0">ALTIUS MRO</tspan></text>
+    <text class="st24" transform="translate(164 969.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ALTIUS MRO</tspan></text>
   </g>
   <g class="st35">
-    <text class="st32" transform="translate(292 969.9)"><tspan x="0" y="0">3 ESNs</tspan></text>
+    <text class="st32" transform="translate(292 969.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">3 ESNs</tspan></text>
   </g>
   <path class="st9" d="M76,959.7l6.1,6.1-6.1,6.1"/>
   <path class="st83" d="M112,956.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
@@ -409,7 +408,7 @@
   <rect class="st71" x="1230" y="946" width="130" height="35" rx="5" ry="5"/>
   <path class="st11" d="M1265.6,964.3l-1.7-3.9-3,8.6-3.5-11.6-2.1,6.8h-2.3v.9h3l1.4-4.7,3.5,11.4,3.2-9,1,2.3h2.9v-.9h-2.4Z"/>
   <g class="st35">
-    <text class="st31" transform="translate(1274.5 967.2)"><tspan x="0" y="0">Activity Log</tspan></text>
+    <text class="st31" transform="translate(1274.5 967.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Activity Log</tspan></text>
   </g>
   <circle class="st61" cx="142.5" cy="314.5" r="6.5"/>
   <g class="st88">
@@ -419,16 +418,16 @@
         <g>
           <rect class="st52" x="62" y="712" width="1302" height="54"/>
           <g class="st35">
-            <text class="st41" transform="translate(351 746.4)"><tspan x="0" y="0">ESN-518274</tspan></text>
+            <text class="st41" transform="translate(351 746.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ESN-518274</tspan></text>
           </g>
           <g class="st35">
-            <text class="st25" transform="translate(506 751.5)"><tspan x="0" y="0">AFX-72</tspan></text>
+            <text class="st25" transform="translate(506 751.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">AFX-72</tspan></text>
           </g>
           <path class="st68" d="M133,728.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
           <path class="st10" d="M133,728.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
           <path class="st9" d="M110.2,736l-6.1,6.1-6.1-6.1"/>
           <g class="st35">
-            <text class="st20" transform="translate(506 734.2)"><tspan x="0" y="0">Engine Type</tspan></text>
+            <text class="st20" transform="translate(506 734.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Engine Type</tspan></text>
           </g>
           <path class="st47" d="M332.5,728.1c.8-.2,1.9-.3,2.8.6.9.9.8,2,.6,2.8-.1.4-.3.7-.4,1,0,.1-.1.2-.2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0h0s0,0,0,0c0,0,0,0,0,0l-4,4,2.8,8.9c0,.2,0,.5-.2.6l-2.3,2.3c-.1.1-.3.2-.5.2-.2,0-.3-.1-.4-.3l-4.3-6.9-1.6,1.6-.3,4c0,.1,0,.3-.2.4l-.9.9c-.1.1-.3.2-.5.2-.2,0-.3-.1-.4-.3l-2.7-4.4-4.3-2.6c-.2,0-.3-.3-.3-.4s0-.4.2-.5l.9-.9h0c0-.1.2-.2.3-.2l4-.3,1.6-1.6-6.9-4.3c-.2,0-.3-.3-.3-.4,0-.2,0-.4.2-.5l2.3-2.3h0c.2-.2.4-.2.6-.2l8.9,2.8,4-4h0c0,0,0,0,0,0h0s0,0,0,0c0,0,0,0,0,0,0,0,0,0,0,0,0,0,.2,0,.3-.2.2-.1.6-.3,1-.4ZM334.4,729.6c-.4-.4-1-.4-1.6-.3-.3,0-.5.2-.7.3,0,0-.2,0-.2.1,0,0,0,0,0,0l-4.3,4.3c-.2.2-.4.2-.6.1l-8.9-2.8-1.5,1.5,6.9,4.3c.2,0,.3.3.3.4,0,.2,0,.4-.2.5l-2.3,2.3c-.1.1-.2.2-.4.2l-4,.3-.2.2,3.8,2.3h.1c0,.1,0,.2,0,.2l2.4,3.8.2-.2.3-4h0c0-.2,0-.3.2-.4l2.3-2.3h.1c.1-.2.3-.2.4-.2.2,0,.3.1.4.3l4.3,6.9,1.5-1.5-2.8-8.9c0-.2,0-.5.2-.6l4.3-4.3s0,0,0,0c0,0,0-.1.1-.2,0-.2.2-.5.3-.7.2-.6.1-1.2-.3-1.6Z"/>
           <g class="st84">
@@ -437,103 +436,103 @@
           <line class="st12" x1="301.5" y1="725" x2="301.5" y2="752"/>
           <line class="st12" x1="484.5" y1="725" x2="484.5" y2="752"/>
           <g class="st35">
-            <text class="st41" transform="translate(192 754.4)"><tspan x="0" y="0">20411875</tspan></text>
+            <text class="st41" transform="translate(192 754.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">20411875</tspan></text>
           </g>
           <g class="st35">
-            <text class="st20" transform="translate(192 734.2)"><tspan x="0" y="0">Job no.</tspan></text>
+            <text class="st20" transform="translate(192 734.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Job no.</tspan></text>
           </g>
           <rect class="st47" x="654" y="726" width="109" height="29" rx="5" ry="5"/>
           <g class="st35">
-            <text class="st26" transform="translate(735.2 749.4)"><tspan x="0" y="0">5</tspan></text>
+            <text class="st26" transform="translate(735.2 749.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">5</tspan></text>
           </g>
           <g class="st35">
-            <text class="st42" transform="translate(730.7 749.4)"><tspan x="0" y="0"> </tspan></text>
+            <text class="st42" transform="translate(730.7 749.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo"> </tspan></text>
           </g>
           <g class="st35">
-            <text class="st36" transform="translate(699.6 749.4)"><tspan x="0" y="0" xml:space="preserve"> POs</tspan></text>
+            <text class="st36" transform="translate(699.6 749.4)" font-family="Arimo"><tspan x="0" y="0" xml:space="preserve" font-family="Arimo"> POs</tspan></text>
           </g>
           <g class="st35">
-            <text class="st36" transform="translate(670 749.4)"><tspan x="0" y="0">Total</tspan></text>
+            <text class="st36" transform="translate(670 749.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Total</tspan></text>
           </g>
           <g class="st35">
-            <text class="st41" transform="translate(817 757.4)"><tspan x="0" y="0">2</tspan></text>
+            <text class="st41" transform="translate(817 757.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">2</tspan></text>
           </g>
           <g class="st35">
-            <text class="st30" transform="translate(780 736.2)"><tspan x="0" y="0">Available</tspan></text>
+            <text class="st30" transform="translate(780 736.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Available</tspan></text>
           </g>
           <g class="st35">
-            <text class="st41" transform="translate(917 757.4)"><tspan x="0" y="0">3</tspan></text>
+            <text class="st41" transform="translate(917 757.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">3</tspan></text>
           </g>
           <g class="st35">
-            <text class="st30" transform="translate(856 736.2)"><tspan x="0" y="0">Awaiting OPA</tspan></text>
+            <text class="st30" transform="translate(856 736.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Awaiting OPA</tspan></text>
           </g>
           <line class="st12" x1="840.5" y1="729" x2="840.5" y2="756"/>
           <path class="st86" d="M62,766h1302v41H62v-41Z"/>
           <g class="st35">
-            <text class="st21" transform="translate(153 791.9)"><tspan x="0" y="0">PO</tspan></text>
+            <text class="st21" transform="translate(153 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">PO</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(290.3 791.9)"><tspan x="0" y="0">P/N</tspan></text>
+            <text class="st21" transform="translate(290.3 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">P/N</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(416.3 791.9)"><tspan x="0" y="0">S/N</tspan></text>
+            <text class="st21" transform="translate(416.3 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">S/N</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(488 791.9)"><tspan x="0" y="0">DESC</tspan></text>
+            <text class="st21" transform="translate(488 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">DESC</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(642.3 791.9)"><tspan x="0" y="0">WORKSCOPE</tspan></text>
+            <text class="st21" transform="translate(642.3 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">WORKSCOPE</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(792 791.9)"><tspan x="0" y="0">QTY</tspan></text>
+            <text class="st21" transform="translate(792 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">QTY</tspan></text>
           </g>
           <g class="st35">
-            <text class="st27" transform="translate(924.8 791.9)"><tspan x="0" y="0">(USD)</tspan></text>
+            <text class="st27" transform="translate(924.8 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">(USD)</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(847 791.9)"><tspan x="0" y="0">EST. Quote </tspan></text>
+            <text class="st21" transform="translate(847 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">EST. Quote </tspan></text>
           </g>
           <g class="st35">
-            <text class="st27" transform="translate(1099.3 791.9)"><tspan x="0" y="0">(USD)</tspan></text>
+            <text class="st27" transform="translate(1099.3 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">(USD)</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(982 791.9)"><tspan x="0" y="0">NEW TOTAL CLP </tspan></text>
+            <text class="st21" transform="translate(982 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">NEW TOTAL CLP </tspan></text>
           </g>
           <path class="st86" d="M62,807h1302v84H62v-84Z"/>
           <g class="st70">
             <path class="st82" d="M62,807v1h1302v-2H62v1Z"/>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(488 853.9)"><tspan x="0" y="0">SERVO VALVE</tspan></text>
+            <text class="st24" transform="translate(488 853.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">SERVO VALVE</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(623.5 845.9)"><tspan x="0" y="0">OVERHAUL AS PER </tspan></text>
-            <text class="st24" transform="translate(644.4 861.9)"><tspan x="0" y="0">ESM 73-12-40</tspan></text>
+            <text class="st24" transform="translate(623.5 845.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">OVERHAUL AS PER </tspan></text>
+            <text class="st24" transform="translate(644.4 861.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ESM 73-12-40</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(153 854.5)"><tspan x="0" y="0">3547836210</tspan></text>
+            <text class="st44" transform="translate(153 854.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">3547836210</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(290 845.9)"><tspan x="0" y="0">1462M58H11, </tspan></text>
-            <text class="st24" transform="translate(290 861.9)"><tspan x="0" y="0">1462M58H12 </tspan></text>
+            <text class="st24" transform="translate(290 845.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1462M58H11, </tspan></text>
+            <text class="st24" transform="translate(290 861.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1462M58H12 </tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(426.2 855.9)"><tspan x="0" y="0">-</tspan></text>
+            <text class="st24" transform="translate(426.2 855.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">-</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(792 853.9)"><tspan x="0" y="0">16</tspan></text>
+            <text class="st24" transform="translate(792 853.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">16</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(839 845.5)"><tspan x="0" y="0">$76,320.00</tspan></text>
+            <text class="st44" transform="translate(839 845.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$76,320.00</tspan></text>
           </g>
           <g class="st35">
-            <text class="st38" transform="translate(839 863.9)"><tspan x="0" y="0">2EA SCRAP</tspan></text>
+            <text class="st38" transform="translate(839 863.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">2EA SCRAP</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(974 845.5)"><tspan x="0" y="0">$35,865.00</tspan></text>
+            <text class="st44" transform="translate(974 845.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$35,865.00</tspan></text>
           </g>
           <g class="st35">
-            <text class="st38" transform="translate(974 863.9)"><tspan x="0" y="0">$35865.00 / ea</tspan></text>
+            <text class="st38" transform="translate(974 863.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$35865.00 / ea</tspan></text>
           </g>
           <rect class="st67" x="121" y="838" width="22" height="22" rx="6" ry="6"/>
           <path class="st68" d="M127,838.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
@@ -544,21 +543,21 @@
             <path class="st82" d="M62,891v1h1302v-2H62v1Z"/>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(623.5 929.9)"><tspan x="0" y="0">OVERHAUL AS PER </tspan></text>
-            <text class="st24" transform="translate(644.4 945.9)"><tspan x="0" y="0">ESM 73-12-40</tspan></text>
+            <text class="st24" transform="translate(623.5 929.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">OVERHAUL AS PER </tspan></text>
+            <text class="st24" transform="translate(644.4 945.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ESM 73-12-40</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(153 930.5)"><tspan x="0" y="0">2654478313</tspan></text>
+            <text class="st44" transform="translate(153 930.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">2654478313</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(290 928.9)"><tspan x="0" y="0">1462M58H11, </tspan></text>
-            <text class="st24" transform="translate(290 944.9)"><tspan x="0" y="0">1462M58H12 </tspan></text>
+            <text class="st24" transform="translate(290 928.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1462M58H11, </tspan></text>
+            <text class="st24" transform="translate(290 944.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1462M58H12 </tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(839 928.5)"><tspan x="0" y="0">$76,320.00</tspan></text>
+            <text class="st44" transform="translate(839 928.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$76,320.00</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(974 928.5)"><tspan x="0" y="0">$35,865.00</tspan></text>
+            <text class="st44" transform="translate(974 928.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$35,865.00</tspan></text>
           </g>
           <g class="st57">
             <path class="st68" d="M127,923.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
@@ -585,25 +584,25 @@
           <path class="st83" d="M1150.5,559.5h68c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5h-68c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5Z"/>
           <path class="st10" d="M1150.5,559.5h68c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5h-68c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5Z"/>
           <g class="st35">
-            <text class="st29" transform="translate(1160.8 576.2)"><tspan x="0" y="0">Pending</tspan></text>
+            <text class="st29" transform="translate(1160.8 576.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Pending</tspan></text>
           </g>
           <path class="st86" d="M1109,405h297v41h-297v-41Z"/>
           <g class="st35">
-            <text class="st21" transform="translate(1152 430.9)"><tspan x="0" y="0">Status</tspan></text>
+            <text class="st21" transform="translate(1152 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Status</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(1266 430.9)"><tspan x="0" y="0">Approval Actions</tspan></text>
+            <text class="st21" transform="translate(1266 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Approval Actions</tspan></text>
           </g>
           <path class="st83" d="M1150.5,475.5h68c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5h-68c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5Z"/>
           <path class="st10" d="M1150.5,475.5h68c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5h-68c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5Z"/>
           <g class="st35">
-            <text class="st29" transform="translate(1160.8 492.2)"><tspan x="0" y="0">Pending</tspan></text>
+            <text class="st29" transform="translate(1160.8 492.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Pending</tspan></text>
           </g>
           <path class="st82" d="M1135,643.5h99c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5h-99c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5Z"/>
           <path class="st1" d="M1135,643.5h99c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5h-99c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5Z"/>
           <path class="st60" d="M1136.8,650.5l-.6.6v9.8l.6.6h13.4l.6-.6v-9.8l-.6-.6h-13.4ZM1137.4,652.5v7.8h12.2v-7.8l-6.1,5.6-6.1-5.6ZM1148.6,651.7h-10.3l5.1,4.7,5.1-4.7Z"/>
           <g class="st35">
-            <text class="st28" transform="translate(1156 660.2)"><tspan x="0" y="0">Request Sent</tspan></text>
+            <text class="st28" transform="translate(1156 660.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Request Sent</tspan></text>
           </g>
           <path class="st59" d="M1269.2,572.1c0-1.2.3-2.5.9-3.6.6-1.1,1.4-2.1,2.4-2.8,1-.7,2.2-1.2,3.4-1.4,1.2-.2,2.5,0,3.7.4.3,0,.6,0,.9,0,.3-.1.5-.4.6-.6,0-.3,0-.6,0-.9-.1-.3-.4-.5-.6-.6-2.1-.7-4.3-.7-6.4,0s-3.9,2-5.2,3.8c-1.3,1.8-1.9,3.9-1.8,6.1,0,2.2.8,4.3,2.2,6,1.4,1.7,3.2,2.9,5.4,3.5,2.1.5,4.3.4,6.4-.4,2-.8,3.7-2.3,4.8-4.2,1.1-1.9,1.6-4.1,1.3-6.2,0-.1,0-.3-.1-.4,0-.1-.2-.2-.3-.3-.1,0-.2-.2-.4-.2-.2,0-.3,0-.4,0-.1,0-.3,0-.4.1-.1,0-.2.2-.3.3,0,.1-.2.2-.2.4s0,.3,0,.4c.1,1.1,0,2.1-.3,3.1-.3,1-.8,2-1.5,2.8-.7.8-1.5,1.5-2.5,2-1,.5-2,.8-3.1.8-1.1,0-2.1,0-3.1-.5-1-.4-1.9-.9-2.7-1.7-.8-.7-1.4-1.6-1.8-2.6-.4-1-.6-2-.6-3.1ZM1285.7,566.1c.2-.2.3-.5.3-.8,0-.3-.2-.6-.4-.8-.2-.2-.5-.3-.8-.3-.3,0-.6.2-.8.4l-7.2,8.1-3.6-2.9c-.1,0-.2-.2-.4-.2s-.3,0-.4,0c-.3,0-.6.2-.8.4,0,.1-.2.2-.2.4s0,.3,0,.4c0,.3.2.6.4.8l4.4,3.6c.2.2.5.3.8.2.3,0,.6-.2.8-.4l7.9-8.9Z"/>
           <path class="st5" d="M1311.8,567.1v5.4l2.7,1.6M1321.4,572.5c0,5.3-4.3,9.7-9.7,9.7s-9.7-4.3-9.7-9.7,4.3-9.7,9.7-9.7,9.7,4.3,9.7,9.7Z"/>
@@ -619,7 +618,7 @@
           <path class="st58" d="M1356.6,488.1c0,5.6-4.5,10.1-10.1,10.1s-10.1-4.5-10.1-10.1,4.5-10.1,10.1-10.1,10.1,4.5,10.1,10.1ZM1338.3,488.1c0,4.5,3.7,8.2,8.2,8.2s8.2-3.7,8.2-8.2-3.7-8.2-8.2-8.2-8.2,3.7-8.2,8.2Z"/>
           <path class="st64" d="M1395,633v-263.3c0-2.1,1.7-3.8,3.8-3.8h0c2.1,0,3.8,1.7,3.8,3.8v263.3c0,2.1-1.7,3.8-3.8,3.8h0c-2.1,0-3.8-1.7-3.8-3.8Z"/>
           <g class="st35">
-            <text class="st27" transform="translate(1146 682)"><tspan x="0" y="0">18 Feb’26, 2.10pm</tspan></text>
+            <text class="st27" transform="translate(1146 682)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">18 Feb’26, 2.10pm</tspan></text>
           </g>
         </g>
       </g>
@@ -628,32 +627,32 @@
           <rect class="st52" x="1109" y="712" width="297" height="54"/>
           <path class="st86" d="M1109,766h297v41h-297v-41Z"/>
           <g class="st35">
-            <text class="st21" transform="translate(1132 791.9)"><tspan x="0" y="0">Status</tspan></text>
+            <text class="st21" transform="translate(1132 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Status</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(1252 791.9)"><tspan x="0" y="0">Approval Actions</tspan></text>
+            <text class="st21" transform="translate(1252 791.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Approval Actions</tspan></text>
           </g>
           <path class="st86" d="M1109,807h297v84h-297v-84Z"/>
           <g class="st48">
             <path class="st82" d="M1109,807v1h297v-2h-297v1Z"/>
           </g>
           <g class="st35">
-            <text class="st27" transform="translate(1287 837)"><tspan x="0" y="0">Please review </tspan></text>
-            <text class="st27" transform="translate(1282 848)"><tspan x="0" y="0">inspection notes</tspan></text>
+            <text class="st27" transform="translate(1287 837)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Please review </tspan></text>
+            <text class="st27" transform="translate(1282 848)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">inspection notes</tspan></text>
           </g>
           <path class="st8" d="M1261,842h-6.3c-.5,0-.9.2-1.3.5-.3.3-.5.8-.5,1.3v12.5c0,.5.2.9.5,1.3.3.3.8.5,1.3.5h12.5c.5,0,.9-.2,1.3-.5.3-.3.5-.8.5-1.3v-6.3"/>
           <path class="st8" d="M1267.7,840.6c.3-.4.8-.6,1.3-.6.5,0,1,.2,1.3.6.3.4.5.8.5,1.3s-.2,1-.5,1.3l-8.5,8.5-3.6.9.9-3.6,8.5-8.5Z"/>
           <path class="st56" d="M1145,828.5h68c6.9,0,12.5,5.6,12.5,12.5s-5.6,12.5-12.5,12.5h-68c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5Z"/>
           <g class="st35">
-            <text class="st29" transform="translate(1166.5 869.2)"><tspan x="0" y="0">Jia Hui</tspan></text>
+            <text class="st29" transform="translate(1166.5 869.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Jia Hui</tspan></text>
           </g>
           <g class="st35">
-            <text class="st39" transform="translate(1150.5 869.2)"><tspan x="0" y="0">by </tspan></text>
+            <text class="st39" transform="translate(1150.5 869.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">by </tspan></text>
           </g>
           <path class="st50" d="M1140.3,869h-6.6c-.3,0-.6-.3-.5-.7.6-1.5,2.1-2.3,3.8-2.3s3.1.8,3.8,2.3c.1.3-.1.7-.5.7ZM1135,863c0-1.1.9-2,2-2s2,.9,2,2-.9,2-2,2-2-.9-2-2ZM1142,868.8c-.4-1.7-1.5-2.9-3.1-3.5.8-.6,1.3-1.7,1.1-2.8-.2-1.3-1.3-2.4-2.7-2.5-1.9-.2-3.4,1.2-3.4,3s.4,1.8,1.1,2.3c-1.5.6-2.7,1.8-3.1,3.5-.1.6.4,1.2,1,1.2h7.9c.6,0,1.1-.6,1-1.2Z"/>
           <path class="st13" d="M1149,838.2v2.8l1.4.8M1154,841c0,2.8-2.2,5-5,5s-5-2.2-5-5,2.2-5,5-5,5,2.2,5,5Z"/>
           <g class="st35">
-            <text class="st22" transform="translate(1162.2 845.2)"><tspan x="0" y="0">On Hold</tspan></text>
+            <text class="st22" transform="translate(1162.2 845.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">On Hold</tspan></text>
           </g>
           <path class="st86" d="M1109,891h297v84h-297v-84Z"/>
           <g class="st62">
@@ -678,14 +677,14 @@
           </g>
           <rect class="st52" x="62" y="351" width="1325" height="54"/>
           <g class="st35">
-            <text class="st41" transform="translate(351 385.4)"><tspan x="0" y="0">ESN-641905 </tspan></text>
+            <text class="st41" transform="translate(351 385.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ESN-641905 </tspan></text>
           </g>
           <g class="st35">
-            <text class="st25" transform="translate(506 390.5)"><tspan x="0" y="0">ATX-56</tspan></text>
+            <text class="st25" transform="translate(506 390.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ATX-56</tspan></text>
           </g>
           <path class="st9" d="M101.7,375l-5,6.1-5-6.1"/>
           <g class="st35">
-            <text class="st20" transform="translate(506 373.2)"><tspan x="0" y="0">Engine Type</tspan></text>
+            <text class="st20" transform="translate(506 373.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Engine Type</tspan></text>
           </g>
           <path class="st47" d="M330.7,367.1c.8-.2,1.9-.3,2.8.6.9.9.8,2,.6,2.8-.1.4-.3.7-.4,1,0,.1-.1.2-.2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0h0s0,0,0,0c0,0,0,0,0,0l-4,4,2.8,8.9c0,.2,0,.5-.2.6l-2.3,2.3c-.1.1-.3.2-.5.2-.2,0-.3-.1-.4-.3l-4.3-6.9-1.6,1.6-.3,4c0,.1,0,.3-.2.4l-.9.9c-.1.1-.3.2-.5.2-.2,0-.4-.1-.4-.3l-2.7-4.4-4.3-2.6c-.2,0-.3-.3-.3-.4s0-.4.2-.5l.9-.9h0c0-.1.2-.2.3-.2l4-.3,1.6-1.6-6.9-4.3c-.2,0-.3-.3-.3-.4,0-.2,0-.4.2-.5l2.3-2.3h0c.2-.2.4-.2.6-.1l8.9,2.8,4-4h0c0,0,0,0,0,0h0s0,0,0,0c0,0,0,0,0,0,0,0,0,0,0,0,0,0,.2,0,.3-.2.2-.1.6-.3,1-.4ZM332.6,368.6c-.4-.4-1-.4-1.6-.3-.3,0-.5.2-.7.3s-.2,0-.2.1c0,0,0,0,0,0l-4.3,4.3c-.2.2-.4.2-.6.1l-8.9-2.8-1.5,1.5,6.9,4.3c.2,0,.3.3.3.4,0,.2,0,.4-.2.5l-2.3,2.3c-.1.1-.2.2-.4.2l-4,.3-.2.2,3.8,2.3h.1c0,.1,0,.2,0,.2l2.4,3.8.2-.2.3-4h0c0-.2,0-.3.2-.4l2.3-2.3h.1c.1-.2.3-.2.4-.2.2,0,.3.1.4.3l4.3,6.9,1.5-1.5-2.8-8.9c0-.2,0-.5.1-.6l4.3-4.3s0,0,0,0c0,0,0-.1.1-.2,0-.2.2-.5.3-.7.2-.6.1-1.2-.3-1.6Z"/>
           <g class="st19">
@@ -694,157 +693,157 @@
           <line class="st12" x1="301.5" y1="364" x2="301.5" y2="391"/>
           <line class="st12" x1="484.5" y1="364" x2="484.5" y2="391"/>
           <g class="st35">
-            <text class="st41" transform="translate(192 393.4)"><tspan x="0" y="0">10578364</tspan></text>
+            <text class="st41" transform="translate(192 393.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">10578364</tspan></text>
           </g>
           <g class="st35">
-            <text class="st20" transform="translate(192 373.2)"><tspan x="0" y="0">Job no.</tspan></text>
+            <text class="st20" transform="translate(192 373.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Job no.</tspan></text>
           </g>
           <rect class="st47" x="654" y="365" width="109" height="29" rx="5" ry="5"/>
           <g class="st35">
-            <text class="st26" transform="translate(735.2 388.4)"><tspan x="0" y="0">3</tspan></text>
+            <text class="st26" transform="translate(735.2 388.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">3</tspan></text>
           </g>
           <g class="st35">
-            <text class="st42" transform="translate(730.7 388.4)"><tspan x="0" y="0"> </tspan></text>
+            <text class="st42" transform="translate(730.7 388.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo"> </tspan></text>
           </g>
           <g class="st35">
-            <text class="st36" transform="translate(699.6 388.4)"><tspan x="0" y="0" xml:space="preserve"> POs</tspan></text>
+            <text class="st36" transform="translate(699.6 388.4)" font-family="Arimo"><tspan x="0" y="0" xml:space="preserve" font-family="Arimo"> POs</tspan></text>
           </g>
           <g class="st35">
-            <text class="st36" transform="translate(670 388.4)"><tspan x="0" y="0">Total</tspan></text>
+            <text class="st36" transform="translate(670 388.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Total</tspan></text>
           </g>
           <g class="st35">
-            <text class="st41" transform="translate(817 396.4)"><tspan x="0" y="0">2</tspan></text>
+            <text class="st41" transform="translate(817 396.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">2</tspan></text>
           </g>
           <g class="st35">
-            <text class="st30" transform="translate(780 375.2)"><tspan x="0" y="0">Available</tspan></text>
+            <text class="st30" transform="translate(780 375.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Available</tspan></text>
           </g>
           <g class="st35">
-            <text class="st41" transform="translate(917 396.4)"><tspan x="0" y="0">1</tspan></text>
+            <text class="st41" transform="translate(917 396.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1</tspan></text>
           </g>
           <g class="st35">
-            <text class="st30" transform="translate(856 375.2)"><tspan x="0" y="0">Awaiting OPA</tspan></text>
+            <text class="st30" transform="translate(856 375.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Awaiting OPA</tspan></text>
           </g>
           <line class="st12" x1="840.5" y1="368" x2="840.5" y2="395"/>
           <rect class="st68" x="62" y="530" width="1325" height="84"/>
           <g class="st35">
-            <text class="st24" transform="translate(488 566.4)"><tspan x="0" y="0">ACTUATOR</tspan><tspan x="0" y="16.8">HOUSING</tspan></text>
+            <text class="st24" transform="translate(488 566.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ACTUATOR</tspan><tspan x="0" y="16.8" font-family="Arimo">HOUSING</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(623.5 568.9)"><tspan x="0" y="0">OVERHAUL AS PER </tspan></text>
-            <text class="st24" transform="translate(644.4 584.9)"><tspan x="0" y="0">ESM 74-20-11</tspan></text>
+            <text class="st24" transform="translate(623.5 568.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">OVERHAUL AS PER </tspan></text>
+            <text class="st24" transform="translate(644.4 584.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ESM 74-20-11</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(290 576.9)"><tspan x="0" y="0">46321-1487</tspan></text>
+            <text class="st24" transform="translate(290 576.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">46321-1487</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(394.1 576.9)"><tspan x="0" y="0">EM640215</tspan></text>
+            <text class="st24" transform="translate(394.1 576.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">EM640215</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(792 576.9)"><tspan x="0" y="0">1</tspan></text>
+            <text class="st24" transform="translate(792 576.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(152 577.5)"><tspan x="0" y="0">4021062804</tspan></text>
+            <text class="st44" transform="translate(152 577.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">4021062804</tspan></text>
           </g>
           <path class="st86" d="M62,405h1325v41H62v-41Z"/>
           <g class="st35">
-            <text class="st21" transform="translate(153 430.9)"><tspan x="0" y="0">PO</tspan></text>
+            <text class="st21" transform="translate(153 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">PO</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(290.3 430.9)"><tspan x="0" y="0">P/N</tspan></text>
+            <text class="st21" transform="translate(290.3 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">P/N</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(416.3 430.9)"><tspan x="0" y="0">S/N</tspan></text>
+            <text class="st21" transform="translate(416.3 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">S/N</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(488 430.9)"><tspan x="0" y="0">DESC</tspan></text>
+            <text class="st21" transform="translate(488 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">DESC</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(642.3 430.9)"><tspan x="0" y="0">WORKSCOPE</tspan></text>
+            <text class="st21" transform="translate(642.3 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">WORKSCOPE</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(792 430.9)"><tspan x="0" y="0">QTY</tspan></text>
+            <text class="st21" transform="translate(792 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">QTY</tspan></text>
           </g>
           <g class="st35">
-            <text class="st27" transform="translate(924.8 430.9)"><tspan x="0" y="0">(USD)</tspan></text>
+            <text class="st27" transform="translate(924.8 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">(USD)</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(847 430.9)"><tspan x="0" y="0">EST. Quote </tspan></text>
+            <text class="st21" transform="translate(847 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">EST. Quote </tspan></text>
           </g>
           <g class="st35">
-            <text class="st27" transform="translate(1091.3 430.9)"><tspan x="0" y="0">(USD)</tspan></text>
+            <text class="st27" transform="translate(1091.3 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">(USD)</tspan></text>
           </g>
           <g class="st35">
-            <text class="st21" transform="translate(974 430.9)"><tspan x="0" y="0">NEW TOTAL CLP </tspan></text>
+            <text class="st21" transform="translate(974 430.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">NEW TOTAL CLP </tspan></text>
           </g>
           <path class="st68" d="M127,561.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
           <path class="st10" d="M127,561.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
           <g class="st35">
-            <text class="st44" transform="translate(153 493.5)"><tspan x="0" y="0">4021062814</tspan></text>
+            <text class="st44" transform="translate(153 493.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">4021062814</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(290 492.9)"><tspan x="0" y="0">1962M58H11</tspan></text>
+            <text class="st24" transform="translate(290 492.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1962M58H11</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(391 492.9)"><tspan x="0" y="0">PPCYT642</tspan></text>
+            <text class="st24" transform="translate(391 492.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">PPCYT642</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(488 484.9)"><tspan x="0" y="0">NO.2 BEARING </tspan></text>
-            <text class="st24" transform="translate(488 500.9)"><tspan x="0" y="0">AFT OIL SEAL</tspan></text>
+            <text class="st24" transform="translate(488 484.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">NO.2 BEARING </tspan></text>
+            <text class="st24" transform="translate(488 500.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">AFT OIL SEAL</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(623.5 484.9)"><tspan x="0" y="0">OVERHAUL AS PER </tspan></text>
-            <text class="st24" transform="translate(643.8 500.9)"><tspan x="0" y="0">ESM 72-24-08</tspan></text>
+            <text class="st24" transform="translate(623.5 484.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">OVERHAUL AS PER </tspan></text>
+            <text class="st24" transform="translate(643.8 500.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ESM 72-24-08</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(792 492.9)"><tspan x="0" y="0">1</tspan></text>
+            <text class="st24" transform="translate(792 492.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1</tspan></text>
           </g>
           <path class="st68" d="M127,477.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
           <path class="st10" d="M127,477.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
           <line class="st4" x1="99.8" y1="476.7" x2="99.8" y2="499.2"/>
           <line class="st4" x1="99.8" y1="560.7" x2="99.8" y2="583.2"/>
           <g class="st35">
-            <text class="st24" transform="translate(488 660.9)"><tspan x="0" y="0">SERVO VALVE</tspan></text>
+            <text class="st24" transform="translate(488 660.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">SERVO VALVE</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(623.5 652.9)"><tspan x="0" y="0">OVERHAUL AS PER </tspan></text>
-            <text class="st24" transform="translate(644.4 668.9)"><tspan x="0" y="0">ESM 73-12-40</tspan></text>
+            <text class="st24" transform="translate(623.5 652.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">OVERHAUL AS PER </tspan></text>
+            <text class="st24" transform="translate(644.4 668.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">ESM 73-12-40</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(152 648.5)"><tspan x="0" y="0">4021062815</tspan></text>
+            <text class="st44" transform="translate(152 648.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">4021062815</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(290 651.9)"><tspan x="0" y="0">1462M58H11, </tspan></text>
-            <text class="st24" transform="translate(290 667.9)"><tspan x="0" y="0">1462M58H12 </tspan></text>
+            <text class="st24" transform="translate(290 651.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1462M58H11, </tspan></text>
+            <text class="st24" transform="translate(290 667.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1462M58H12 </tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(426.2 662.9)"><tspan x="0" y="0">-</tspan></text>
+            <text class="st24" transform="translate(426.2 662.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">-</tspan></text>
           </g>
           <g class="st35">
-            <text class="st24" transform="translate(792 660.9)"><tspan x="0" y="0">16</tspan></text>
+            <text class="st24" transform="translate(792 660.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">16</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(974 651.5)"><tspan x="0" y="0">$573,840.00</tspan></text>
+            <text class="st44" transform="translate(974 651.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$573,840.00</tspan></text>
           </g>
           <g class="st35">
-            <text class="st38" transform="translate(974 672.9)"><tspan x="0" y="0">$35865.00 / ea</tspan></text>
+            <text class="st38" transform="translate(974 672.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$35865.00 / ea</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(859 651.5)"><tspan x="0" y="0">$76,320.00</tspan></text>
+            <text class="st44" transform="translate(859 651.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$76,320.00</tspan></text>
           </g>
           <g class="st35">
-            <text class="st38" transform="translate(859 672.9)"><tspan x="0" y="0">9EA SCRAP</tspan></text>
+            <text class="st38" transform="translate(859 672.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">9EA SCRAP</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(974 567.5)"><tspan x="0" y="0">$185,585.00</tspan></text>
+            <text class="st44" transform="translate(974 567.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$185,585.00</tspan></text>
           </g>
           <g class="st35">
-            <text class="st38" transform="translate(974 588.9)"><tspan x="0" y="0">$185585.00 / ea</tspan></text>
+            <text class="st38" transform="translate(974 588.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$185585.00 / ea</tspan></text>
           </g>
           <g class="st35">
-            <text class="st44" transform="translate(974 483.5)"><tspan x="0" y="0">$16,440.00</tspan></text>
+            <text class="st44" transform="translate(974 483.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$16,440.00</tspan></text>
           </g>
           <g class="st35">
-            <text class="st38" transform="translate(974 504.9)"><tspan x="0" y="0">$16440.00 / ea</tspan></text>
+            <text class="st38" transform="translate(974 504.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">$16440.00 / ea</tspan></text>
           </g>
           <path class="st68" d="M127,646.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
           <path class="st10" d="M127,646.5h10c3,0,5.5,2.5,5.5,5.5v10c0,3-2.5,5.5-5.5,5.5h-10c-3,0-5.5-2.5-5.5-5.5v-10c0-3,2.5-5.5,5.5-5.5Z"/>
@@ -855,7 +854,7 @@
           <rect class="st82" x="153" y="659" width="63" height="19" rx="5" ry="5"/>
           <path class="st60" d="M159.6,663l-.6.6v9.8l.6.6h13.4l.6-.6v-9.8l-.6-.6h-13.4ZM160.2,665v7.8h12.2v-7.8l-6.1,5.6-6.1-5.6ZM171.5,664.2h-10.3l5.1,4.7,5.1-4.7Z"/>
           <g class="st35">
-            <text class="st28" transform="translate(178 673.2)"><tspan x="0" y="0">SENT</tspan></text>
+            <text class="st28" transform="translate(178 673.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">SENT</tspan></text>
           </g>
           <path d="M946,605v-.3c0-2-1.6-3.7-3.6-3.7s-.9,0-1.3.2c-.3-1.7-1.8-2.9-3.5-2.9s-.9,0-1.3.3c-.4-1.5-1.9-2.7-3.5-2.7s-.9,0-1.3.2v-4.4c0-2-1.6-3.7-3.6-3.7s-3.6,1.7-3.6,3.7v10.8c-.6-.8-1.4-1.5-2.3-1.9-1-.4-2-.4-3,.1-1.8.9-2.5,3.2-1.6,5l4.5,9.2c.1.2,3.1,6.2,8.6,6.2h6.4c5,0,9.1-4.2,9.1-9.4v-6.8h0Z"/>
           <path class="st68" d="M936.9,618.7h-6.4c-4,0-6.4-4.7-6.5-4.9l-4.5-9.2c-.3-.6,0-1.4.6-1.7.3-.2.6-.2,1,0,1.3.5,2.6,3.2,3.1,4.8l.4,1.2,2.1-.7v-16.4c0-.7.5-1.2,1.2-1.2s1.2.6,1.2,1.2v14.1h2.4v-6.2c0-.7.6-1.3,1.3-1.3s1.3.6,1.3,1.2v6.7h2.4v-4.2c0-.7.5-1.2,1.2-1.2s1.2.5,1.2,1.2v5.4h2.4v-2.7c0-.7.5-1.2,1.2-1.2s1.2.5,1.2,1.2v7.1c0,3.8-3,6.9-6.7,6.9h0Z"/>
@@ -869,11 +868,11 @@
   <rect class="st15" x="53.5" y="344.5" width="1365" height="579"/>
   <rect class="st0" y="0" width="41" height="1024"/>
   <g class="st35">
-    <text class="st40" transform="translate(1175.8 62.5)"><tspan x="0" y="0">Wei Ling</tspan></text>
+    <text class="st40" transform="translate(1175.8 62.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Wei Ling</tspan></text>
   </g>
   <circle class="st81" cx="1343.5" cy="57.5" r="17.5"/>
   <g class="st35">
-    <text class="st24" transform="translate(1334.2 61.9)"><tspan x="0" y="0">WL</tspan></text>
+    <text class="st24" transform="translate(1334.2 61.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">WL</tspan></text>
   </g>
   <path class="st47" d="M1374.8,60.5c0,0,.2.2.3.2,0,0,.2,0,.3,0s.2,0,.3,0c.1,0,.2-.1.3-.2l4.6-5.1c.4-.5,0-1.3-.6-1.3h-9.2c-.7,0-1,.8-.6,1.3l4.6,5.1Z"/>
   <path class="st64" d="M1429,508V244.8c0-2.1,1.7-3.8,3.8-3.8h0c2.1,0,3.8,1.7,3.8,3.8v263.3c0,2.1-1.7,3.8-3.8,3.8h0c-2.1,0-3.8-1.7-3.8-3.8Z"/>
@@ -881,66 +880,66 @@
   <rect class="st10" x="1166.5" y="195.5" width="252" height="39" rx="4.5" ry="4.5"/>
   <path class="st3" d="M1315,209.7h10M1315,215.7h10M1315,221.7h10M1307,215.7l1.5,1.6,3.5-3.5M1307,209.7l1.5,1.6,3.5-3.5M1308.5,221.7h0M1309,221.7c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5Z"/>
   <g class="st35">
-    <text class="st38" transform="translate(1332.1 219.9)"><tspan x="0" y="0">Batch View</tspan></text>
+    <text class="st38" transform="translate(1332.1 219.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Batch View</tspan></text>
   </g>
   <rect class="st55" x="1171.5" y="199.5" width="119" height="31" rx="4.5" ry="4.5"/>
   <path class="st47" d="M1188,209h13-13ZM1188,215h13s-13,0-13,0ZM1188,221h13-13ZM1183.5,209h0,0ZM1183.5,215h0,0ZM1183.5,221h0,0ZM1184,209c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5ZM1184,215c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5ZM1184,221c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5Z"/>
   <path class="st6" d="M1188,209h13M1188,215h13M1188,221h13M1183.5,209h0M1183.5,215h0M1183.5,221h0M1184,209c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5ZM1184,215c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5ZM1184,221c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5Z"/>
   <g class="st35">
-    <text class="st43" transform="translate(1210.1 219.9)"><tspan x="0" y="0">Detail View</tspan></text>
+    <text class="st43" transform="translate(1210.1 219.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Detail View</tspan></text>
   </g>
   <rect class="st17" x="57.4" y="194.5" width="310" height="34" rx="7.5" ry="7.5"/>
   <path class="st16" d="M79.9,217.5l-3-3,3,3ZM78.6,210.5c0,1.5-.6,2.9-1.7,4-1.1,1.1-2.5,1.7-4,1.7s-2.9-.6-4-1.7c-1.1-1.1-1.7-2.5-1.7-4s.6-2.9,1.7-4c1.1-1.1,2.5-1.7,4-1.7s2.9.6,4,1.7c1.1,1.1,1.7,2.5,1.7,4h0Z"/>
   <g class="st35">
-    <text class="st23" transform="translate(89.9 216.4)"><tspan x="0" y="0">Search Customer, ESN, PO No., Job no.</tspan></text>
+    <text class="st23" transform="translate(89.9 216.4)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Search Customer, ESN, PO No., Job no.</tspan></text>
   </g>
   <path class="st69" d="M869,197.5h107c4.1,0,7.5,3.4,7.5,7.5v18c0,4.1-3.4,7.5-7.5,7.5h-107c-4.1,0-7.5-3.4-7.5-7.5v-18c0-4.1,3.4-7.5,7.5-7.5Z"/>
   <circle class="st49" cx="969.5" cy="214.5" r="7.5"/>
   <g class="st35">
-    <text class="st31" transform="translate(966 219.2)"><tspan x="0" y="0">1</tspan></text>
+    <text class="st31" transform="translate(966 219.2)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">1</tspan></text>
   </g>
   <g class="st35">
-    <text class="st38" transform="translate(890 218.9)"><tspan x="0" y="0">More filters</tspan></text>
+    <text class="st38" transform="translate(890 218.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">More filters</tspan></text>
   </g>
   <path class="st2" d="M873,209.2c0-.4,0-.5,0-.7,0-.1.2-.2.3-.3.1,0,.3,0,.6,0h9c.3,0,.5,0,.6,0,.1,0,.2.2.3.3,0,.1,0,.3,0,.7v1.1c0,.2,0,.2,0,.3,0,0,0,.1,0,.2,0,0,0,.1-.2.2l-3.7,3.9c-.1.1-.2.2-.2.2,0,0,0,.1,0,.2,0,0,0,.2,0,.3v1.5l-2.4,2.6v-4.1c0-.2,0-.2,0-.3,0,0,0-.1,0-.2,0,0,0-.1-.2-.2l-3.7-3.9c-.1-.1-.2-.2-.2-.2,0,0,0-.1,0-.2,0,0,0-.2,0-.3v-1.1Z"/>
   <line class="st14" x1="970" y1="168" x2="1092" y2="168"/>
   <line class="st10" x1="1092" y1="168.5" x2="1214" y2="168.5"/>
   <g class="st35">
-    <text class="st25" transform="translate(1016.5 150.5)"><tspan x="0" y="0">Active</tspan></text>
+    <text class="st25" transform="translate(1016.5 150.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Active</tspan></text>
   </g>
   <path class="st6" d="M994,138.5h13M994,144.5h13M994,150.5h13M989.5,138.5h0M989.5,144.5h0M989.5,150.5h0M990,138.5c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5ZM990,144.5c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5ZM990,150.5c0,.3-.2.5-.5.5s-.5-.2-.5-.5.2-.5.5-.5.5.2.5.5Z"/>
   <g class="st35">
-    <text class="st40" transform="translate(1148.9 150.5)"><tspan x="0" y="0">Closed</tspan></text>
+    <text class="st40" transform="translate(1148.9 150.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Closed</tspan></text>
   </g>
   <path class="st3" d="M1126,147h6M1121.6,143h14.8c.6,0,.8,0,1-.1.2,0,.4-.2.4-.4.1-.2.1-.5.1-1.1v-2.8c0-.6,0-.8-.1-1.1,0-.2-.2-.3-.4-.4-.2-.1-.5-.1-1-.1h-14.8c-.6,0-.8,0-1,.1-.2,0-.4.2-.4.4-.1.2-.1.5-.1,1.1v2.8c0,.6,0,.8.1,1.1,0,.2.2.3.4.4.2.1.5.1,1,.1ZM1122,143h14v6.8c0,1.1,0,1.7-.2,2.1-.2.4-.5.7-.9.9-.4.2-1,.2-2.1.2h-7.6c-1.1,0-1.7,0-2.1-.2-.4-.2-.7-.5-.9-.9-.2-.4-.2-1-.2-2.1v-6.8Z"/>
   <g class="st35">
-    <text class="st33" transform="translate(328.3 154.3)"><tspan x="0" y="0">Subcon Approval Hub</tspan></text>
+    <text class="st33" transform="translate(328.3 154.3)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Subcon Approval Hub</tspan></text>
   </g>
   <path class="st45" d="M290,133.1c-.5.1-.8.3-1.2.7-.4.4-.6.7-.7,1.2v.3c0,0,0,9.9,0,9.9v10.2c.3.5.4.8.8,1.2.4.4.7.6,1.2.7h.3c0,.1,9.9.1,9.9.1h10.2c.5-.3.8-.4,1.2-.8.4-.4.6-.7.7-1.2v-.3c.1,0,.1-9.9.1-9.9v-10.2c-.3-.5-.4-.8-.8-1.2-.4-.4-.8-.6-1.2-.7-.4,0-20,0-20.4,0ZM309.9,135.5h.1v4.6h-19.7v-4.5h.1c0-.1.1-.2.1-.2h19.4ZM295,148.8v6.3h-2.1c-1.2,0-2.2,0-2.3,0,0,0-.2,0-.2-.1h-.1v-12.5h4.7v6.3ZM310.1,148.7v6.2h-.1c0,.2-.2.2-.2.2,0,0-2.9,0-6.2,0h-6.1v-12.7h12.6v6.2Z"/>
   <path class="st46" d="M79.4,157.6l-1.5,1.7-13.5-13.1,13.5-13.1,1.5,1.7-11.8,11.5,11.8,11.5Z"/>
   <g class="st35">
-    <text class="st40" transform="translate(98.9 151.5)"><tspan x="0" y="0">Back to dashboard</tspan></text>
+    <text class="st40" transform="translate(98.9 151.5)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Back to dashboard</tspan></text>
   </g>
   <line class="st17" x1="258.4" y1="131" x2="258.4" y2="164"/>
   <rect class="st52" x="394" y="196" width="43" height="32" rx="5" ry="5"/>
   <g class="st35">
-    <text class="st37" transform="translate(406 216.9)"><tspan x="0" y="0">All</tspan></text>
+    <text class="st37" transform="translate(406 216.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">All</tspan></text>
   </g>
   <g class="st35">
-    <text class="st38" transform="translate(460 216.9)"><tspan x="0" y="0">Pending</tspan></text>
+    <text class="st38" transform="translate(460 216.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Pending</tspan></text>
   </g>
   <g class="st35">
-    <text class="st38" transform="translate(677 216.9)"><tspan x="0" y="0">On Hold </tspan></text>
+    <text class="st38" transform="translate(677 216.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">On Hold </tspan></text>
   </g>
   <g class="st35">
-    <text class="st38" transform="translate(767 216.9)"><tspan x="0" y="0">Rejected</tspan></text>
+    <text class="st38" transform="translate(767 216.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Rejected</tspan></text>
   </g>
   <g class="st35">
-    <text class="st38" transform="translate(550 216.9)"><tspan x="0" y="0">Approval Sent</tspan></text>
+    <text class="st38" transform="translate(550 216.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Approval Sent</tspan></text>
   </g>
   <rect class="st66" x="1233.5" y="132.5" width="180" height="36" rx="4.5" ry="4.5"/>
   <g class="st35">
-    <text class="st43" transform="translate(1299.2 155.9)"><tspan x="0" y="0">Email History</tspan></text>
+    <text class="st43" transform="translate(1299.2 155.9)" font-family="Arimo"><tspan x="0" y="0" font-family="Arimo">Email History</tspan></text>
   </g>
   <path class="st18" d="M1274.8,146.7v4l2.5,2.5"/>
   <path class="st47" d="M1267.1,145.6h-.8c0,.4.3.7.7.8v-.8ZM1269.6,146.4c.4,0,.8-.3.8-.7,0-.4-.3-.8-.7-.8v1.5ZM1267.8,143.1c0-.4-.3-.7-.8-.7-.4,0-.8.3-.7.8h1.5ZM1266.5,150.7c0-.4-.3-.8-.8-.8s-.8.3-.8.8h1.5ZM1279.6,159.2c.3-.2.5-.7.3-1-.2-.4-.7-.5-1-.3l.8,1.3ZM1281.9,154.9c-.2.4,0,.8.3,1,.4.2.8,0,1-.3l-1.3-.8ZM1267.9,143.8c-.3.3-.3.8,0,1.1.3.3.8.3,1.1,0l-1.1-1.1ZM1281.6,143.9c-3.8-3.8-10-3.9-13.8,0l1.1,1.1c3.2-3.2,8.4-3.2,11.7,0l1.1-1.1ZM1267.8,143.8l-1.3,1.3,1.1,1.1,1.3-1.3-1.1-1.1ZM1267.1,146.4h2.6s0-1.5,0-1.5h-2.6s0,1.5,0,1.5ZM1267.8,145.6v-2.5s-1.5,0-1.5,0v2.5s1.5,0,1.5,0ZM1274.8,142.5c4.6,0,8.2,3.7,8.2,8.2h1.5c0-5.4-4.4-9.8-9.8-9.8v1.5ZM1274.8,159c-4.6,0-8.2-3.7-8.2-8.2h-1.5c0,5.4,4.4,9.8,9.8,9.8v-1.5ZM1278.9,157.9c-1.2.7-2.6,1.1-4.1,1.1v1.5c1.8,0,3.4-.5,4.9-1.3l-.8-1.3ZM1283,150.7c0,1.5-.4,2.9-1.1,4.1l1.3.8c.8-1.4,1.3-3.1,1.3-4.9h-1.5ZM1268.9,144.9c1.5-1.5,3.5-2.4,5.8-2.4v-1.5c-2.7,0-5.1,1.1-6.9,2.8l1.1,1.1Z"/>

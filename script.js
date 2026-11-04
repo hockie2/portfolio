@@ -2,26 +2,30 @@ document.addEventListener('DOMContentLoaded', function () {
 
   /* ---- Navbar: solid background after scroll ---- */
   var nav = document.getElementById('mainNav');
-  function onScroll () {
-    if (window.scrollY > 40) {
-      nav.classList.add('scrolled');
-    } else {
-      nav.classList.remove('scrolled');
+  if (nav) {
+    function onScroll () {
+      if (window.scrollY > 40) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
     }
+    onScroll();
+    window.addEventListener('scroll', onScroll, { passive: true });
   }
-  onScroll();
-  window.addEventListener('scroll', onScroll, { passive: true });
 
   /* ---- Collapse mobile nav after a link is tapped ---- */
   var navMenu = document.getElementById('navMenu');
-  navMenu.querySelectorAll('.nav-link').forEach(function (link) {
-    link.addEventListener('click', function () {
-      if (navMenu.classList.contains('show')) {
-        var collapse = bootstrap.Collapse.getOrCreateInstance(navMenu);
-        collapse.hide();
-      }
+  if (navMenu) {
+    navMenu.querySelectorAll('.nav-link').forEach(function (link) {
+      link.addEventListener('click', function () {
+        if (navMenu.classList.contains('show')) {
+          var collapse = bootstrap.Collapse.getOrCreateInstance(navMenu);
+          collapse.hide();
+        }
+      });
     });
-  });
+  }
 
   /* ---- Scroll reveal ---- */
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -335,5 +339,28 @@ document.addEventListener('DOMContentLoaded', function () {
         video.currentTime = 0;
       });
     });
+  });
+});
+
+/* ============================================
+   Back to top button — show after scrolling down, and scroll smoothly to top on click
+   ============================================ */
+
+const backToTopBtn = document.getElementById('backToTopBtn');
+
+// Show button when scrolled down 300px
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 300) {
+    backToTopBtn.classList.add('show');
+  } else {
+    backToTopBtn.classList.remove('show');
+  }
+});
+
+// Smoothly scroll to top on click
+backToTopBtn.addEventListener('click', () => {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
   });
 });

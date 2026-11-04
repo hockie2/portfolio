@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9H0DKMLRYG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-9H0DKMLRYG');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Materials Ops App — Teo Boon Hock</title>
+  <meta name="description"
+    content="Case study: a real-time shortage-tracking workspace for aerospace engine MRO, replacing static spreadsheets and email-based approvals.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet">
+      <!-- Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css"
+    rel="stylesheet">
+
+  <!-- Reuses your existing portfolio tokens/fonts -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="mo-back">
+    <div class="container">
+      <a href="index.html#product-cases"><i class="bi bi-arrow-left"></i> Back to product cases</a>
+    </div>
+  </div>
+
+  <div class="container">
+        <!-- ===== HERO ===== -->
+    <header class="mo-hero">
+        <div class="mo-hero-grid" aria-hidden="true"></div>
+        <div class="container mo-hero-inner">
+        <div class="row">
+            <div class="col-lg-9">
+            <p class="mo-eyebrow"><span class="mo-eyebrow-dot"></span>AEROSPACE · SUPPLY CHAIN · ENTERPRISE</p>
+            <h1 class="mo-title">Materials Ops App</h1>
+            <p class="mo-subtitle">Fixing Engine Shortage Requisitions</p>
+            <p class="mo-byline"><strong>Sole UX/UI Designer</strong> (End-to-end) · Enterprise Desktop Web App ·
+                Target user: Materials Planner</p>
+            </div>
+        </div>
+
+        <div class="mo-stats">
+            <div class="mo-stat">
+            <div class="mo-stat-num">2 views</div>
+            <div class="mo-stat-label">ENGINE vs. PARTS fulfillment modes, one tap apart</div>
+            </div>
+            <div class="mo-stat">
+            <div class="mo-stat-num">4-stage</div>
+            <div class="mo-stat-label">approval trail replacing untracked email chains</div>
+            </div>
+            <div class="mo-stat">
+            <div class="mo-stat-num">Stock indicators </div>
+            <div class="mo-stat-label">(eg. GV / GCDR / GHR..) against every part</div>
+            </div>
+        </div>
+        <p class="mo-note"><strong>Confidentiality note:</strong> In line with applicable NDAs, all company
+          names, client identities, proprietary part numbers, and live commercial data have been anonymized or
+          generalized. The underlying workflow design, information architecture, and product thinking presented
+          here are unaltered and authentic.</p>
+        </div>
+    </header>
+
+    <!-- ===== HERO SCREENSHOT — ANNOTATED ===== -->
+    <section class="mo-section" style="padding-top:56px;">
+        <div class="container">
+        <span class="mo-eyebrow-inline">AT A GLANCE</span>
+        <h2 class="mo-h2">One live workspace replaces the shortage spreadsheet.</h2>
+
+        <div class="row g-4">
+            <div class="col-12">
+            <figure class="mo-shot">
+                <img src="images/uiux/materials-ops/outstanding-materials-parts-overview-nda.svg"
+                alt="Outstanding Materials shortage list with the ENGINES/PARTS toggle, live stock chips, and add/add-alt actions">
+            </figure>
+            </div>
+            <div class="col-12">
+            <ul class="mo-legend">
+                <li><span><strong>Engine / Parts toggle —</strong> one tap
+                    switches whether shortages group by engine or by part.</span></li>
+                <li><span><strong>Live stock chips —</strong> GV, GCDR and GHR
+                    counts sit directly against demand — no more cross-checking spreadsheets.</span></li>
+                <li><span><strong>Add / Add Alt —</strong> a blue icon flags
+                    approved substitutes; one click adds either to the cart.</span></li>
+                <li><span><strong>Shared Approval Cart —</strong> live count of
+                    items staged for sign-off, visible to the whole team.</span></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== THE PROBLEM ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">THE CHALLENGE</span>
+        <h2 class="mo-h2">Two things were costing shopfloor time.</h2>
+        <div class="mo-cols">
+            <div>
+            <h4>WHAT PLANNERS WERE DEALING WITH</h4>
+            <ul>
+                <li><strong>Spreadsheet fatigue:</strong> cross-referencing shortages against stock meant switching
+                between multiple static Excel files.</li>
+                <li><strong>Email bottlenecks:</strong> requisition approvals ran through manual threads — easy to
+                lose track of, and it held up engine assembly.</li>
+                <li><strong>Hidden substitutes:</strong> even when an approved alternative part existed, finding it
+                quickly wasn't easy.</li>
+            </ul>
+            </div>
+            <div>
+            <h4>WHAT THE APP DOES INSTEAD</h4>
+            <ul>
+                <li><strong>One view for stock:</strong> real-time counts sit directly against part demand.</li>
+                <li><strong>Blue alternative rows:</strong> an icon flags when alternatives exist, expanding into
+                nested rows on demand.</li>
+                <li><strong>Two fulfillment modes:</strong> toggle between clearing one Engine or batch-fulfilling
+                one part across every engine that needs it.</li>
+            </ul>
+            </div>
+        </div>
+
+        <div class="mo-persona">
+            <div class="mo-persona-avatar">M</div>
+            <div>
+            <p class="mo-persona-name">Marcus · Materials Planner</p>
+            <div class="mo-persona-tags">
+                <span>Pulls shortages from SAP</span>
+                <span>Cross-checks stock by hand</span>
+                <span>Routes approvals by email</span>
+                <span>Needs batch-fulfillment across engines</span>
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== FEATURE 02 — VENDOR DRAWER, ANNOTATED ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 02</span>
+        <div class="mo-feature-head">
+            <h3 class="mo-feature-title">Keeping Context When Entering Orders</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> a slide-out drawer instead of a modal or a new
+            page: a modal blocks the table behind it, a page reload loses your scroll position. The drawer lets
+            planners adjust an order while the row they're working on stays visible.</p>
+
+        <div class="row g-4">
+            <div class="col-6">
+            <figure class="mo-shot">
+                <img src="images/uiux/materials-ops/vendor-selection-drawer-nda.svg"
+                alt="Vendor selection drawer with fulfilment progress, vendor comparison table, and quantity entry">
+            </figure>
+            </div>
+            <div class="col-12">
+            <ul class="mo-legend">
+                <li><span><strong>Live fulfillment % —</strong> updates in real
+                    time as stock is added to the cart, so a planner never double-orders.</span></li>
+                <li><span><strong>Vendor comparison —</strong> price, MOQ and
+                    lead time side by side across NEW and USM sources, sortable.</span></li>
+                <li><span><strong>Quantity → extended price —</strong> catalog
+                    constraints (MOQ/UPQ) are enforced before the order can be submitted.</span></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== FEATURE 03 — SHARED CART, ANNOTATED ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">THE SOLUTION · FEATURE 03</span>
+        <div class="mo-feature-head">
+            <h3 class="mo-feature-title">Replacing Email Approvals with a Shared Cart</h3>
+        </div>
+        <p class="mo-feature-why"><strong>UX rationale —</strong> email threads meant no one had a single, current
+            view of what was pending. A shared cart gives the manager full context on a part and lets them sign off
+            in one tap: In Cart → Pending PPCS approval → PPCS Approved → ePR Approved.</p>
+
+        <div class="row g-4">
+            <div class="col-12">
+            <figure class="mo-shot">
+                <img src="images/uiux/materials-ops/approval-cart-engine-view-nda.svg"
+                alt="Shared approval cart grouped by Engine, showing live collaboration status and a submit-for-approval action">
+            </figure>
+            </div>
+            <div class="col-12">
+            <ul class="mo-legend">
+                <li><span><strong>Live collaboration —</strong> planner and
+                    manager see the same cart update in real time.</span></li>
+                <li><span><strong>Review queue —</strong> every staged part shows
+                    its status at a glance — complete, pending, incomplete.</span></li>
+                <li><span><strong>One-tap submit —</strong> the manager signs off
+                    without digging through an email thread.</span></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== WORKFLOW COMPARISON ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">BEFORE &amp; AFTER</span>
+        <h2 class="mo-h2">Workflow Comparison</h2>
+        <div class="table-responsive">
+            <table class="mo-table">
+            <thead>
+                <tr><th>Operational Area</th><th>Before</th><th>After</th></tr>
+            </thead>
+            <tbody>
+                <tr>
+                <td>Stock Verification</td>
+                <td>Manual cross-checking across static spreadsheets</td>
+                <td>Real-time stock indicators (GV, GCDR, GHR)</td>
+                </tr>
+                <tr>
+                <td>Alternative Parts</td>
+                <td>Hard to find manually</td>
+                <td>Icon expands into nested rows for instant substitution</td>
+                </tr>
+                <tr>
+                <td>Approvals</td>
+                <td>Untracked email chains causing delays</td>
+                <td>Shared cart with live PPCS/ePR status</td>
+                </tr>
+                <tr>
+                <td>Fulfillment</td>
+                <td>One rigid spreadsheet view</td>
+                <td>Two modes: Engine ESN or Part Batching</td>
+                </tr>
+            </tbody>
+            </table>
+        </div>
+        </div>
+    </section>
+
+    <!-- ===== TAKEAWAYS ===== -->
+    <section class="mo-section">
+        <div class="container">
+        <span class="mo-eyebrow-inline">REFLECTIONS</span>
+        <h2 class="mo-h2">Key UX Takeaways</h2>
+        <ol class="mo-takeaways">
+            <li><span class="mo-takeaways-num">01</span><span><strong>Dense tables need a clear hierarchy.</strong>
+                Color-coded stock chips and slide-out drawers kept the data scannable without losing the planner's
+                place.</span></li>
+            <li><span class="mo-takeaways-num">02</span><span><strong>Progressive disclosure beats always-on
+                clutter.</strong> Flagging substitutes with an icon let planners explore alternatives only when
+                they needed to.</span></li>
+            <li><span class="mo-takeaways-num">03</span><span><strong>One user, two jobs.</strong> A one-click switch
+                between Engine and Part views let the same planner do both without separate tools.</span></li>
+        </ol>
+        </div>
+    </section>
+
+    <div class="mo-footer-link">
+        <a href="index.html#product-cases"><i class="bi bi-arrow-left"></i> Back to product cases</a>
+    </div>
+  </div>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

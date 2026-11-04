@@ -1,306 +1,319 @@
-<svg width="1440" height="1836" viewBox="0 0 1440 1836" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-  <style><![CDATA[
-    @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-    text, tspan { font-family: 'Arimo', Arial, sans-serif !important; }
-  ]]></style>
-</defs>
-<rect width="1440" height="1836" fill="white"/>
-<g id="aeroflow-vector-logo" transform="translate(67 58.07)">
-<g id="Layer_1-2" data-name="Layer 1">
-    <g>
-      <g>
-        <g>
-          <path fill="#2D343F" d="M79.4,34.1l-2.5-7.3h-10.8l-2.5,7.3h-6l10.4-28.4h7l10.3,28.4h-5.9ZM71.5,10v.4c-.3.5-.4,1-.6,1.7-.2.6-1.3,4-3.5,10.2h8.2l-2.8-8.2-.9-2.7-.4-1.4h0Z"/>
-          <path fill="#2D343F" d="M98.2,34.5c-3.3,0-5.8-1-7.6-2.9s-2.6-4.8-2.6-8.5.9-6.4,2.7-8.3,4.3-2.9,7.6-2.9,5.5,1,7.2,3.1,2.5,5.1,2.5,9.1v.2h-14c0,2.1.4,3.7,1.2,4.8.8,1.1,1.9,1.6,3.4,1.6s3.3-.9,3.8-2.6l5.3.5c-1.5,4-4.7,5.9-9.4,5.9h-.1ZM98.2,15.4c-1.3,0-2.4.5-3.1,1.4s-1.1,2.2-1.1,3.9h8.5c0-1.8-.5-3.1-1.3-4-.7-.9-1.7-1.3-3-1.3h0Z"/>
-          <path fill="#2D343F" d="M112.3,34.1V12.3h5.4c0,.2,0,1,.2,2.2s0,2,0,2.5h0c.6-1.5,1-2.6,1.5-3.2.4-.6.9-1.1,1.5-1.4s1.3-.5,2.2-.5,1.3,0,1.8.3v4.7c-.9-.2-1.7-.3-2.4-.3-1.4,0-2.5.6-3.3,1.7s-1.2,2.8-1.2,5.1v10.7h-5.7Z"/>
-          <path fill="#2D343F" d="M149.1,23.1c0,3.5-1,6.3-2.9,8.3-2,2-4.7,3-8.2,3s-6.1-1-8-3-2.9-4.8-2.9-8.3,1-6.3,2.9-8.3,4.6-3,8.1-3,6.3,1,8.2,2.9,2.8,4.7,2.8,8.4h0ZM143.2,23.1c0-2.6-.4-4.5-1.3-5.7-.8-1.2-2.1-1.8-3.7-1.8-3.4,0-5.2,2.5-5.2,7.4s.4,4.3,1.3,5.6c.8,1.3,2.1,1.9,3.6,1.9,3.5,0,5.2-2.5,5.2-7.5h0l.1.1Z"/>
-          <path fill="#2D343F" d="M159.5,10.2v8.8h14.6v4.6h-14.6v10.4h-6V5.6h21v4.6s-15,0-15,0Z"/>
-          <path fill="#2D343F" d="M178.9,34.1V4.1h5.7v30h-5.7Z"/>
-          <path fill="#2D343F" d="M211.1,23.1c0,3.5-1,6.3-2.9,8.3-2,2-4.7,3-8.2,3s-6.1-1-8-3-2.9-4.8-2.9-8.3,1-6.3,2.9-8.3,4.6-3,8.1-3,6.3,1,8.2,2.9c1.9,1.9,2.8,4.7,2.8,8.4ZM205.2,23.1c0-2.6-.4-4.5-1.3-5.7-.8-1.2-2.1-1.8-3.7-1.8-3.4,0-5.2,2.5-5.2,7.4s.4,4.3,1.3,5.6c.8,1.3,2.1,1.9,3.6,1.9,3.5,0,5.2-2.5,5.2-7.5h0l.1.1Z"/>
-          <path fill="#2D343F" d="M239.2,34.1h-6l-3.5-13.3c-.2-.6-.5-2.1-.9-4.5l-1,4.5-3.5,13.3h-6l-5.7-21.8h5.3l3.6,16.7.3-1.5.5-2.4,3.4-12.8h6.1l3.4,12.8c.2.7.5,2,.8,3.9l.6-2.7,3.1-14h5.2l-5.7,21.8h0Z"/>
-        </g>
-        <g>
-          <path fill="#0659AE" d="M8.4,19.8c.3-2.3,1.2-4.5,2.6-6.3l-5.9-5.9C2.3,10.9.4,15.2.1,19.8h8.4-.1Z"/>
-          <path fill="#0659AE" d="M13.6,11c1.8-1.4,3.9-2.3,6.3-2.6V0c-4.6.4-8.8,2.2-12.2,5l5.9,5.9h0v.1Z"/>
-          <path fill="#0659AE" d="M23.5,0v8.4c2.3.3,4.5,1.2,6.3,2.6l5.9-5.9C32.4,2.3,28.1.4,23.5.1h0v-.1Z"/>
-          <path fill="#0659AE" d="M11,29.8c-1.4-1.8-2.3-3.9-2.6-6.3H0c.4,4.6,2.2,8.8,5,12.2l5.9-5.9h.1Z"/>
-          <path fill="#0659AE" d="M19.9,35c-2.3-.3-4.5-1.2-6.3-2.6l-5.9,5.9c3.3,2.8,7.6,4.7,12.2,5v-8.4h0v.1Z"/>
-          <path fill="#0659AE" d="M29.8,32.4c-1.8,1.4-3.9,2.3-6.3,2.6v8.4c4.6-.4,8.8-2.2,12.2-5l-5.9-5.9h0v-.1Z"/>
-          <path fill="#0659AE" d="M32.4,13.6c1.4,1.8,2.3,3.9,2.6,6.3h8.4c-.4-4.6-2.2-8.8-5-12.2l-5.9,5.9h-.1Z"/>
-          <path fill="#0659AE" d="M35,23.5c-.3,2.3-1.2,4.5-2.6,6.3l5.9,5.9c2.8-3.3,4.7-7.6,5-12.2h-8.4.1Z"/>
-        </g>
-      </g>
-      <g>
-        <g>
-          <path fill="#282828" d="M311.3,29.9V7.7h16.9v2.5h-13.8v7.1h12.9v2.4h-12.9v7.7h14.5v2.5h-17.6Z"/>
-          <path fill="#282828" d="M343.3,29.9v-10.8c0-1.1,0-2-.3-2.6-.2-.6-.6-1.1-1.1-1.3-.5-.3-1.2-.4-2.1-.4-1.4,0-2.4.5-3.2,1.4s-1.2,2.2-1.2,3.9v9.9h-2.8V13h2.7v2.9h0c.7-1.2,1.4-2,2.3-2.5s1.9-.7,3.2-.7c1.9,0,3.2.5,4.1,1.4s1.3,2.5,1.3,4.6v11.4h-2.9v-.2Z"/>
-          <path fill="#282828" d="M356.9,36.6c-1.9,0-3.3-.4-4.4-1.1s-1.8-1.8-2.1-3.1l2.9-.4c.2.8.6,1.4,1.3,1.8.6.4,1.5.6,2.5.6,2.8,0,4.2-1.7,4.2-5v-2.7h0c-.5,1.1-1.3,1.9-2.2,2.5s-2,.8-3.3.8c-2.1,0-3.6-.7-4.6-2.1s-1.5-3.6-1.5-6.5.5-5.2,1.6-6.7c1.1-1.4,2.7-2.2,4.8-2.2s2.3.3,3.1.8c.9.6,1.6,1.3,2.1,2.4h0v-1.6c0-.8,0-1.2.1-1.3h2.7v16.5c0,4.8-2.4,7.2-7.1,7.2h-.1v.1ZM361.2,21.3c0-1.4-.2-2.6-.6-3.6s-.9-1.8-1.6-2.3-1.5-.8-2.3-.8c-1.5,0-2.5.5-3.2,1.6s-1,2.8-1,5.1.3,4,.9,5,1.7,1.5,3.2,1.5,1.7-.3,2.4-.8,1.2-1.3,1.6-2.3.6-2.2.6-3.5h0v.1Z"/>
-          <path fill="#282828" d="M368.3,9.2v-2.7h2.8v2.7h-2.8ZM368.3,29.9V12.8h2.8v17.1h-2.8Z"/>
-          <path fill="#282828" d="M386.4,29.9v-10.8c0-1.1-.1-2-.3-2.6s-.6-1.1-1.1-1.3c-.5-.3-1.2-.4-2.1-.4-1.4,0-2.4.5-3.2,1.4s-1.2,2.2-1.2,3.9v9.9h-2.8V13h2.7v2.9h0c.7-1.2,1.4-2,2.3-2.5s1.9-.7,3.2-.7c1.9,0,3.2.5,4.1,1.4s1.3,2.5,1.3,4.6v11.4h-2.9v-.2Z"/>
-          <path fill="#282828" d="M395.7,21.9c0,2,.4,3.5,1.2,4.5.8,1.1,2,1.6,3.5,1.6s2.2-.2,3-.7,1.2-1.1,1.5-1.9l2.5.7c-1,2.7-3.3,4-7,4s-4.4-.8-5.8-2.3c-1.3-1.5-2-3.7-2-6.7s.7-5,2-6.5,3.2-2.3,5.7-2.3c5,0,7.5,3,7.5,9.1v.4h-12.2.1v.1ZM404.9,19.7c-.2-1.8-.6-3.1-1.4-3.9s-1.8-1.2-3.3-1.2-2.5.5-3.3,1.4-1.2,2.2-1.3,3.8h9.3v-.1Z"/>
-          <path fill="#282828" d="M429.3,23.7c0,2.1-.8,3.6-2.4,4.8-1.6,1.1-3.9,1.7-6.8,1.7-5.4,0-8.6-1.9-9.4-5.6l2.9-.6c.3,1.3,1.1,2.3,2.1,2.9s2.6.9,4.5.9,3.4-.3,4.5-1,1.6-1.6,1.6-2.9-.2-1.3-.5-1.8-.8-.8-1.4-1.1-1.3-.5-2.1-.7-1.8-.4-2.8-.6c-1.8-.4-3.1-.8-4-1.2s-1.6-.8-2.2-1.3c-.5-.5-.9-1-1.2-1.7-.3-.6-.4-1.4-.4-2.2,0-1.9.7-3.4,2.2-4.4s3.5-1.5,6.3-1.5,4.5.4,5.8,1.2c1.3.8,2.3,2.1,2.8,4l-3,.5c-.3-1.2-.9-2-1.9-2.6-.9-.5-2.2-.8-3.8-.8s-3.1.3-4.1.9-1.4,1.5-1.4,2.6.2,1.2.5,1.7c.4.4.9.8,1.6,1.1s2,.7,4.1,1.1c.7.2,1.4.3,2,.5.7.2,1.3.4,1.9.6.6.2,1.2.5,1.7.8s1,.7,1.4,1.1.7,1,.9,1.6c.2.6.3,1.3.3,2.1h.3v-.1Z"/>
-          <path fill="#282828" d="M439.6,29.7c-.9.3-1.9.4-2.9.4-2.3,0-3.4-1.3-3.4-3.9v-11.4h-2v-2.1h2.1l.8-3.8h1.9v3.8h3.2v2.1h-3.2v10.8c0,.8.1,1.4.4,1.7.3.3.7.5,1.4.5s.9,0,1.6-.2v2.1h.1Z"/>
-          <path fill="#282828" d="M442,29.9V12.8h2.7c0,1.9.1,3.1.1,3.5h0c.5-1.5,1-2.5,1.6-3s1.4-.8,2.5-.8.8,0,1.2.2v2.6c-.4,0-.9-.2-1.5-.2-1.2,0-2.1.5-2.7,1.5-.6,1-.9,2.5-.9,4.4v8.9h-3,0Z"/>
-          <path fill="#282828" d="M454.9,21.9c0,2,.4,3.5,1.2,4.5.8,1.1,2,1.6,3.5,1.6s2.2-.2,3-.7,1.2-1.1,1.5-1.9l2.5.7c-1,2.7-3.3,4-7,4s-4.4-.8-5.8-2.3c-1.3-1.5-2-3.7-2-6.7s.7-5,2-6.5,3.2-2.3,5.7-2.3c5,0,7.5,3,7.5,9.1v.4h-12.2.1v.1ZM464.2,19.7c-.2-1.8-.6-3.1-1.4-3.9s-1.8-1.2-3.3-1.2-2.5.5-3.3,1.4-1.2,2.2-1.3,3.8h9.3v-.1Z"/>
-          <path fill="#282828" d="M475.1,30.2c-1.7,0-3-.5-3.9-1.4s-1.3-2.1-1.3-3.7.6-3.1,1.7-4.1c1.2-.9,3-1.5,5.6-1.5h3.8v-1c0-1.4-.3-2.4-.9-3-.6-.6-1.5-.9-2.8-.9s-2.2.2-2.8.6-.9,1.1-1,2.1l-3-.3c.5-3.1,2.8-4.6,6.8-4.6s3.8.5,4.8,1.5c1.1,1,1.6,2.4,1.6,4.3v7.4c0,.8.1,1.5.3,1.9s.6.6,1.3.6h.9v1.8c-.7.2-1.4.3-2.2.3s-1.8-.3-2.3-.8-.7-1.4-.8-2.6h0c-.7,1.3-1.6,2.2-2.5,2.8-1,.5-2.1.8-3.5.8h.2v-.2ZM475.7,28c1,0,2-.2,2.8-.7s1.4-1.1,1.9-1.9.7-1.7.7-2.5v-1.4h-3.1c-1.3,0-2.3.2-3,.5s-1.2.6-1.6,1.2-.6,1.2-.6,2.1.2,1.6.7,2.1,1.2.8,2.1.8v-.2h.1Z"/>
-          <path fill="#282828" d="M498.6,29.9v-10.8c0-1.7-.2-2.8-.7-3.4s-1.3-.9-2.4-.9-2.2.5-2.9,1.4-1.1,2.2-1.1,3.9v9.9h-2.8V13h2.7v2.9h0c.6-1.2,1.3-2.1,2.1-2.5s1.8-.7,2.9-.7,2.3.3,3.1.8,1.3,1.3,1.6,2.5h0c.6-1.1,1.3-2,2.1-2.5s1.8-.8,3-.8c1.7,0,3,.5,3.8,1.4s1.2,2.5,1.2,4.6v11.4h-2.8v-10.8c0-1.7-.2-2.8-.7-3.4s-1.3-.9-2.4-.9-2.2.5-2.9,1.4-1,2.2-1,3.9v9.9h-2.8v-.3h0Z"/>
-        </g>
-        <g>
-          <path fill="#282828" d="M519.6,7.9v11.6h-1.8V7.9h-4.5v-1.4h10.7v1.4h-4.5.1Z"/>
-          <path fill="#282828" d="M537.1,19.5v-11.5c-.3,1.1-.6,2-.8,2.6l-3.4,8.9h-1.2l-3.4-8.9-.5-1.6-.3-1v11.4h-1.6V6.4h2.3l3.5,9c.1.4.2.8.4,1.2s.2.7.2.9c0-.2.2-.6.3-1.1.2-.5.3-.8.3-.9l3.4-9h2.3v13h-1.6s.1,0,.1,0Z"/>
-        </g>
-      </g>
-    </g>
-  </g>
-</g>
-<rect width="41" height="1836" fill="url(#paint0_linear_4478_14121)"/>
-<rect width="41" height="1836" fill="black" fill-opacity="0.1"/>
-<circle cx="1314.5" cy="69.5" r="17.5" fill="#D7E6F7"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1306.07" y="73.8535">JL</tspan></text>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1836" viewBox="0 0 1440 1836" fill="none">
+<defs><style type="text/css"><![CDATA[
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+text,
+tspan {
+    font-family: 'Arimo', Arial, sans-serif !important;
+}
+]]></style></defs><g clip-path="url(#clip0_373_16588)">
+<mask id="mask0_373_16588" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="1836">
+<path d="M1440 0H0V1836H1440V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_373_16588)">
+<mask id="mask1_373_16588" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="1836">
+<path d="M1440 0H0V1836H1440V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_373_16588)">
+<path d="M1440 0H0V1836H1440V0Z" fill="white"/>
+<path d="M146.4 92.1705L143.9 84.8705H133.1L130.6 92.1705H124.6L135 63.7705H142L152.3 92.1705H146.4ZM138.5 68.0705V68.4705C138.2 68.9705 138.1 69.4705 137.9 70.1705C137.7 70.7705 136.6 74.1705 134.4 80.3705H142.6L139.8 72.1705L138.9 69.4705L138.5 68.0705Z" fill="#2D343F"/>
+<path d="M165.2 92.5697C161.9 92.5697 159.4 91.5697 157.6 89.6697C155.8 87.7697 155 84.8697 155 81.1697C155 77.4697 155.9 74.7697 157.7 72.8697C159.5 70.9697 162 69.9697 165.3 69.9697C168.6 69.9697 170.8 70.9697 172.5 73.0697C174.2 75.1697 175 78.1697 175 82.1697V82.3697H161C161 84.4697 161.4 86.0697 162.2 87.1697C163 88.2697 164.1 88.7697 165.6 88.7697C167.1 88.7697 168.9 87.8697 169.4 86.1697L174.7 86.6697C173.2 90.6697 170 92.5697 165.3 92.5697H165.2ZM165.2 73.4697C163.9 73.4697 162.8 73.9697 162.1 74.8697C161.4 75.7697 161 77.0697 161 78.7697H169.5C169.5 76.9697 169 75.6697 168.2 74.7697C167.5 73.8697 166.5 73.4697 165.2 73.4697Z" fill="#2D343F"/>
+<path d="M179.3 92.1697V70.3697H184.7C184.7 70.5697 184.7 71.3697 184.9 72.5697C185.1 73.7697 184.9 74.5697 184.9 75.0697C185.5 73.5697 185.9 72.4697 186.4 71.8697C186.8 71.2697 187.3 70.7697 187.9 70.4697C188.5 70.1697 189.2 69.9697 190.1 69.9697C191 69.9697 191.4 69.9697 191.9 70.2697V74.9697C191 74.7697 190.2 74.6697 189.5 74.6697C188.1 74.6697 187 75.2697 186.2 76.3697C185.4 77.4697 185 79.1697 185 81.4697V92.1697H179.3Z" fill="#2D343F"/>
+<path d="M216.1 81.1701C216.1 84.6701 215.1 87.4701 213.2 89.4701C211.2 91.4701 208.5 92.4701 205 92.4701C201.5 92.4701 198.9 91.4701 197 89.4701C195.1 87.4701 194.1 84.6701 194.1 81.1701C194.1 77.6701 195.1 74.8701 197 72.8701C198.9 70.8701 201.6 69.8701 205.1 69.8701C208.6 69.8701 211.4 70.8701 213.3 72.7701C215.2 74.6701 216.1 77.4701 216.1 81.1701ZM210.2 81.1701C210.2 78.5701 209.8 76.6701 208.9 75.4701C208.1 74.2701 206.8 73.6701 205.2 73.6701C201.8 73.6701 200 76.1701 200 81.0701C200 85.9701 200.4 85.3701 201.3 86.6701C202.1 87.9701 203.4 88.5701 204.9 88.5701C208.4 88.5701 210.1 86.0701 210.1 81.0701L210.2 81.1701Z" fill="#2D343F"/>
+<path d="M226.5 68.2699V77.0699H241.1V81.6699H226.5V92.0699H220.5V63.6699H241.5V68.2699H226.5Z" fill="#2D343F"/>
+<path d="M245.9 92.1699V62.1699H251.6V92.1699H245.9Z" fill="#2D343F"/>
+<path d="M278.1 81.1701C278.1 84.6701 277.1 87.4701 275.2 89.4701C273.2 91.4701 270.5 92.4701 267 92.4701C263.5 92.4701 260.9 91.4701 259 89.4701C257.1 87.4701 256.1 84.6701 256.1 81.1701C256.1 77.6701 257.1 74.8701 259 72.8701C260.9 70.8701 263.6 69.8701 267.1 69.8701C270.6 69.8701 273.4 70.8701 275.3 72.7701C277.2 74.6701 278.1 77.4701 278.1 81.1701ZM272.2 81.1701C272.2 78.5701 271.8 76.6701 270.9 75.4701C270.1 74.2701 268.8 73.6701 267.2 73.6701C263.8 73.6701 262 76.1701 262 81.0701C262 85.9701 262.4 85.3701 263.3 86.6701C264.1 87.9701 265.4 88.5701 266.9 88.5701C270.4 88.5701 272.1 86.0701 272.1 81.0701L272.2 81.1701Z" fill="#2D343F"/>
+<path d="M306.2 92.1701H300.2L296.7 78.8701C296.5 78.2701 296.2 76.7701 295.8 74.3701L294.8 78.8701L291.3 92.1701H285.3L279.6 70.3701H284.9L288.5 87.0701L288.8 85.5701L289.3 83.1701L292.7 70.3701H298.8L302.2 83.1701C302.4 83.8701 302.7 85.1701 303 87.0701L303.6 84.3701L306.7 70.3701H311.9L306.2 92.1701Z" fill="#2D343F"/>
+<path d="M75.3996 77.8699C75.6996 75.5699 76.5996 73.3699 77.9996 71.5699L72.0996 65.6699C69.2996 68.9699 67.3996 73.2699 67.0996 77.8699H75.4996H75.3996Z" fill="#0659AE"/>
+<path d="M80.6002 69.0703C82.4002 67.6703 84.5002 66.7703 86.9002 66.4703V58.0703C82.3002 58.4703 78.1002 60.2703 74.7002 63.0703L80.6002 68.9703V69.0703Z" fill="#0659AE"/>
+<path d="M90.5 58.0703V66.4703C92.8 66.7703 95 67.6703 96.8 69.0703L102.7 63.1703C99.4 60.3703 95.1 58.4703 90.5 58.1703V58.0703Z" fill="#0659AE"/>
+<path d="M78 87.8703C76.6 86.0703 75.7 83.9703 75.4 81.5703H67C67.4 86.1703 69.2 90.3703 72 93.7703L77.9 87.8703H78Z" fill="#0659AE"/>
+<path d="M86.9002 93.0697C84.6002 92.7697 82.4002 91.8697 80.6002 90.4697L74.7002 96.3697C78.0002 99.1697 82.3002 101.07 86.9002 101.37V92.9697V93.0697Z" fill="#0659AE"/>
+<path d="M96.8 90.4697C95 91.8697 92.9 92.7697 90.5 93.0697V101.47C95.1 101.07 99.3 99.2697 102.7 96.4697L96.8 90.5697V90.4697Z" fill="#0659AE"/>
+<path d="M99.4004 71.6695C100.8 73.4695 101.7 75.5695 102 77.9695H110.4C110 73.3695 108.2 69.1695 105.4 65.7695L99.5004 71.6695H99.4004Z" fill="#0659AE"/>
+<path d="M102 81.5703C101.7 83.8703 100.8 86.0703 99.4004 87.8703L105.3 93.7703C108.1 90.4703 110 86.1703 110.3 81.5703H101.9H102Z" fill="#0659AE"/>
+<path d="M41 0H0V1836H41V0Z" fill="url(#paint0_linear_373_16588)"/>
+<path d="M41 0H0V1836H41V0Z" fill="black" fill-opacity="0.1"/>
+<path d="M1314.5 87C1324.16 87 1332 79.165 1332 69.5C1332 59.835 1324.16 52 1314.5 52C1304.84 52 1297 59.835 1297 69.5C1297 79.165 1304.84 87 1314.5 87Z" fill="#D7E6F7"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1306.07" y="70.4141" font-family="Arimo">JL</tspan></text>
 <path d="M1345.78 72.4677C1345.85 72.5515 1345.94 72.6186 1346.05 72.6645C1346.15 72.7105 1346.26 72.7342 1346.37 72.7342C1346.48 72.7342 1346.59 72.7105 1346.69 72.6645C1346.8 72.6186 1346.89 72.5515 1346.96 72.4677L1351.54 67.3191C1351.99 66.8086 1351.63 66 1350.95 66H1341.79C1341.11 66 1340.75 66.8086 1341.2 67.3199L1345.78 72.4677Z" fill="#0757B8"/>
-<path d="M1425 0L1425 1024L1438.65 1024L1438.65 -1.5778e-06L1425 0Z" fill="#E2E2E2"/>
-<rect width="834.072" height="7.79985" rx="3.89992" transform="matrix(2.37475e-07 1 1 -2.06637e-07 1427.92 14.334)" fill="white"/>
+<path d="M1425 1.5778e-06V1024H1438.65V0L1425 1.5778e-06Z" fill="#E2E2E2"/>
+<path d="M1427.92 844.506V18.2339C1427.92 16.08 1429.67 14.334 1431.82 14.334C1433.97 14.334 1435.72 16.08 1435.72 18.2339V844.506C1435.72 846.66 1433.97 848.406 1431.82 848.406C1429.67 848.406 1427.92 846.66 1427.92 844.506Z" fill="white"/>
 <path d="M97 192L78 175L97 158" stroke="#0757B8" stroke-width="8"/>
-<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="136.406" y="182.594">SKYJET AIR 603842</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="366" y="266.547">ATX-56B</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="366" y="234.854">Engine Type</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="136" y="266.547">SKYJET AIR</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="136" y="234.854">Customer</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="257" y="266.547">603842</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="257" y="234.854">ESN</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="274" y="319.854">Facility</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="274" y="351.547">AeroWorks SG</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="367" y="319.854">Engine Status</tspan></text>
-<rect x="367" y="331" width="130" height="29" rx="3" fill="#DAE8FC"/>
-<text fill="#1672D4" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="382" y="351.547">WIP</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="136" y="351.547">Routine Support</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="136" y="319.854">Program Type</tspan></text>
+<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="136.406" y="175.376" font-family="Arimo">SKYJET AIR 603842</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="366" y="262.188" font-family="Arimo">ATX-56B</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="366" y="231.416" font-family="Arimo">Engine Type</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="136" y="262.188" font-family="Arimo">SKYJET AIR</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="136" y="231.416" font-family="Arimo">Customer</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="257" y="262.188" font-family="Arimo">603842</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="257" y="231.416" font-family="Arimo">ESN</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="274" y="316.416" font-family="Arimo">Facility</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="274" y="347.188" font-family="Arimo">AeroWorks SG</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="367" y="316.416" font-family="Arimo">Engine Status</tspan></text>
+<path d="M494 331H370C368.343 331 367 332.343 367 334V357C367 358.657 368.343 360 370 360H494C495.657 360 497 358.657 497 357V334C497 332.343 495.657 331 494 331Z" fill="#DAE8FC"/>
+<text fill="#1672D4" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="382" y="347.188" font-family="Arimo">WIP</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="136" y="347.188" font-family="Arimo">Routine Support</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="136" y="316.416" font-family="Arimo">Program Type</tspan></text>
 <path d="M1363.5 1401.5V1802.5H136.5V1401.5H1363.5Z" fill="white"/>
 <path d="M1363.5 1401.5V1802.5H136.5V1401.5H1363.5Z" stroke="#DAE8FC"/>
 <path d="M181 1593.5H785C790.247 1593.5 794.5 1597.75 794.5 1603V1690C794.5 1695.25 790.247 1699.5 785 1699.5H181C175.753 1699.5 171.5 1695.25 171.5 1690V1603C171.5 1597.75 175.753 1593.5 181 1593.5Z" stroke="#DAE8FC"/>
 <path d="M174 1510.5H318C319.381 1510.5 320.5 1511.62 320.5 1513V1537C320.5 1538.38 319.381 1539.5 318 1539.5H174C172.619 1539.5 171.5 1538.38 171.5 1537V1513L171.513 1512.74C171.641 1511.48 172.706 1510.5 174 1510.5Z" fill="#F7F9FB"/>
 <path d="M174 1510.5H318C319.381 1510.5 320.5 1511.62 320.5 1513V1537C320.5 1538.38 319.381 1539.5 318 1539.5H174C172.619 1539.5 171.5 1538.38 171.5 1537V1513L171.513 1512.74C171.641 1511.48 172.706 1510.5 174 1510.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="184" y="1529.85">Completed</tspan></text>
-<path d="M301 1527.93L297.536 1523.53L304.464 1523.53L301 1527.93Z" fill="#DDDDDD"/>
-<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="171" y="1501.85">Engine Status</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="184" y="1526.4" font-family="Arimo">Completed</tspan></text>
+<path d="M301 1527.93L297.536 1523.53H304.464L301 1527.93Z" fill="#DDDDDD"/>
+<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="171" y="1498.4" font-family="Arimo">Engine Status</tspan></text>
 <path d="M350 1510.5H494C495.381 1510.5 496.5 1511.62 496.5 1513V1537C496.5 1538.38 495.381 1539.5 494 1539.5H350C348.619 1539.5 347.5 1538.38 347.5 1537V1513L347.513 1512.74C347.641 1511.48 348.706 1510.5 350 1510.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="358" y="1529.85">22-Apr-25</tspan></text>
-<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="347" y="1501.85">Plan Test date</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="175" y="1580.85">Output</tspan></text>
-<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="520" y="1628.85">Actual date (Shipment)</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="358" y="1526.4" font-family="Arimo">22-Apr-25</tspan></text>
+<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="347" y="1498.4" font-family="Arimo">Plan Test date</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="175" y="1577.4" font-family="Arimo">Output</tspan></text>
+<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="520" y="1625.4" font-family="Arimo">Actual date (Shipment)</tspan></text>
 <path d="M523 1639.5H760C761.381 1639.5 762.5 1640.62 762.5 1642V1666C762.5 1667.38 761.381 1668.5 760 1668.5H523C521.619 1668.5 520.5 1667.38 520.5 1666V1642L520.513 1641.74C520.641 1640.48 521.706 1639.5 523 1639.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="532" y="1658.85">16-Dec-24</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="532" y="1655.4" font-family="Arimo">16-Dec-24</tspan></text>
 <path d="M196 1639.5H469C470.381 1639.5 471.5 1640.62 471.5 1642V1666C471.5 1667.38 470.381 1668.5 469 1668.5H196C194.619 1668.5 193.5 1667.38 193.5 1666V1642L193.513 1641.74C193.641 1640.48 194.706 1639.5 196 1639.5Z" fill="#F7F9FB"/>
 <path d="M196 1639.5H469C470.381 1639.5 471.5 1640.62 471.5 1642V1666C471.5 1667.38 470.381 1668.5 469 1668.5H196C194.619 1668.5 193.5 1667.38 193.5 1666V1642L193.513 1641.74C193.641 1640.48 194.706 1639.5 196 1639.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="206" y="1658.85">Feb-25</tspan></text>
-<path d="M454 1656.93L450.536 1652.53L457.464 1652.53L454 1656.93Z" fill="#DDDDDD"/>
-<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="193" y="1628.85">Forecast month</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="301.436" y="1628.85">(see planning note)</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="298.096" y="1628.85"> </tspan></text>
-<rect x="136" y="1401" width="1228" height="44" fill="#0757B8"/>
-<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="159" y="1428.55">Capacity Planning</tspan></text>
-<rect x="289" y="1745" width="103" height="33" rx="5" fill="#D9D9D9"/>
-<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="319.2" y="1765.85">Submit</tspan></text>
-<rect x="171" y="1745" width="103" height="33" rx="5" fill="#D9D9D9"/>
-<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="201.193" y="1765.85">Cancel</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="206" y="1655.4" font-family="Arimo">Feb-25</tspan></text>
+<path d="M454 1656.93L450.536 1652.53H457.464L454 1656.93Z" fill="#DDDDDD"/>
+<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="193" y="1625.4" font-family="Arimo">Forecast month</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="301.436" y="1626.33" font-family="Arimo">(see planning note)</tspan></text>
+<path d="M1364 1401H136V1445H1364V1401Z" fill="#0757B8"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="159" y="1424.2" font-family="Arimo">Capacity Planning</tspan></text>
+<path d="M387 1745H294C291.239 1745 289 1747.24 289 1750V1773C289 1775.76 291.239 1778 294 1778H387C389.761 1778 392 1775.76 392 1773V1750C392 1747.24 389.761 1745 387 1745Z" fill="#D9D9D9"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="319.2" y="1762.4" font-family="Arimo">Submit</tspan></text>
+<path d="M269 1745H176C173.239 1745 171 1747.24 171 1750V1773C171 1775.76 173.239 1778 176 1778H269C271.761 1778 274 1775.76 274 1773V1750C274 1747.24 271.761 1745 269 1745Z" fill="#D9D9D9"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="201.193" y="1762.4" font-family="Arimo">Cancel</tspan></text>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M1315.29 1427.5C1315.48 1427.7 1315.74 1427.82 1316 1427.82C1316.27 1427.82 1316.52 1427.7 1316.71 1427.5L1320.01 1423.97L1323.3 1427.5C1323.4 1427.6 1323.51 1427.69 1323.63 1427.74C1323.75 1427.8 1323.88 1427.83 1324.01 1427.83C1324.15 1427.83 1324.28 1427.8 1324.4 1427.75C1324.53 1427.7 1324.64 1427.62 1324.73 1427.52C1324.83 1427.41 1324.9 1427.3 1324.95 1427.16C1325 1427.03 1325.03 1426.89 1325.02 1426.75C1325.02 1426.61 1325 1426.46 1324.94 1426.33C1324.89 1426.2 1324.81 1426.08 1324.72 1425.98L1320.71 1421.69C1320.53 1421.49 1320.27 1421.38 1320.01 1421.38C1319.74 1421.38 1319.49 1421.49 1319.3 1421.69L1315.29 1425.98C1315.11 1426.19 1315 1426.46 1315 1426.74C1315 1427.03 1315.11 1427.3 1315.29 1427.5Z" fill="white"/>
 <path d="M307.774 1497.08V1499.58H306.913V1497.08H304.429V1496.22H306.913V1493.71H307.774V1496.22H310.259V1497.08H307.774Z" fill="#C0C0C0"/>
-<path d="M302.733 1502.61L303.749 1501.8L303.757 1501.8C303.968 1501.63 304.075 1501.54 304.194 1501.48C304.301 1501.42 304.416 1501.38 304.533 1501.36C304.666 1501.33 304.804 1501.33 305.081 1501.33H310.869C311.614 1501.33 311.987 1501.33 312.272 1501.19C312.523 1501.06 312.727 1500.86 312.855 1500.61C313 1500.32 313 1499.95 313 1499.2V1494.13C313 1493.39 313 1493.01 312.855 1492.73C312.727 1492.48 312.522 1492.27 312.272 1492.15C311.986 1492 311.614 1492 310.867 1492H303.133C302.387 1492 302.013 1492 301.728 1492.15C301.477 1492.27 301.273 1492.48 301.145 1492.73C301 1493.01 301 1493.39 301 1494.13V1501.78C301 1502.49 301 1502.85 301.146 1503.03C301.272 1503.19 301.464 1503.28 301.667 1503.28C301.901 1503.28 302.178 1503.06 302.733 1502.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M302.733 1502.61L303.749 1501.8H303.757C303.968 1501.63 304.075 1501.54 304.194 1501.48C304.301 1501.42 304.416 1501.38 304.533 1501.36C304.666 1501.33 304.804 1501.33 305.081 1501.33H310.869C311.614 1501.33 311.987 1501.33 312.272 1501.19C312.523 1501.06 312.727 1500.86 312.855 1500.61C313 1500.32 313 1499.95 313 1499.2V1494.13C313 1493.39 313 1493.01 312.855 1492.73C312.727 1492.48 312.522 1492.27 312.272 1492.15C311.986 1492 311.614 1492 310.867 1492H303.133C302.387 1492 302.013 1492 301.728 1492.15C301.477 1492.27 301.273 1492.48 301.145 1492.73C301 1493.01 301 1493.39 301 1494.13V1501.78C301 1502.49 301 1502.85 301.146 1503.03C301.272 1503.19 301.464 1503.28 301.667 1503.28C301.901 1503.28 302.178 1503.06 302.733 1502.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M489.774 1497.08V1499.58H488.913V1497.08H486.429V1496.22H488.913V1493.71H489.774V1496.22H492.259V1497.08H489.774Z" fill="#C0C0C0"/>
-<path d="M484.733 1502.61L485.749 1501.8L485.757 1501.8C485.968 1501.63 486.075 1501.54 486.194 1501.48C486.301 1501.42 486.416 1501.38 486.533 1501.36C486.666 1501.33 486.804 1501.33 487.081 1501.33H492.869C493.614 1501.33 493.987 1501.33 494.272 1501.19C494.523 1501.06 494.727 1500.86 494.855 1500.61C495 1500.32 495 1499.95 495 1499.2V1494.13C495 1493.39 495 1493.01 494.855 1492.73C494.727 1492.48 494.522 1492.27 494.272 1492.15C493.986 1492 493.614 1492 492.867 1492H485.133C484.387 1492 484.013 1492 483.728 1492.15C483.477 1492.27 483.273 1492.48 483.145 1492.73C483 1493.01 483 1493.39 483 1494.13V1501.78C483 1502.49 483 1502.85 483.146 1503.03C483.272 1503.19 483.464 1503.28 483.667 1503.28C483.901 1503.28 484.178 1503.06 484.733 1502.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M484.733 1502.61L485.749 1501.8H485.757C485.968 1501.63 486.075 1501.54 486.194 1501.48C486.301 1501.42 486.416 1501.38 486.533 1501.36C486.666 1501.33 486.804 1501.33 487.081 1501.33H492.869C493.614 1501.33 493.987 1501.33 494.272 1501.19C494.523 1501.06 494.727 1500.86 494.855 1500.61C495 1500.32 495 1499.95 495 1499.2V1494.13C495 1493.39 495 1493.01 494.855 1492.73C494.727 1492.48 494.522 1492.27 494.272 1492.15C493.986 1492 493.614 1492 492.867 1492H485.133C484.387 1492 484.013 1492 483.728 1492.15C483.477 1492.27 483.273 1492.48 483.145 1492.73C483 1493.01 483 1493.39 483 1494.13V1501.78C483 1502.49 483 1502.85 483.146 1503.03C483.272 1503.19 483.464 1503.28 483.667 1503.28C483.901 1503.28 484.178 1503.06 484.733 1502.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M466.774 1624.08V1626.58H465.913V1624.08H463.429V1623.22H465.913V1620.71H466.774V1623.22H469.259V1624.08H466.774Z" fill="#C0C0C0"/>
-<path d="M461.733 1629.61L462.749 1628.8L462.757 1628.8C462.968 1628.63 463.075 1628.54 463.194 1628.48C463.301 1628.42 463.416 1628.38 463.533 1628.36C463.666 1628.33 463.804 1628.33 464.081 1628.33H469.869C470.614 1628.33 470.987 1628.33 471.272 1628.19C471.523 1628.06 471.727 1627.86 471.855 1627.61C472 1627.32 472 1626.95 472 1626.2V1621.13C472 1620.39 472 1620.01 471.855 1619.73C471.727 1619.48 471.522 1619.27 471.272 1619.15C470.986 1619 470.614 1619 469.867 1619H462.133C461.387 1619 461.013 1619 460.728 1619.15C460.477 1619.27 460.273 1619.48 460.145 1619.73C460 1620.01 460 1620.39 460 1621.13V1628.78C460 1629.49 460 1629.85 460.146 1630.03C460.272 1630.19 460.464 1630.28 460.667 1630.28C460.901 1630.28 461.178 1630.06 461.733 1629.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M461.733 1629.61L462.749 1628.8H462.757C462.968 1628.63 463.075 1628.54 463.194 1628.48C463.301 1628.42 463.416 1628.38 463.533 1628.36C463.666 1628.33 463.804 1628.33 464.081 1628.33H469.869C470.614 1628.33 470.987 1628.33 471.272 1628.19C471.523 1628.06 471.727 1627.86 471.855 1627.61C472 1627.32 472 1626.95 472 1626.2V1621.13C472 1620.39 472 1620.01 471.855 1619.73C471.727 1619.48 471.522 1619.27 471.272 1619.15C470.986 1619 470.614 1619 469.867 1619H462.133C461.387 1619 461.013 1619 460.728 1619.15C460.477 1619.27 460.273 1619.48 460.145 1619.73C460 1620.01 460 1620.39 460 1621.13V1628.78C460 1629.49 460 1629.85 460.146 1630.03C460.272 1630.19 460.464 1630.28 460.667 1630.28C460.901 1630.28 461.178 1630.06 461.733 1629.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M755.774 1624.08V1626.58H754.913V1624.08H752.429V1623.22H754.913V1620.71H755.774V1623.22H758.259V1624.08H755.774Z" fill="#C0C0C0"/>
-<path d="M750.733 1629.61L751.749 1628.8L751.757 1628.8C751.968 1628.63 752.075 1628.54 752.194 1628.48C752.301 1628.42 752.416 1628.38 752.533 1628.36C752.666 1628.33 752.804 1628.33 753.081 1628.33H758.869C759.614 1628.33 759.987 1628.33 760.272 1628.19C760.523 1628.06 760.727 1627.86 760.855 1627.61C761 1627.32 761 1626.95 761 1626.2V1621.13C761 1620.39 761 1620.01 760.855 1619.73C760.727 1619.48 760.522 1619.27 760.272 1619.15C759.986 1619 759.614 1619 758.867 1619H751.133C750.387 1619 750.013 1619 749.728 1619.15C749.477 1619.27 749.273 1619.48 749.145 1619.73C749 1620.01 749 1620.39 749 1621.13V1628.78C749 1629.49 749 1629.85 749.146 1630.03C749.272 1630.19 749.464 1630.28 749.667 1630.28C749.901 1630.28 750.178 1630.06 750.733 1629.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="136.5" y="404.5" width="1227" height="996" fill="white"/>
-<rect x="136.5" y="404.5" width="1227" height="996" stroke="#DAE8FC"/>
+<path d="M750.733 1629.61L751.749 1628.8H751.757C751.968 1628.63 752.075 1628.54 752.194 1628.48C752.301 1628.42 752.416 1628.38 752.533 1628.36C752.666 1628.33 752.804 1628.33 753.081 1628.33H758.869C759.614 1628.33 759.987 1628.33 760.272 1628.19C760.523 1628.06 760.727 1627.86 760.855 1627.61C761 1627.32 761 1626.95 761 1626.2V1621.13C761 1620.39 761 1620.01 760.855 1619.73C760.727 1619.48 760.522 1619.27 760.272 1619.15C759.986 1619 759.614 1619 758.867 1619H751.133C750.387 1619 750.013 1619 749.728 1619.15C749.477 1619.27 749.273 1619.48 749.145 1619.73C749 1620.01 749 1620.39 749 1621.13V1628.78C749 1629.49 749 1629.85 749.146 1630.03C749.272 1630.19 749.464 1630.28 749.667 1630.28C749.901 1630.28 750.178 1630.06 750.733 1629.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1363.5 404.5H136.5V1400.5H1363.5V404.5Z" fill="white"/>
+<path d="M1363.5 404.5H136.5V1400.5H1363.5V404.5Z" stroke="#DAE8FC"/>
 <path d="M179 710.5H633C638.247 710.5 642.5 714.753 642.5 720V807C642.5 812.247 638.247 816.5 633 816.5H179C173.753 816.5 169.5 812.247 169.5 807V720C169.5 714.753 173.753 710.5 179 710.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="370" y="617.854">Facility</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="370" y="614.416" font-family="Arimo">Facility</tspan></text>
 <path d="M373 626.5H537C538.381 626.5 539.5 627.619 539.5 629V653C539.5 654.381 538.381 655.5 537 655.5H373C371.619 655.5 370.5 654.381 370.5 653V629L370.513 628.744C370.641 627.484 371.706 626.5 373 626.5Z" fill="#F7F9FB"/>
 <path d="M373 626.5H537C538.381 626.5 539.5 627.619 539.5 629V653C539.5 654.381 538.381 655.5 537 655.5H373C371.619 655.5 370.5 654.381 370.5 653V629L370.513 628.744C370.641 627.484 371.706 626.5 373 626.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="383" y="645.854">AeroWorks SG</tspan></text>
-<path d="M522 643.934L518.536 639.534L525.464 639.534L522 643.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="383" y="642.416" font-family="Arimo">AeroWorks SG</tspan></text>
+<path d="M522 643.934L518.536 639.534H525.464L522 643.934Z" fill="#DDDDDD"/>
 <path d="M532.774 612.018V614.525H531.913V612.018H529.429V611.162H531.913V608.654H532.774V611.162H535.259V612.018H532.774Z" fill="#C0C0C0"/>
 <path d="M527.733 617.555L528.749 616.742L528.757 616.736C528.968 616.567 529.075 616.481 529.194 616.421C529.301 616.366 529.416 616.326 529.533 616.302C529.666 616.275 529.804 616.275 530.081 616.275H535.869C536.614 616.275 536.987 616.275 537.272 616.13C537.523 616.002 537.727 615.798 537.855 615.547C538 615.262 538 614.889 538 614.144V609.073C538 608.327 538 607.954 537.855 607.669C537.727 607.418 537.522 607.215 537.272 607.087C536.986 606.941 536.614 606.941 535.867 606.941H528.133C527.387 606.941 527.013 606.941 526.728 607.087C526.477 607.215 526.273 607.418 526.145 607.669C526 607.954 526 608.328 526 609.075V616.722C526 617.433 526 617.788 526.146 617.97C526.272 618.129 526.464 618.221 526.667 618.221C526.901 618.221 527.178 617.999 527.733 617.555Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M578 552.5H742C743.381 552.5 744.5 553.619 744.5 555V579C744.5 580.381 743.381 581.5 742 581.5H578C576.619 581.5 575.5 580.381 575.5 579V555L575.513 554.744C575.641 553.484 576.706 552.5 578 552.5Z" fill="#F7F9FB"/>
 <path d="M578 552.5H742C743.381 552.5 744.5 553.619 744.5 555V579C744.5 580.381 743.381 581.5 742 581.5H578C576.619 581.5 575.5 580.381 575.5 579V555L575.513 554.744C575.641 553.484 576.706 552.5 578 552.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="588" y="571.854">ATX-56B</tspan></text>
-<path d="M727 569.934L723.536 565.534L730.464 565.534L727 569.934Z" fill="#DDDDDD"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="575" y="543.854">Engine Type</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="588" y="568.416" font-family="Arimo">ATX-56B</tspan></text>
+<path d="M727 569.934L723.536 565.534H730.464L727 569.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="575" y="540.416" font-family="Arimo">Engine Type</tspan></text>
 <path d="M738.774 538.018V540.525H737.913V538.018H735.429V537.162H737.913V534.654H738.774V537.162H741.259V538.018H738.774Z" fill="#C0C0C0"/>
 <path d="M733.733 543.555L734.749 542.742L734.757 542.736C734.968 542.567 735.075 542.481 735.194 542.421C735.301 542.366 735.416 542.326 735.533 542.302C735.666 542.275 735.804 542.275 736.081 542.275H741.869C742.614 542.275 742.987 542.275 743.272 542.13C743.523 542.002 743.727 541.798 743.855 541.547C744 541.262 744 540.889 744 540.144V535.073C744 534.327 744 533.954 743.855 533.669C743.727 533.418 743.522 533.215 743.272 533.087C742.986 532.941 742.614 532.941 741.867 532.941H734.133C733.387 532.941 733.013 532.941 732.728 533.087C732.477 533.215 732.273 533.418 732.145 533.669C732 533.954 732 534.328 732 535.075V542.722C732 543.433 732 543.788 732.146 543.97C732.272 544.129 732.464 544.221 732.667 544.221C732.901 544.221 733.178 543.999 733.733 543.555Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M174 552.5H338C339.381 552.5 340.5 553.619 340.5 555V579C340.5 580.381 339.381 581.5 338 581.5H174C172.619 581.5 171.5 580.381 171.5 579V555L171.513 554.744C171.641 553.484 172.706 552.5 174 552.5Z" fill="#F7F9FB"/>
 <path d="M174 552.5H338C339.381 552.5 340.5 553.619 340.5 555V579C340.5 580.381 339.381 581.5 338 581.5H174C172.619 581.5 171.5 580.381 171.5 579V555L171.513 554.744C171.641 553.484 172.706 552.5 174 552.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="184" y="571.854">SKYJET AIR</tspan></text>
-<path d="M322 569.934L318.536 565.534L325.464 565.534L322 569.934Z" fill="#DDDDDD"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="171" y="543.854">Customer</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="184" y="568.416" font-family="Arimo">SKYJET AIR</tspan></text>
+<path d="M322 569.934L318.536 565.534H325.464L322 569.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="171" y="540.416" font-family="Arimo">Customer</tspan></text>
 <path d="M335.774 538.018V540.525H334.913V538.018H332.429V537.162H334.913V534.654H335.774V537.162H338.259V538.018H335.774Z" fill="#C0C0C0"/>
 <path d="M330.733 543.555L331.749 542.742L331.757 542.736C331.968 542.567 332.075 542.481 332.194 542.421C332.301 542.366 332.416 542.326 332.533 542.302C332.666 542.275 332.804 542.275 333.081 542.275H338.869C339.614 542.275 339.987 542.275 340.272 542.13C340.523 542.002 340.727 541.798 340.855 541.547C341 541.262 341 540.889 341 540.144V535.073C341 534.327 341 533.954 340.855 533.669C340.727 533.418 340.522 533.215 340.272 533.087C339.986 532.941 339.614 532.941 338.867 532.941H331.133C330.387 532.941 330.013 532.941 329.728 533.087C329.477 533.215 329.273 533.418 329.145 533.669C329 533.954 329 534.328 329 535.075V542.722C329 543.433 329 543.788 329.146 543.97C329.272 544.129 329.464 544.221 329.667 544.221C329.901 544.221 330.178 543.999 330.733 543.555Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M174 626.5H338C339.381 626.5 340.5 627.619 340.5 629V653C340.5 654.381 339.381 655.5 338 655.5H174C172.619 655.5 171.5 654.381 171.5 653V629L171.513 628.744C171.641 627.484 172.706 626.5 174 626.5Z" fill="#F7F9FB"/>
 <path d="M174 626.5H338C339.381 626.5 340.5 627.619 340.5 629V653C340.5 654.381 339.381 655.5 338 655.5H174C172.619 655.5 171.5 654.381 171.5 653V629L171.513 628.744C171.641 627.484 172.706 626.5 174 626.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="184" y="645.854">Routine Support</tspan></text>
-<path d="M322 643.934L318.536 639.534L325.464 639.534L322 643.934Z" fill="#DDDDDD"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="171" y="617.854">Program Type</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="184" y="642.416" font-family="Arimo">Routine Support</tspan></text>
+<path d="M322 643.934L318.536 639.534H325.464L322 643.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="171" y="614.416" font-family="Arimo">Program Type</tspan></text>
 <path d="M335.774 612.018V614.525H334.913V612.018H332.429V611.162H334.913V608.654H335.774V611.162H338.259V612.018H335.774Z" fill="#C0C0C0"/>
 <path d="M330.733 617.555L331.749 616.742L331.757 616.736C331.968 616.567 332.075 616.481 332.194 616.421C332.301 616.366 332.416 616.326 332.533 616.302C332.666 616.275 332.804 616.275 333.081 616.275H338.869C339.614 616.275 339.987 616.275 340.272 616.13C340.523 616.002 340.727 615.798 340.855 615.547C341 615.262 341 614.889 341 614.144V609.073C341 608.327 341 607.954 340.855 607.669C340.727 607.418 340.522 607.215 340.272 607.087C339.986 606.941 339.614 606.941 338.867 606.941H331.133C330.387 606.941 330.013 606.941 329.728 607.087C329.477 607.215 329.273 607.418 329.145 607.669C329 607.954 329 608.328 329 609.075V616.722C329 617.433 329 617.788 329.146 617.97C329.272 618.129 329.464 618.221 329.667 618.221C329.901 618.221 330.178 617.999 330.733 617.555Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M373 552.5H537C538.381 552.5 539.5 553.619 539.5 555V579C539.5 580.381 538.381 581.5 537 581.5H373C371.619 581.5 370.5 580.381 370.5 579V555L370.513 554.744C370.641 553.484 371.706 552.5 373 552.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="381" y="571.854">603842</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="370" y="543.854">ESN</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="381" y="568.416" font-family="Arimo">603842</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="370" y="540.416" font-family="Arimo">ESN</tspan></text>
 <path d="M532.774 537.076V539.584H531.913V537.076H529.429V536.221H531.913V533.713H532.774V536.221H535.259V537.076H532.774Z" fill="#C0C0C0"/>
 <path d="M527.733 542.614L528.749 541.801L528.757 541.795C528.968 541.626 529.075 541.54 529.194 541.479C529.301 541.425 529.416 541.385 529.533 541.361C529.666 541.333 529.804 541.333 530.081 541.333H535.869C536.614 541.333 536.987 541.333 537.272 541.188C537.523 541.06 537.727 540.856 537.855 540.605C538 540.32 538 539.948 538 539.202V534.131C538 533.386 538 533.013 537.855 532.728C537.727 532.477 537.522 532.273 537.272 532.145C536.986 532 536.614 532 535.867 532H528.133C527.387 532 527.013 532 526.728 532.145C526.477 532.273 526.273 532.477 526.145 532.728C526 533.013 526 533.387 526 534.133V541.781C526 542.491 526 542.846 526.146 543.029C526.272 543.188 526.464 543.28 526.667 543.28C526.901 543.279 527.178 543.057 527.733 542.614Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="173" y="697.854">INPUT</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="459" y="902.854">Actual date</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="173" y="694.416" font-family="Arimo">INPUT</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="459" y="899.416" font-family="Arimo">Actual date</tspan></text>
 <path d="M462 913.5H622C623.381 913.5 624.5 914.619 624.5 916V940C624.5 941.381 623.381 942.5 622 942.5H462C460.619 942.5 459.5 941.381 459.5 940V916L459.513 915.744C459.641 914.484 460.706 913.5 462 913.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="472" y="932.854">27-Jan-25</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="472" y="929.416" font-family="Arimo">27-Jan-25</tspan></text>
 <path d="M619.774 897.076V899.584H618.913V897.076H616.429V896.221H618.913V893.713H619.774V896.221H622.259V897.076H619.774Z" fill="#C0C0C0"/>
 <path d="M614.733 902.614L615.749 901.801L615.757 901.795C615.968 901.626 616.075 901.54 616.194 901.479C616.301 901.425 616.416 901.385 616.533 901.361C616.666 901.333 616.804 901.333 617.081 901.333H622.869C623.614 901.333 623.987 901.333 624.272 901.188C624.523 901.06 624.727 900.856 624.855 900.605C625 900.32 625 899.948 625 899.202V894.131C625 893.386 625 893.013 624.855 892.728C624.727 892.477 624.522 892.273 624.272 892.145C623.986 892 623.614 892 622.867 892H615.133C614.387 892 614.013 892 613.728 892.145C613.477 892.273 613.273 892.477 613.145 892.728C613 893.013 613 893.387 613 894.133V901.781C613 902.491 613 902.846 613.146 903.029C613.272 903.188 613.464 903.28 613.667 903.28C613.901 903.279 614.178 903.057 614.733 902.614Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M181 867.5H633C638.247 867.5 642.5 871.753 642.5 877V964C642.5 969.247 638.247 973.5 633 973.5H181C175.753 973.5 171.5 969.247 171.5 964V877C171.5 871.753 175.753 867.5 181 867.5Z" stroke="#DAE8FC"/>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="176" y="854.854">INDUCTION</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="189" y="902.854">Week</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="176" y="851.416" font-family="Arimo">INDUCTION</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="189" y="899.416" font-family="Arimo">Week</tspan></text>
 <path d="M192 913.5H441C442.381 913.5 443.5 914.619 443.5 916V940C443.5 941.381 442.381 942.5 441 942.5H192C190.619 942.5 189.5 941.381 189.5 940V916L189.513 915.744C189.641 914.484 190.706 913.5 192 913.5Z" fill="#F7F9FB"/>
 <path d="M192 913.5H441C442.381 913.5 443.5 914.619 443.5 916V940C443.5 941.381 442.381 942.5 441 942.5H192C190.619 942.5 189.5 941.381 189.5 940V916L189.513 915.744C189.641 914.484 190.706 913.5 192 913.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="253.029" y="932.854">: 10-Feb-25 to 16-Feb-25</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="198" y="932.854">Week 07</tspan></text>
-<path d="M429 930.934L425.536 926.534L432.464 926.534L429 930.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="253.029" y="929.416" font-family="Arimo">: 10-Feb-25 to 16-Feb-25</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="198" y="929.416" font-family="Arimo">Week 07</tspan></text>
+<path d="M429 930.934L425.536 926.534H432.464L429 930.934Z" fill="#DDDDDD"/>
 <path d="M437.774 895.076V897.584H436.913V895.076H434.429V894.221H436.913V891.713H437.774V894.221H440.259V895.076H437.774Z" fill="#C0C0C0"/>
 <path d="M432.733 900.614L433.749 899.801L433.757 899.795C433.968 899.626 434.075 899.54 434.194 899.479C434.301 899.425 434.416 899.385 434.533 899.361C434.666 899.333 434.804 899.333 435.081 899.333H440.869C441.614 899.333 441.987 899.333 442.272 899.188C442.523 899.06 442.727 898.856 442.855 898.605C443 898.32 443 897.948 443 897.202V892.131C443 891.386 443 891.013 442.855 890.728C442.727 890.477 442.522 890.273 442.272 890.145C441.986 890 441.614 890 440.867 890H433.133C432.387 890 432.013 890 431.728 890.145C431.477 890.273 431.273 890.477 431.145 890.728C431 891.013 431 891.387 431 892.133V899.781C431 900.491 431 900.846 431.146 901.029C431.272 901.188 431.464 901.28 431.667 901.28C431.901 901.279 432.178 901.057 432.733 900.614Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="1094" y="585" width="205" height="28" rx="5" fill="#D3F4D4"/>
-<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1112" y="604.547">FIRM</tspan></text>
-<path d="M1277 601.934L1273.54 597.534L1280.46 597.534L1277 601.934Z" fill="#C0C0C0"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="579.854">Certainty</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1096" y="540.854">BIDDING STATUS</tspan></text>
-<rect x="1094" y="653" width="205" height="28" rx="5" fill="#D3F4D4"/>
-<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1112" y="672.547">WON</tspan></text>
-<path d="M1277 669.934L1273.54 665.534L1280.46 665.534L1277 669.934Z" fill="#C0C0C0"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="647.854">Bid Status</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="715.854">Salesperson</tspan></text>
+<path d="M1294 585H1099C1096.24 585 1094 587.239 1094 590V608C1094 610.761 1096.24 613 1099 613H1294C1296.76 613 1299 610.761 1299 608V590C1299 587.239 1296.76 585 1294 585Z" fill="#D3F4D4"/>
+<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1112" y="600.188" font-family="Arimo">FIRM</tspan></text>
+<path d="M1277 601.934L1273.54 597.534H1280.46L1277 601.934Z" fill="#C0C0C0"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="576.416" font-family="Arimo">Certainty</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1096" y="537.416" font-family="Arimo">BIDDING STATUS</tspan></text>
+<path d="M1294 653H1099C1096.24 653 1094 655.239 1094 658V676C1094 678.761 1096.24 681 1099 681H1294C1296.76 681 1299 678.761 1299 676V658C1299 655.239 1296.76 653 1294 653Z" fill="#D3F4D4"/>
+<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1112" y="668.188" font-family="Arimo">WON</tspan></text>
+<path d="M1277 669.934L1273.54 665.534H1280.46L1277 669.934Z" fill="#C0C0C0"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="644.416" font-family="Arimo">Bid Status</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="712.416" font-family="Arimo">Salesperson</tspan></text>
 <path d="M1097 732.5H1296C1297.38 732.5 1298.5 733.619 1298.5 735V759C1298.5 760.381 1297.38 761.5 1296 761.5H1097C1095.62 761.5 1094.5 760.381 1094.5 759V735L1094.51 734.744C1094.64 733.484 1095.71 732.5 1097 732.5Z" fill="#F7F9FB"/>
 <path d="M1097 732.5H1296C1297.38 732.5 1298.5 733.619 1298.5 735V759C1298.5 760.381 1297.38 761.5 1296 761.5H1097C1095.62 761.5 1094.5 760.381 1094.5 759V735L1094.51 734.744C1094.64 733.484 1095.71 732.5 1097 732.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1105" y="751.854">Jia Ling Tan</tspan></text>
-<path d="M1284 749.934L1280.54 745.534L1287.46 745.534L1284 749.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1105" y="748.416" font-family="Arimo">Jia Ling Tan</tspan></text>
+<path d="M1284 749.934L1280.54 745.534H1287.46L1284 749.934Z" fill="#DDDDDD"/>
 <path d="M1097 806.5H1296C1297.38 806.5 1298.5 807.619 1298.5 809V833C1298.5 834.381 1297.38 835.5 1296 835.5H1097C1095.62 835.5 1094.5 834.381 1094.5 833V809L1094.51 808.744C1094.64 807.484 1095.71 806.5 1097 806.5Z" fill="#F7F9FB"/>
 <path d="M1097 806.5H1296C1297.38 806.5 1298.5 807.619 1298.5 809V833C1298.5 834.381 1297.38 835.5 1296 835.5H1097C1095.62 835.5 1094.5 834.381 1094.5 833V809L1094.51 808.744C1094.64 807.484 1095.71 806.5 1097 806.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1105" y="825.854">FIRM</tspan></text>
-<path d="M1284 823.934L1280.54 819.534L1287.46 819.534L1284 823.934Z" fill="#DDDDDD"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="796.854">Certainty of engine input</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1260.03" y="796.854"> (Initial)</tspan></text>
-<rect x="136" y="404" width="1228" height="44" fill="#0757B8"/>
-<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="159" y="431.547">Sales and Accounting</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1105" y="822.416" font-family="Arimo">FIRM</tspan></text>
+<path d="M1284 823.934L1280.54 819.534H1287.46L1284 823.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1095" y="793.416" font-family="Arimo">Certainty of engine input</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1260.03" y="793.416" font-family="Arimo"> (Initial)</tspan></text>
+<path d="M1364 404H136V448H1364V404Z" fill="#0757B8"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="159" y="427.188" font-family="Arimo">Sales and Accounting</tspan></text>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M1315.3 428.695C1315.49 428.882 1315.74 428.987 1316.01 428.987C1316.28 428.987 1316.54 428.882 1316.73 428.695L1320.07 425.402L1323.41 428.695C1323.5 428.79 1323.61 428.866 1323.74 428.919C1323.86 428.971 1323.99 428.999 1324.13 429C1324.26 429.001 1324.39 428.976 1324.52 428.926C1324.64 428.875 1324.76 428.801 1324.85 428.707C1324.95 428.613 1325.02 428.502 1325.07 428.379C1325.12 428.256 1325.15 428.124 1325.15 427.991C1325.15 427.859 1325.12 427.727 1325.07 427.605C1325.01 427.483 1324.94 427.373 1324.84 427.281L1320.78 423.281C1320.59 423.093 1320.34 422.988 1320.07 422.988C1319.8 422.988 1319.54 423.093 1319.35 423.281L1315.3 427.281C1315.11 427.468 1315 427.723 1315 427.988C1315 428.253 1315.11 428.507 1315.3 428.695Z" fill="white"/>
-<line x1="1065.5" y1="532" x2="1065.5" y2="974" stroke="#F4F4F4"/>
+<path d="M1065.5 532V974" stroke="#F4F4F4"/>
 <path d="M181 1079.5H521C522.381 1079.5 523.5 1080.62 523.5 1082V1106C523.5 1107.38 522.381 1108.5 521 1108.5H181C179.619 1108.5 178.5 1107.38 178.5 1106V1082L178.513 1081.74C178.641 1080.48 179.706 1079.5 181 1079.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="185" y="1098.85">$12,780,450</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="178" y="1067.85">Est Revenue (US$) </tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="312" y="1068.16">(Every Monday Afternoon Update)</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="185" y="1095.4" font-family="Arimo">$12,780,450</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="178" y="1064.4" font-family="Arimo">Est Revenue (US$) </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="312" y="1065.64" font-family="Arimo">(Every Monday Afternoon Update)</tspan></text>
 <path d="M199 1216.5H384C385.381 1216.5 386.5 1217.62 386.5 1219V1243C386.5 1244.38 385.381 1245.5 384 1245.5H199C197.619 1245.5 196.5 1244.38 196.5 1243V1219L196.513 1218.74C196.641 1217.48 197.706 1216.5 199 1216.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="203" y="1235.85">$8,432,190</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="196" y="1204.85">Revenue</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="203" y="1232.4" font-family="Arimo">$8,432,190</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="196" y="1201.4" font-family="Arimo">Revenue</tspan></text>
 <path d="M426 1216.5H611C612.381 1216.5 613.5 1217.62 613.5 1219V1243C613.5 1244.38 612.381 1245.5 611 1245.5H426C424.619 1245.5 423.5 1244.38 423.5 1243V1219L423.513 1218.74C423.641 1217.48 424.706 1216.5 426 1216.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="430" y="1235.85">$8,109,760</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="423" y="1204.85">Cost</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="653" y="1235.85">$322,430 </tspan></text>
-<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="715.344" y="1235.85">(4%)</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="646" y="1204.85">Gross Profit / %</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="178" y="1153.85">ACTUAL / FORECAST</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="430" y="1232.4" font-family="Arimo">$8,109,760</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="423" y="1201.4" font-family="Arimo">Cost</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="653" y="1232.4" font-family="Arimo">$322,430 </tspan></text>
+<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="715.344" y="1232.4" font-family="Arimo">(4%)</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="646" y="1201.4" font-family="Arimo">Gross Profit / %</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="178" y="1150.4" font-family="Arimo">ACTUAL / FORECAST</tspan></text>
 <path d="M183 1166.5H877C882.247 1166.5 886.5 1170.75 886.5 1176V1263C886.5 1268.25 882.247 1272.5 877 1272.5H183C177.753 1272.5 173.5 1268.25 173.5 1263V1176C173.5 1170.75 177.753 1166.5 183 1166.5Z" stroke="#DAE8FC"/>
-<line x1="916.5" y1="1055" x2="916.5" y2="1304" stroke="#F4F4F4"/>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="938" y="1043.85">BILLING</tspan></text>
+<path d="M916.5 1055V1304" stroke="#F4F4F4"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="938" y="1040.4" font-family="Arimo">BILLING</tspan></text>
 <path d="M948 1060.5H1272C1277.25 1060.5 1281.5 1064.75 1281.5 1070V1263C1281.5 1268.25 1277.25 1272.5 1272 1272.5H948C942.753 1272.5 938.5 1268.25 938.5 1263V1070C938.5 1064.75 942.753 1060.5 948 1060.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="963" y="1098.85">Prelim</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="963" y="1128.85">22-Apr-25</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1082" y="1098.85">Final</tspan></text>
-<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1082" y="1128.85">14 days unbilled</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="963" y="1095.4" font-family="Arimo">Prelim</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="963" y="1125.4" font-family="Arimo">22-Apr-25</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1082" y="1095.4" font-family="Arimo">Final</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1082" y="1125.4" font-family="Arimo">14 days unbilled</tspan></text>
 <path d="M1223.31 1124C1223.31 1128.3 1219.72 1131.78 1215.29 1131.78C1210.86 1131.78 1207.27 1128.3 1207.27 1124C1207.27 1119.7 1210.86 1116.22 1215.29 1116.22C1219.72 1116.22 1223.31 1119.7 1223.31 1124ZM1225.61 1124C1225.61 1118.48 1220.99 1114 1215.29 1114C1209.6 1114 1204.98 1118.48 1204.98 1124C1204.98 1129.52 1209.6 1134 1215.29 1134C1220.99 1134 1225.61 1129.52 1225.61 1124Z" fill="#E15C5C"/>
 <path d="M1214.15 1119.56V1124.89C1214.15 1125.5 1214.66 1126 1215.29 1126C1215.93 1126 1216.44 1125.5 1216.44 1124.89V1119.56C1216.44 1118.94 1215.93 1118.45 1215.29 1118.45C1214.66 1118.45 1214.15 1118.94 1214.15 1119.56Z" fill="#E15C5C"/>
 <path d="M1215.29 1128.76C1215.88 1128.76 1216.35 1128.29 1216.35 1127.7C1216.35 1127.12 1215.88 1126.64 1215.29 1126.64C1214.71 1126.64 1214.23 1127.12 1214.23 1127.7C1214.23 1128.29 1214.71 1128.76 1215.29 1128.76Z" fill="#E15C5C"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="963" y="1232.85">Net 30 days</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="964" y="1204.85">Payment</tspan></text>
-<rect x="779" y="1076" width="108" height="30" rx="5" fill="#0757B8"/>
-<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="800.044" y="1095.85">View POC</tspan></text>
-<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="173" y="498.434">Sales</tspan></text>
-<line x1="167" y1="505.5" x2="1320" y2="505.5" stroke="#DAE8FC"/>
-<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="173" y="1020.43">Accounting</tspan></text>
-<line x1="167" y1="1027.5" x2="1320" y2="1027.5" stroke="#DAE8FC"/>
-<rect x="294" y="1308" width="103" height="33" rx="5" fill="#D9D9D9"/>
-<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="324.2" y="1328.85">Submit</tspan></text>
-<rect x="176" y="1308" width="103" height="33" rx="5" fill="#D9D9D9"/>
-<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="206.193" y="1328.85">Cancel</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="963" y="1229.4" font-family="Arimo">Net 30 days</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="964" y="1201.4" font-family="Arimo">Payment</tspan></text>
+<path d="M882 1076H784C781.239 1076 779 1078.24 779 1081V1101C779 1103.76 781.239 1106 784 1106H882C884.761 1106 887 1103.76 887 1101V1081C887 1078.24 884.761 1076 882 1076Z" fill="#0757B8"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="800.044" y="1092.4" font-family="Arimo">View POC</tspan></text>
+<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="173" y="493.736" font-family="Arimo">Sales</tspan></text>
+<path d="M167 505.5H1320" stroke="#DAE8FC"/>
+<text fill="#0757B8" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="173" y="1015.72" font-family="Arimo">Accounting</tspan></text>
+<path d="M167 1027.5H1320" stroke="#DAE8FC"/>
+<path d="M392 1308H299C296.239 1308 294 1310.24 294 1313V1336C294 1338.76 296.239 1341 299 1341H392C394.761 1341 397 1338.76 397 1336V1313C397 1310.24 394.761 1308 392 1308Z" fill="#D9D9D9"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="324.2" y="1325.4" font-family="Arimo">Submit</tspan></text>
+<path d="M274 1308H181C178.239 1308 176 1310.24 176 1313V1336C176 1338.76 178.239 1341 181 1341H274C276.761 1341 279 1338.76 279 1336V1313C279 1310.24 276.761 1308 274 1308Z" fill="#D9D9D9"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="206.193" y="1325.4" font-family="Arimo">Cancel</tspan></text>
 <path d="M597.774 1202.08V1204.58H596.913V1202.08H594.429V1201.22H596.913V1198.71H597.774V1201.22H600.259V1202.08H597.774Z" fill="#C0C0C0"/>
-<path d="M592.733 1207.61L593.749 1206.8L593.757 1206.8C593.968 1206.63 594.075 1206.54 594.194 1206.48C594.301 1206.42 594.416 1206.38 594.533 1206.36C594.666 1206.33 594.804 1206.33 595.081 1206.33H600.869C601.614 1206.33 601.987 1206.33 602.272 1206.19C602.523 1206.06 602.727 1205.86 602.855 1205.61C603 1205.32 603 1204.95 603 1204.2V1199.13C603 1198.39 603 1198.01 602.855 1197.73C602.727 1197.48 602.522 1197.27 602.272 1197.15C601.986 1197 601.614 1197 600.867 1197H593.133C592.387 1197 592.013 1197 591.728 1197.15C591.477 1197.27 591.273 1197.48 591.145 1197.73C591 1198.01 591 1198.39 591 1199.13V1206.78C591 1207.49 591 1207.85 591.146 1208.03C591.272 1208.19 591.464 1208.28 591.667 1208.28C591.901 1208.28 592.178 1208.06 592.733 1207.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M592.733 1207.61L593.749 1206.8H593.757C593.968 1206.63 594.075 1206.54 594.194 1206.48C594.301 1206.42 594.416 1206.38 594.533 1206.36C594.666 1206.33 594.804 1206.33 595.081 1206.33H600.869C601.614 1206.33 601.987 1206.33 602.272 1206.19C602.523 1206.06 602.727 1205.86 602.855 1205.61C603 1205.32 603 1204.95 603 1204.2V1199.13C603 1198.39 603 1198.01 602.855 1197.73C602.727 1197.48 602.522 1197.27 602.272 1197.15C601.986 1197 601.614 1197 600.867 1197H593.133C592.387 1197 592.013 1197 591.728 1197.15C591.477 1197.27 591.273 1197.48 591.145 1197.73C591 1198.01 591 1198.39 591 1199.13V1206.78C591 1207.49 591 1207.85 591.146 1208.03C591.272 1208.19 591.464 1208.28 591.667 1208.28C591.901 1208.28 592.178 1208.06 592.733 1207.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M511.774 1063.08V1065.58H510.913V1063.08H508.429V1062.22H510.913V1059.71H511.774V1062.22H514.259V1063.08H511.774Z" fill="#C0C0C0"/>
-<path d="M506.733 1068.61L507.749 1067.8L507.757 1067.8C507.968 1067.63 508.075 1067.54 508.194 1067.48C508.301 1067.42 508.416 1067.38 508.533 1067.36C508.666 1067.33 508.804 1067.33 509.081 1067.33H514.869C515.614 1067.33 515.987 1067.33 516.272 1067.19C516.523 1067.06 516.727 1066.86 516.855 1066.61C517 1066.32 517 1065.95 517 1065.2V1060.13C517 1059.39 517 1059.01 516.855 1058.73C516.727 1058.48 516.522 1058.27 516.272 1058.15C515.986 1058 515.614 1058 514.867 1058H507.133C506.387 1058 506.013 1058 505.728 1058.15C505.477 1058.27 505.273 1058.48 505.145 1058.73C505 1059.01 505 1059.39 505 1060.13V1067.78C505 1068.49 505 1068.85 505.146 1069.03C505.272 1069.19 505.464 1069.28 505.667 1069.28C505.901 1069.28 506.178 1069.06 506.733 1068.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="392" y="745.854">Actual date (Received)</tspan></text>
+<path d="M506.733 1068.61L507.749 1067.8H507.757C507.968 1067.63 508.075 1067.54 508.194 1067.48C508.301 1067.42 508.416 1067.38 508.533 1067.36C508.666 1067.33 508.804 1067.33 509.081 1067.33H514.869C515.614 1067.33 515.987 1067.33 516.272 1067.19C516.523 1067.06 516.727 1066.86 516.855 1066.61C517 1066.32 517 1065.95 517 1065.2V1060.13C517 1059.39 517 1059.01 516.855 1058.73C516.727 1058.48 516.522 1058.27 516.272 1058.15C515.986 1058 515.614 1058 514.867 1058H507.133C506.387 1058 506.013 1058 505.728 1058.15C505.477 1058.27 505.273 1058.48 505.145 1058.73C505 1059.01 505 1059.39 505 1060.13V1067.78C505 1068.49 505 1068.85 505.146 1069.03C505.272 1069.19 505.464 1069.28 505.667 1069.28C505.901 1069.28 506.178 1069.06 506.733 1068.61Z" stroke="#C0C0C0" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="392" y="742.416" font-family="Arimo">Actual date (Received)</tspan></text>
 <path d="M395 756.5H575C576.381 756.5 577.5 757.619 577.5 759V783C577.5 784.381 576.381 785.5 575 785.5H395C393.619 785.5 392.5 784.381 392.5 783V759L392.513 758.744C392.641 757.484 393.706 756.5 395 756.5Z" fill="#F7F9FB" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="404" y="775.854">16-Dec-24</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="404" y="772.416" font-family="Arimo">16-Dec-24</tspan></text>
 <path d="M565.903 739.924V742.85H564.898V739.924H562V738.926H564.898V736H565.903V738.926H568.802V739.924H565.903Z" fill="#C0C0C0"/>
 <path d="M560.022 746.382L561.207 745.434L561.216 745.428C561.463 745.23 561.588 745.13 561.727 745.059C561.852 744.995 561.985 744.949 562.122 744.921C562.277 744.889 562.438 744.889 562.762 744.889H569.514C570.383 744.889 570.818 744.889 571.151 744.719C571.443 744.57 571.682 744.332 571.831 744.039C572 743.707 572 743.272 572 742.403V736.486C572 735.617 572 735.182 571.831 734.849C571.682 734.556 571.443 734.319 571.15 734.17C570.817 734 570.382 734 569.511 734H560.489C559.618 734 559.182 734 558.849 734.17C558.556 734.319 558.319 734.556 558.17 734.849C558 735.182 558 735.618 558 736.489V745.411C558 746.24 558 746.654 558.17 746.867C558.318 747.052 558.542 747.16 558.779 747.16C559.051 747.159 559.375 746.9 560.022 746.382Z" stroke="#C0C0C0" stroke-width="1.55556" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M194 756.5H358C359.381 756.5 360.5 757.619 360.5 759V783C360.5 784.381 359.381 785.5 358 785.5H194C192.619 785.5 191.5 784.381 191.5 783V759L191.513 758.744C191.641 757.484 192.706 756.5 194 756.5Z" fill="#F7F9FB"/>
 <path d="M194 756.5H358C359.381 756.5 360.5 757.619 360.5 759V783C360.5 784.381 359.381 785.5 358 785.5H194C192.619 785.5 191.5 784.381 191.5 783V759L191.513 758.744C191.641 757.484 192.706 756.5 194 756.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="204" y="775.854">Feb-25</tspan></text>
-<path d="M347 773.934L343.536 769.534L350.464 769.534L347 773.934Z" fill="#DDDDDD"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="191" y="745.854">Forecast month</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="204" y="772.416" font-family="Arimo">Feb-25</tspan></text>
+<path d="M347 773.934L343.536 769.534H350.464L347 773.934Z" fill="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="191" y="742.416" font-family="Arimo">Forecast month</tspan></text>
 <path d="M352.903 739.924V742.85H351.898V739.924H349V738.926H351.898V736H352.903V738.926H355.802V739.924H352.903Z" fill="#C0C0C0"/>
 <path d="M347.022 746.382L348.207 745.434L348.216 745.428C348.463 745.23 348.588 745.13 348.727 745.059C348.852 744.995 348.985 744.949 349.122 744.921C349.277 744.889 349.438 744.889 349.762 744.889H356.514C357.383 744.889 357.818 744.889 358.151 744.719C358.443 744.57 358.682 744.332 358.831 744.039C359 743.707 359 743.272 359 742.403V736.486C359 735.617 359 735.182 358.831 734.849C358.682 734.556 358.443 734.319 358.15 734.17C357.817 734 357.382 734 356.511 734H347.489C346.618 734 346.182 734 345.849 734.17C345.556 734.319 345.319 734.556 345.17 734.849C345 735.182 345 735.618 345 736.489V745.411C345 746.24 345 746.654 345.17 746.867C345.318 747.052 345.542 747.16 345.779 747.16C346.051 747.159 346.375 746.9 347.022 746.382Z" stroke="#C0C0C0" stroke-width="1.55556" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M485.337 346C485.337 341.704 481.746 338.222 477.315 338.222C472.884 338.222 469.292 341.704 469.292 346C469.292 350.296 472.884 353.778 477.315 353.778C481.746 353.778 485.337 350.296 485.337 346ZM487.63 346C487.63 351.523 483.011 356 477.315 356C471.618 356 467 351.523 467 346C467 340.477 471.618 336 477.315 336C483.011 336 487.63 340.477 487.63 346Z" fill="#878682"/>
 <path d="M476.169 350.444V345.111C476.169 344.497 476.682 344 477.315 344C477.948 344 478.461 344.497 478.461 345.111V350.444C478.461 351.058 477.948 351.555 477.315 351.555C476.682 351.555 476.169 351.058 476.169 350.444Z" fill="#878682"/>
 <path d="M477.316 341.239C477.901 341.239 478.376 341.714 478.376 342.299C478.376 342.885 477.901 343.359 477.316 343.359C476.73 343.359 476.256 342.885 476.256 342.299C476.256 341.714 476.73 341.239 477.316 341.239Z" fill="#878682"/>
 <path d="M789 206.5H1342C1347.25 206.5 1351.5 210.753 1351.5 216V362C1351.5 367.247 1347.25 371.5 1342 371.5H789C783.753 371.5 779.5 367.247 779.5 362V216C779.5 210.753 783.753 206.5 789 206.5Z" stroke="#DAE8FC"/>
-<ellipse cx="863.039" cy="288.92" rx="53.961" ry="51.9197" fill="#B899EB"/>
+<path d="M863.039 340.84C892.841 340.84 917 317.594 917 288.92C917 260.245 892.841 237 863.039 237C833.237 237 809.078 260.245 809.078 288.92C809.078 317.594 833.237 340.84 863.039 340.84Z" fill="#B899EB"/>
 <path d="M863.039 237C877.351 237 891.076 242.47 901.195 252.207L863.039 288.92V237Z" fill="#F3DA4E"/>
-<rect x="822.826" y="251.553" width="79.0512" height="76.0608" rx="38.0304" fill="#EFF1F3"/>
+<path d="M863.847 251.553H860.857C839.853 251.553 822.826 268.58 822.826 289.583C822.826 310.587 839.853 327.614 860.857 327.614H863.847C884.851 327.614 901.877 310.587 901.877 289.583C901.877 268.58 884.851 251.553 863.847 251.553Z" fill="#EFF1F3"/>
 <path d="M964 331.898C964 329.137 966.327 326.898 969.197 326.898C972.067 326.898 974.393 329.137 974.393 331.898C974.393 334.66 972.067 336.898 969.197 336.898C966.327 336.898 964 334.66 964 331.898Z" fill="#F3DA4E"/>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="987.904" y="336.854">Forecast Gross Profit</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="1130.29" y="338.434">$322,430</tspan></text>
-<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1223.57" y="338.434">8%</tspan></text>
-<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1218.24" y="338.434">(</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1213.79" y="338.434"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="987.904" y="333.416" font-family="Arimo">Forecast Gross Profit</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="1130.29" y="333.736" font-family="Arimo">$322,430</tspan></text>
+<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1223.57" y="334.075" font-family="Arimo">8%</tspan></text>
+<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1218.24" y="334.075" font-family="Arimo">(</tspan></text>
 <path d="M964 296C964 293.239 966.327 291 969.197 291C972.067 291 974.393 293.239 974.393 296C974.393 298.761 972.067 301 969.197 301C966.327 301 964 298.761 964 296Z" fill="#B899EB"/>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="987.904" y="300.854">Forecast Cost</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="1130.29" y="303.434">$8,109,760</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="964" y="259.854">Estimated Revenue</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="1130.29" y="265.594">$12,780,450</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="881" y="235.854">8%</tspan></text>
-<path d="M1327 124V122.5H1325.5V124H1327ZM1440 124L1425 115.34V132.66L1440 124ZM1327 154H1328.5V124H1327H1325.5V154H1327ZM1327 124V125.5H1426.5V124V122.5H1327V124Z" fill="black"/>
-<g filter="url(#filter0_d_4478_14121)">
-<path d="M472 71C472 68.2386 474.239 66 477 66H845C847.761 66 850 68.2386 850 71V310C850 312.761 847.761 315 845 315H477C474.239 315 472 312.761 472 310V71Z" fill="#F7F9FB"/>
-<path d="M477 66.5H845C847.485 66.5 849.5 68.5147 849.5 71V310C849.5 312.485 847.485 314.5 845 314.5H477C474.515 314.5 472.5 312.485 472.5 310V71C472.5 68.5147 474.515 66.5 477 66.5Z" stroke="#DAE8FC"/>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="491" y="144.854">Actual (Received)</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="611" y="145.547">5-Dec-24</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="491" y="112.854">Forecast Month</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="611" y="112.547">Jan-25</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="491" y="91.1602">INPUT</tspan></text>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="491" y="188.16">INDUCTION</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="658.496" y="215.547">10-Feb-25 to 16-Feb-25</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="611" y="215.547">Wk 07: </tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="491" y="240.854">Actual</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="491" y="214.854">Week</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="611" y="240.547">27-Jan-25</tspan></text>
-<line x1="482" y1="164.5" x2="841" y2="164.5" stroke="#DAE8FC"/>
-<line x1="482" y1="265.5" x2="841" y2="265.5" stroke="#DAE8FC"/>
-<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="565" y="296.854">TAT</tspan></text>
-<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="606" y="297.547">112 days</tspan></text>
-</g>
-<rect x="1169" y="155" width="117" height="42.0008" rx="5" fill="#0757B8"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="987.904" y="297.416" font-family="Arimo">Forecast Cost</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="1130.29" y="298.736" font-family="Arimo">$8,109,760</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="964" y="256.416" font-family="Arimo">Estimated Revenue</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="1130.29" y="258.376" font-family="Arimo">$12,780,450</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="881" y="232.416" font-family="Arimo">8%</tspan></text>
+<path d="M1281 155H1174C1171.24 155 1169 157.239 1169 160V192.001C1169 194.762 1171.24 197.001 1174 197.001H1281C1283.76 197.001 1286 194.762 1286 192.001V160C1286 157.239 1283.76 155 1281 155Z" fill="#0757B8"/>
 <path d="M1198.05 168.898H1191.79C1191.31 168.898 1190.86 169.087 1190.52 169.422C1190.19 169.758 1190 170.213 1190 170.688V183.212C1190 183.686 1190.19 184.141 1190.52 184.477C1190.86 184.812 1191.31 185.001 1191.79 185.001H1204.31C1204.79 185.001 1205.24 184.812 1205.58 184.477C1205.91 184.141 1206.1 183.686 1206.1 183.212V176.95" stroke="white" stroke-width="1.79139" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M1204.76 167.556C1205.12 167.2 1205.6 167 1206.1 167C1206.61 167 1207.09 167.2 1207.44 167.556C1207.8 167.912 1208 168.394 1208 168.898C1208 169.401 1207.8 169.884 1207.44 170.24L1198.95 178.738L1195.37 179.633L1196.26 176.054L1204.76 167.556Z" stroke="white" stroke-width="1.79139" stroke-linecap="round" stroke-linejoin="round"/>
-<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1221" y="181.547">Edit</tspan></text>
-<rect x="1299.5" y="155.5" width="52" height="41" rx="4.5" stroke="#DDDDDD"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1221" y="177.188" font-family="Arimo">Edit</tspan></text>
+<path d="M1347 155.5H1304C1301.51 155.5 1299.5 157.515 1299.5 160V192C1299.5 194.485 1301.51 196.5 1304 196.5H1347C1349.49 196.5 1351.5 194.485 1351.5 192V160C1351.5 157.515 1349.49 155.5 1347 155.5Z" stroke="#DDDDDD"/>
 <path d="M1325.66 171.194V176.436L1328.34 178.009M1335.32 176.436C1335.32 181.648 1331 185.873 1325.66 185.873C1320.33 185.873 1316 181.648 1316 176.436C1316 171.225 1320.33 167 1325.66 167C1331 167 1335.32 171.225 1335.32 176.436Z" stroke="#282828" stroke-width="2.14689" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g filter="url(#filter0_d_373_16588)">
+<path d="M959.5 533.5H755.5V619.5H959.5V533.5Z" fill="white" stroke="#DAE8FC"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="805" y="594.708" font-family="Arimo">View edit history</tspan></text>
+<path d="M791 591C791 595.418 787.418 599 783 599C778.582 599 775 595.418 775 591C775 586.582 778.582 583 783 583C787.418 583 791 586.582 791 591ZM776.46 591C776.46 594.612 779.388 597.541 783 597.541C786.612 597.541 789.541 594.612 789.541 591C789.541 587.388 786.612 584.46 783 584.46C779.388 584.46 776.46 587.388 776.46 591Z" fill="#878682"/>
+<path d="M783 585.908C782.598 585.908 782.272 586.234 782.272 586.635V591.339C782.272 591.339 782.272 591.528 782.365 591.671C782.426 591.792 782.522 591.897 782.649 591.97L786.009 593.91C786.356 594.11 786.801 593.991 787.002 593.643C787.203 593.295 787.084 592.851 786.736 592.65L783.727 590.913V586.635C783.727 586.234 783.401 585.908 783 585.908Z" fill="#878682"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="805" y="563.708" font-family="Arimo">Add/view notes</tspan></text>
+<path d="M777.311 566.151L778.665 565.068L778.675 565.06C778.958 564.834 779.1 564.72 779.259 564.639C779.402 564.566 779.554 564.513 779.711 564.481C779.888 564.444 780.072 564.444 780.442 564.444H788.158C789.152 564.444 789.649 564.444 790.029 564.251C790.364 564.08 790.636 563.808 790.806 563.474C791 563.094 791 562.597 791 561.603V554.842C791 553.848 791 553.35 790.806 552.97C790.636 552.636 790.363 552.364 790.029 552.194C789.649 552 789.151 552 788.156 552H777.845C776.849 552 776.351 552 775.97 552.194C775.636 552.364 775.364 552.636 775.194 552.97C775 553.351 775 553.849 775 554.845V565.041C775 565.988 775 566.462 775.194 566.705C775.363 566.917 775.619 567.04 775.89 567.04C776.201 567.039 776.571 566.743 777.311 566.151Z" stroke="#878682" stroke-width="1.77778" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g filter="url(#filter1_d_373_16588)">
+<path d="M1207 638H763C757.477 638 753 642.477 753 648V985C753 990.523 757.477 995 763 995H1207C1212.52 995 1217 990.523 1217 985V648C1217 642.477 1212.52 638 1207 638Z" fill="white"/>
+<path d="M1166.5 729.5V763.5H789.5V729.5H1166.5Z" fill="#F7F9FB" stroke="#F4F4F4"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="803" y="749.708" font-family="Arimo">Add a note</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="802" y="707.32" font-family="Arimo">Notes</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="868.303" y="707.32" font-family="Arimo">Edit History</tspan></text>
+<path d="M934 714.5H855" stroke="#C0C0C0"/>
+<path d="M855 714H789" stroke="#7C3CC0" stroke-width="2"/>
+<mask id="mask2_373_16588" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="789" y="784" width="378" height="122">
+<path d="M1167 784H789V906H1167V784Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_373_16588)">
+<path d="M1167 784H789V906H1167V784Z" fill="white"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="789" y="881.708" font-family="Arimo">Adeline</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="789" y="904.708" font-family="Arimo">Changed from Dec to Jan</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="789" y="803.708" font-family="Arimo">Azmi Bin Saaid</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="789" y="826.708" font-family="Arimo">Preservation completion delay by 2 days - ETA 1st Mar&#13; </tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="789" y="842.708" font-family="Arimo">Switch with ELFC induction slot</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="789" y="855.934" font-family="Arimo">3 Jan, 2025, 2.44pm</tspan></text>
+<path d="M1167 846V789C1167 787.895 1166.1 787 1165 787C1163.9 787 1163 787.895 1163 789V846C1163 847.105 1163.9 848 1165 848C1166.1 848 1167 847.105 1167 846Z" fill="#E2E2E2"/>
+</g>
+<path d="M1157 931H1137C1131.48 931 1127 935.477 1127 941V961C1127 966.523 1131.48 971 1137 971H1157C1162.52 971 1167 966.523 1167 961V941C1167 935.477 1162.52 931 1157 931Z" fill="url(#paint1_linear_373_16588)"/>
+<path d="M1157 931H1137C1131.48 931 1127 935.477 1127 941V961C1127 966.523 1131.48 971 1137 971H1157C1162.52 971 1167 966.523 1167 961V941C1167 935.477 1162.52 931 1157 931Z" fill="black" fill-opacity="0.1"/>
+<path d="M1145.2 952.795L1155.71 942.292M1145.5 953.267L1147.88 958.033C1148.46 959.184 1148.75 959.76 1149.11 959.914C1149.42 960.048 1149.78 960.024 1150.08 959.849C1150.42 959.647 1150.62 959.038 1151.04 957.82L1155.54 944.636C1155.9 943.575 1156.09 943.044 1155.96 942.693C1155.85 942.387 1155.61 942.147 1155.31 942.039C1154.96 941.915 1154.43 942.096 1153.36 942.459L1140.18 946.96C1138.96 947.376 1138.35 947.584 1138.15 947.923C1137.98 948.217 1137.95 948.577 1138.09 948.891C1138.24 949.254 1138.82 949.542 1139.97 950.118L1144.73 952.5C1144.92 952.595 1145.02 952.643 1145.1 952.706C1145.17 952.762 1145.24 952.828 1145.29 952.901C1145.36 952.983 1145.4 953.078 1145.5 953.267Z" stroke="white" stroke-width="2.14412" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1104 931.5H1084C1078.75 931.5 1074.5 935.753 1074.5 941V961C1074.5 966.247 1078.75 970.5 1084 970.5H1104C1109.25 970.5 1113.5 966.247 1113.5 961V941C1113.5 935.753 1109.25 931.5 1104 931.5Z" fill="white"/>
+<path d="M1104 931.5H1084C1078.75 931.5 1074.5 935.753 1074.5 941V961C1074.5 966.247 1078.75 970.5 1084 970.5H1104C1109.25 970.5 1113.5 966.247 1113.5 961V941C1113.5 935.753 1109.25 931.5 1104 931.5Z" stroke="#034FA7"/>
+<path d="M1086.92 943.915C1086.36 944.469 1086.36 945.366 1086.92 945.919L1092 951L1086.92 956.081C1086.36 956.634 1086.36 957.532 1086.92 958.085C1087.47 958.638 1088.37 958.638 1088.92 958.085L1094 953.004L1099.08 958.085C1099.63 958.638 1100.53 958.638 1101.08 958.085C1101.64 957.532 1101.64 956.634 1101.08 956.081L1096 951L1101.08 945.919C1101.64 945.366 1101.64 944.469 1101.08 943.915C1100.53 943.362 1099.63 943.362 1099.08 943.915L1094 948.996L1088.92 943.915C1088.37 943.362 1087.47 943.362 1086.92 943.915Z" fill="#7C3CC0"/>
+</g>
+</g>
+</g>
 <defs>
-<filter id="filter0_d_4478_14121" x="469" y="63" width="392" height="263" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_373_16588" x="754" y="533" width="213" height="95" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="4" dy="4"/>
-<feGaussianBlur stdDeviation="3.5"/>
+<feOffset dx="3" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_373_16588"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_373_16588" result="shape"/>
+</filter>
+<filter id="filter1_d_373_16588" x="747.7" y="632.7" width="474.6" height="367.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2.65"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4478_14121"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4478_14121" result="shape"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_373_16588"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_373_16588" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear_4478_14121" x1="20.5" y1="0" x2="20.5" y2="1836" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_373_16588" x1="20.5" y1="0" x2="20.5" y2="1836" gradientUnits="userSpaceOnUse">
 <stop stop-color="#1672D4"/>
 <stop offset="1" stop-color="#0757B8"/>
 </linearGradient>
+<linearGradient id="paint1_linear_373_16588" x1="1147" y1="931" x2="1147" y2="971" gradientUnits="userSpaceOnUse">
+<stop stop-color="#297CD4"/>
+<stop offset="1" stop-color="#0045B3"/>
+</linearGradient>
+<clipPath id="clip0_373_16588">
+<rect width="1440" height="1836" fill="white"/>
+</clipPath>
 </defs>
 </svg>
