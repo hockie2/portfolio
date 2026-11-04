@@ -1,0 +1,478 @@
+<svg width="1920" height="1024" viewBox="0 0 1920 1024" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="1920" height="1024" fill="white"/>
+<rect x="67" y="40" width="296" height="60" fill="url(#pattern0_4383_9582)"/>
+<circle cx="1798" cy="70" r="20" fill="#D9D9D9"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1839" y="74.8535">Karen</tspan></text>
+<g clip-path="url(#clip0_4383_9582)">
+<rect x="76" y="388" width="1803" height="344" rx="10" fill="white"/>
+<rect x="-72" y="432" width="1951" height="79" fill="#FFF4F4"/>
+<rect width="1803" height="44" transform="translate(76 388)" fill="#FBFCFD"/>
+<g opacity="0.48">
+<mask id="path-7-inside-1_4383_9582" fill="white">
+<path d="M1240 389H1383V732H1240V389Z"/>
+</mask>
+<path d="M1240 389H1383V732H1240V389Z" fill="#EEFFE9"/>
+<path d="M1383 389H1382V732H1383H1384V389H1383ZM1240 732H1241V389H1240H1239V732H1240Z" fill="#DDDDDD" mask="url(#path-7-inside-1_4383_9582)"/>
+</g>
+<g opacity="0.48">
+<mask id="path-9-inside-2_4383_9582" fill="white">
+<path d="M1383 389H1526V732H1383V389Z"/>
+</mask>
+<path d="M1383 389H1526V732H1383V389Z" fill="#EFF6FF"/>
+<path d="M1526 389H1525V732H1526H1527V389H1526Z" fill="#DDDDDD" mask="url(#path-9-inside-2_4383_9582)"/>
+</g>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="521" y="414.16">Urgency</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="894" y="416">12m usage</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1120" y="416">Quantity to Buy</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1000" y="416">Coverage</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="618" y="416">Qty on hand</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="760" y="416">Dues In</tspan></text>
+<path d="M1267 399.5H1277C1280.04 399.5 1282.5 401.962 1282.5 405V415C1282.5 418.038 1280.04 420.5 1277 420.5H1267C1263.96 420.5 1261.5 418.038 1261.5 415V405C1261.5 401.962 1263.96 399.5 1267 399.5Z" fill="#F5F5F5" stroke="#DDDDDD"/>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1293" y="414.16">QTB NEW</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1408" y="414.16">QTB USM</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="412" y="414.16">Engine type</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="218" y="416.16">Part</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="105" y="407.16">Category&#10;</tspan></text>
+<text fill="#9DA4B0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="105" y="421.16">Price | Usage</tspan></text>
+<g clip-path="url(#clip1_4383_9582)">
+<mask id="path-23-inside-3_4383_9582" fill="white">
+<path d="M76 432H1879V511H76V432Z"/>
+</mask>
+<path d="M1879 511V510H76V511V512H1879V511Z" fill="#F4F4F4" mask="url(#path-23-inside-3_4383_9582)"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="906.207" y="478.416">24</tspan></text>
+<rect x="929.5" y="462.34" width="23" height="22.4442" rx="4.5" fill="#F4F4F4"/>
+<rect x="929.5" y="462.34" width="23" height="22.4442" rx="4.5" stroke="#C0C0C0"/>
+<path d="M941.842 470.201V473.245L944.372 474.762C944.499 474.839 944.591 474.963 944.627 475.107C944.663 475.251 944.64 475.404 944.563 475.531C944.487 475.658 944.363 475.75 944.219 475.786C944.075 475.822 943.922 475.799 943.795 475.723L940.994 474.042C940.911 473.993 940.842 473.922 940.795 473.838C940.747 473.754 940.722 473.659 940.722 473.562V470.201C940.722 470.052 940.781 469.91 940.886 469.805C940.991 469.7 941.134 469.641 941.282 469.641C941.431 469.641 941.573 469.7 941.678 469.805C941.783 469.91 941.842 470.052 941.842 470.201ZM941.282 466.84C940.399 466.838 939.523 467.011 938.707 467.349C937.891 467.687 937.149 468.184 936.526 468.811C936.017 469.326 935.565 469.822 935.12 470.341V469.081C935.12 468.932 935.061 468.79 934.956 468.684C934.851 468.579 934.709 468.52 934.56 468.52C934.412 468.52 934.269 468.579 934.164 468.684C934.059 468.79 934 468.932 934 469.081V471.881C934 472.03 934.059 472.172 934.164 472.278C934.269 472.383 934.412 472.442 934.56 472.442H937.361C937.51 472.442 937.652 472.383 937.757 472.278C937.862 472.172 937.921 472.03 937.921 471.881C937.921 471.733 937.862 471.59 937.757 471.485C937.652 471.38 937.51 471.321 937.361 471.321H935.751C936.251 470.732 936.75 470.176 937.318 469.601C938.097 468.822 939.088 468.29 940.167 468.072C941.246 467.853 942.365 467.957 943.386 468.371C944.406 468.785 945.281 469.491 945.903 470.399C946.525 471.308 946.865 472.38 946.881 473.481C946.896 474.582 946.588 475.663 945.993 476.589C945.398 477.516 944.543 478.246 943.535 478.689C942.527 479.133 941.411 479.269 940.326 479.082C939.241 478.894 938.235 478.392 937.435 477.636C937.381 477.585 937.318 477.546 937.249 477.519C937.181 477.493 937.107 477.481 937.034 477.483C936.96 477.485 936.888 477.502 936.82 477.532C936.753 477.562 936.692 477.605 936.642 477.658C936.591 477.712 936.552 477.775 936.526 477.844C936.499 477.912 936.487 477.986 936.489 478.059C936.491 478.133 936.508 478.205 936.538 478.272C936.568 478.34 936.611 478.4 936.664 478.451C937.462 479.204 938.432 479.75 939.49 480.042C940.547 480.334 941.66 480.362 942.731 480.125C943.802 479.888 944.799 479.392 945.634 478.681C946.47 477.97 947.119 477.066 947.524 476.046C947.93 475.027 948.079 473.924 947.96 472.833C947.841 471.743 947.457 470.698 946.842 469.79C946.226 468.882 945.398 468.138 944.429 467.624C943.459 467.11 942.379 466.841 941.282 466.84Z" fill="#C0C0C0"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1158.55" y="478.547">8</tspan></text>
+<rect x="618.5" y="440" width="49" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="652.508" y="453.354">3</tspan></text>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="625" y="453.354">GV: </tspan></text>
+<rect x="673.5" y="440" width="59" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="680" y="452.854">GPS</tspan></text>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="717.365" y="452.854">3</tspan></text>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="709.572" y="452.854">: </tspan></text>
+<rect x="618.5" y="463" width="69" height="17" rx="2.5" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="625" y="476.354">GCDR</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="674.041" y="476.354">1</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="666.248" y="476.354">: </tspan></text>
+<rect x="618.5" y="486" width="59" height="17" rx="2.5" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="625" y="499.354">GHP</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="663.145" y="499.354">2</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="655.352" y="499.354">: </tspan></text>
+<rect x="521.5" y="463.5" width="48" height="17" rx="4.5" fill="#FFF6E4"/>
+<rect x="521.5" y="463.5" width="48" height="17" rx="4.5" stroke="#FFDD81"/>
+<text fill="#DF9732" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="533.148" y="476.16">High</tspan></text>
+<rect x="1260.5" y="485.5" width="102" height="14" rx="2.5" fill="#F4F4F4"/>
+<rect x="1260.5" y="485.5" width="102" height="14" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#696967" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1268.49" y="495.967">GE Aviation (CFMI)</tspan></text>
+<rect x="1410.5" y="485.5" width="59" height="14" rx="2.5" fill="#F4F4F4"/>
+<rect x="1410.5" y="485.5" width="59" height="14" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#696967" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1418.03" y="495.967">2 vendors</tspan></text>
+<text fill="#435FA7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="218" y="459.854">649-341-011-0</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="218" y="479.16">FLAT WASHER (FOR CFM56/</tspan><tspan x="218" y="493.16">LP-1B)</tspan></text>
+<path d="M110 462.5H154C155.381 462.5 156.5 463.619 156.5 465V477C156.5 478.381 155.381 479.5 154 479.5H110C108.619 479.5 107.5 478.381 107.5 477V465C107.5 463.619 108.619 462.5 110 462.5Z" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="123.441" y="475.854">LL</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="412.311" y="475.854">CFM56-7</tspan></text>
+<path d="M958.283 491.397C958.168 491.264 958.082 491.099 958.034 490.918C957.986 490.737 957.976 490.545 958.007 490.359C958.037 490.173 958.106 489.998 958.208 489.85C958.31 489.702 958.441 489.585 958.591 489.51L964.392 486.922C964.574 486.826 964.727 486.668 964.832 486.47C964.936 486.271 964.987 486.041 964.977 485.808C964.968 485.576 964.898 485.353 964.778 485.167C964.658 484.981 964.492 484.841 964.303 484.765L944.294 477.174C944.121 477.112 943.935 477.106 943.759 477.157C943.583 477.208 943.421 477.314 943.293 477.463C943.164 477.613 943.073 477.8 943.029 478.005C942.986 478.21 942.991 478.425 943.044 478.627L949.574 501.877C949.639 502.096 949.76 502.289 949.92 502.428C950.08 502.568 950.272 502.648 950.472 502.66C950.672 502.671 950.87 502.612 951.041 502.491C951.212 502.369 951.348 502.191 951.431 501.98L953.658 495.24C953.723 495.066 953.824 494.914 953.951 494.795C954.079 494.677 954.229 494.597 954.389 494.562C954.549 494.526 954.715 494.537 954.87 494.593C955.026 494.649 955.168 494.749 955.283 494.883L961.697 502.334C961.884 502.552 962.139 502.674 962.404 502.674C962.669 502.674 962.923 502.552 963.111 502.334L964.697 500.495C964.884 500.278 964.989 499.982 964.989 499.674C964.989 499.366 964.884 499.071 964.697 498.853L958.283 491.397Z" fill="white" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="760.5" y="449.5" width="81" height="19" rx="2.5" fill="#E5F0FF"/>
+<rect x="760.5" y="449.5" width="81" height="19" rx="2.5" stroke="#A8C1FF"/>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="768" y="463.854">GV</tspan></text>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="787.715" y="463.854">: </tspan></text>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="795.508" y="463.854">+3</tspan></text>
+<path d="M763 474.5H839C840.381 474.5 841.5 475.619 841.5 477V491C841.5 492.381 840.381 493.5 839 493.5H763C761.619 493.5 760.5 492.381 760.5 491V477C760.5 475.619 761.619 474.5 763 474.5Z" fill="#F4F4F4"/>
+<path d="M763 474.5H839C840.381 474.5 841.5 475.619 841.5 477V491C841.5 492.381 840.381 493.5 839 493.5H763C761.619 493.5 760.5 492.381 760.5 491V477C760.5 475.619 761.619 474.5 763 474.5Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="768" y="488.854">GCON</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="817.82" y="488.854">+2</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="810.027" y="488.854">: </tspan></text>
+<g clip-path="url(#clip2_4383_9582)">
+<rect x="1260" y="450" width="22" height="22" rx="6" fill="#033A7B"/>
+<path d="M1277 455.914C1277.13 455.914 1277.26 455.94 1277.38 455.991C1277.51 456.042 1277.62 456.116 1277.71 456.21C1277.81 456.304 1277.89 456.417 1277.95 456.544C1278 456.67 1278.03 456.807 1278.03 456.945C1278.03 457.083 1278 457.219 1277.95 457.346C1277.89 457.472 1277.81 457.586 1277.71 457.68L1269.55 465.84C1269.46 465.934 1269.35 466.008 1269.22 466.059C1269.1 466.109 1268.97 466.136 1268.84 466.136C1268.71 466.136 1268.58 466.109 1268.46 466.059C1268.33 466.008 1268.22 465.933 1268.13 465.84L1264.29 462C1264.19 461.907 1264.12 461.795 1264.06 461.672C1264.01 461.549 1263.98 461.416 1263.98 461.282C1263.98 461.148 1264 461.015 1264.05 460.891C1264.1 460.766 1264.17 460.651 1264.26 460.555C1264.36 460.458 1264.47 460.381 1264.59 460.327C1264.72 460.274 1264.85 460.245 1264.98 460.243C1265.12 460.241 1265.25 460.265 1265.38 460.314C1265.5 460.364 1265.61 460.437 1265.71 460.53L1268.84 463.67L1276.29 456.21C1276.38 456.116 1276.49 456.042 1276.62 455.991C1276.74 455.94 1276.87 455.914 1277 455.914Z" fill="white"/>
+</g>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1291" y="454.967">Recommend</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1302.69" y="472.854">EA</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1291" y="472.854">5 </tspan></text>
+<path d="M1370 461L1361 466.196V455.804L1370 461Z" fill="#45A148"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1410" y="454.967">Recommend</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1421.69" y="472.854">EA</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="472.854">3 </tspan></text>
+<path d="M1489 461L1480 466.196V455.804L1489 461Z" fill="#336DFF"/>
+<path d="M1533.98 483.57V483.239C1533.98 481.269 1532.37 479.66 1530.38 479.66C1529.93 479.66 1529.5 479.738 1529.11 479.894C1528.77 478.265 1527.32 477.036 1525.59 477.036C1525.12 477.036 1524.67 477.124 1524.26 477.29C1523.82 475.788 1522.38 474.646 1520.72 474.646C1520.27 474.646 1519.84 474.734 1519.44 474.89V470.579C1519.44 468.609 1517.83 467 1515.84 467C1513.85 467 1512.25 468.609 1512.25 470.579V481.122C1511.62 480.323 1510.86 479.62 1509.99 479.269C1509.01 478.87 1507.98 478.918 1507.01 479.406C1505.22 480.313 1504.49 482.488 1505.37 484.273L1509.84 493.275C1509.97 493.519 1512.99 499.322 1518.47 499.322H1524.86C1529.9 499.322 1534 495.216 1534 490.164V483.561L1533.98 483.57Z" fill="black"/>
+<path d="M1524.85 496.931H1518.46C1514.51 496.931 1512.05 492.357 1511.97 492.191L1507.52 483.209C1507.21 482.585 1507.47 481.853 1508.1 481.531C1508.45 481.356 1508.75 481.336 1509.08 481.473C1510.4 482.009 1511.7 484.613 1512.21 486.135L1512.6 487.286L1514.66 486.564V470.579C1514.66 469.925 1515.2 469.389 1515.86 469.389C1516.52 469.389 1517.06 469.925 1517.06 470.579V484.35H1519.48V478.303C1519.48 477.64 1520.08 477.025 1520.74 477.025C1521.4 477.025 1522.02 477.581 1522.02 478.215V484.74H1524.42V480.605C1524.42 479.942 1524.96 479.415 1525.62 479.415C1526.28 479.415 1526.82 479.951 1526.82 480.605V485.862H1529.22V483.238C1529.22 482.575 1529.76 482.048 1530.42 482.048C1531.08 482.048 1531.62 482.585 1531.62 483.238V484.945V490.173C1531.62 493.898 1528.6 496.941 1524.88 496.941L1524.85 496.931Z" fill="white"/>
+<g clip-path="url(#clip3_4383_9582)">
+<rect x="1000" y="453" width="95" height="7" rx="2.57944" fill="#EFEFEF"/>
+<rect x="1000" y="453.027" width="26.8269" height="6.94737" fill="#0AE09E"/>
+<mask id="path-66-inside-4_4383_9582" fill="white">
+<path d="M1026.83 453H1053.69V460H1026.83V453Z"/>
+</mask>
+<path d="M1026.83 453H1053.69V460H1026.83V453Z" fill="#4C7FFF"/>
+<path d="M1026.83 460H1027.08V453H1026.83H1026.57V460H1026.83Z" fill="white" mask="url(#path-66-inside-4_4383_9582)"/>
+<mask id="path-68-inside-5_4383_9582" fill="white">
+<path d="M1054 453H1095V460H1054V453Z"/>
+</mask>
+<path d="M1054 453H1095V460H1054V453Z" fill="#DEDEDE"/>
+<path d="M1054 460H1054.26V453H1054H1053.74V460H1054Z" fill="white" mask="url(#path-68-inside-5_4383_9582)"/>
+</g>
+<rect x="1000" y="462" width="95" height="5" rx="1.84246" fill="#EFEFEF"/>
+<rect x="1000" y="462" width="33.5714" height="5" fill="#F06A6A"/>
+<path d="M1034 462H1091V467H1034V462Z" fill="#EFEFEF"/>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1000.06" y="479.12">NEW: </tspan></text>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1025.92" y="479.12">10</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1071.5" y="479.12">6</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1046.49" y="479.12">USM: </tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1018.76" y="489.12">-8</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1000.24" y="489.12">DO: </tspan></text>
+<mask id="path-76-inside-6_4383_9582" fill="white">
+<path d="M76 511H1879V596H76V511Z"/>
+</mask>
+<path d="M1879 596V595H76V596V597H1879V596Z" fill="#F4F4F4" mask="url(#path-76-inside-6_4383_9582)"/>
+<path d="M110 545.5H154C155.381 545.5 156.5 546.619 156.5 548V560C156.5 561.381 155.381 562.5 154 562.5H110C108.619 562.5 107.5 561.381 107.5 560V548C107.5 546.619 108.619 545.5 110 545.5Z" fill="#E5F0FF" stroke="#A8C1FF"/>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="121.162" y="558.854">LH</tspan></text>
+<path d="M763 547.34H833C834.381 547.34 835.5 548.459 835.5 549.84V563.84C835.5 565.221 834.381 566.34 833 566.34H763C761.619 566.34 760.5 565.221 760.5 563.84V549.84C760.5 548.459 761.619 547.34 763 547.34Z" fill="#F4F4F4"/>
+<path d="M763 547.34H833C834.381 547.34 835.5 548.459 835.5 549.84V563.84C835.5 565.221 834.381 566.34 833 566.34H763C761.619 566.34 760.5 565.221 760.5 563.84V549.84C760.5 548.459 761.619 547.34 763 547.34Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="768" y="561.693">GPS</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="805.365" y="561.693">+10</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="797.572" y="561.693">: </tspan></text>
+<rect x="618.5" y="522.5" width="49" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="652.508" y="535.854">3</tspan></text>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="625" y="535.854">GV: </tspan></text>
+<rect x="618.5" y="545.5" width="69" height="17" rx="2.5" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="674.041" y="558.854">3</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="666.248" y="558.854">: </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="625" y="558.854">GCDR</tspan></text>
+<rect x="618.5" y="568.5" width="59" height="17" rx="2.5" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="625" y="581.854">GHR</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="663.924" y="581.854">4</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="656.131" y="581.854">: </tspan></text>
+<rect x="517.5" y="547.34" width="48" height="17" rx="4.5" fill="#FFEBEB"/>
+<rect x="517.5" y="547.34" width="48" height="17" rx="4.5" stroke="#FFC4C4"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="523.148" y="560">Critical</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="411.311" y="558.693">CFM56-7</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="908.207" y="562.416">24</tspan></text>
+<rect x="930.5" y="546.34" width="23" height="22.4442" rx="4.5" fill="#F4F4F4"/>
+<rect x="930.5" y="546.34" width="23" height="22.4442" rx="4.5" stroke="#C0C0C0"/>
+<path d="M942.842 554.201V557.245L945.372 558.762C945.499 558.839 945.591 558.963 945.627 559.107C945.663 559.251 945.64 559.404 945.563 559.531C945.487 559.658 945.363 559.75 945.219 559.786C945.075 559.822 944.922 559.799 944.795 559.723L941.994 558.042C941.911 557.993 941.842 557.922 941.795 557.838C941.747 557.754 941.722 557.659 941.722 557.562V554.201C941.722 554.052 941.781 553.91 941.886 553.805C941.991 553.7 942.134 553.641 942.282 553.641C942.431 553.641 942.573 553.7 942.678 553.805C942.783 553.91 942.842 554.052 942.842 554.201ZM942.282 550.84C941.399 550.838 940.523 551.011 939.707 551.349C938.891 551.687 938.149 552.184 937.526 552.811C937.017 553.326 936.565 553.822 936.12 554.341V553.081C936.12 552.932 936.061 552.79 935.956 552.684C935.851 552.579 935.709 552.52 935.56 552.52C935.412 552.52 935.269 552.579 935.164 552.684C935.059 552.79 935 552.932 935 553.081V555.881C935 556.03 935.059 556.172 935.164 556.278C935.269 556.383 935.412 556.442 935.56 556.442H938.361C938.51 556.442 938.652 556.383 938.757 556.278C938.862 556.172 938.921 556.03 938.921 555.881C938.921 555.733 938.862 555.59 938.757 555.485C938.652 555.38 938.51 555.321 938.361 555.321H936.751C937.251 554.732 937.75 554.176 938.318 553.601C939.097 552.822 940.088 552.29 941.167 552.072C942.246 551.853 943.365 551.957 944.386 552.371C945.406 552.785 946.281 553.491 946.903 554.399C947.525 555.308 947.865 556.38 947.881 557.481C947.896 558.582 947.588 559.663 946.993 560.589C946.398 561.516 945.543 562.246 944.535 562.689C943.527 563.133 942.411 563.269 941.326 563.082C940.241 562.894 939.235 562.392 938.435 561.636C938.381 561.585 938.318 561.546 938.249 561.519C938.181 561.493 938.107 561.481 938.034 561.483C937.96 561.485 937.888 561.502 937.82 561.532C937.753 561.562 937.692 561.605 937.642 561.658C937.591 561.712 937.552 561.775 937.526 561.844C937.499 561.912 937.487 561.986 937.489 562.059C937.491 562.133 937.508 562.205 937.538 562.272C937.568 562.34 937.611 562.4 937.664 562.451C938.462 563.204 939.432 563.75 940.49 564.042C941.547 564.334 942.66 564.362 943.731 564.125C944.802 563.888 945.799 563.392 946.634 562.681C947.47 561.97 948.119 561.066 948.524 560.046C948.93 559.027 949.079 557.924 948.96 556.833C948.841 555.743 948.457 554.698 947.842 553.79C947.226 552.882 946.398 552.138 945.429 551.624C944.459 551.11 943.379 550.841 942.282 550.84Z" fill="#C0C0C0"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1410" y="538.967">Recommend</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1429.48" y="556.854">EA</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="556.854">24 </tspan></text>
+<path d="M1489 545L1480 550.196V539.804L1489 545Z" fill="#D9D9D9"/>
+<path d="M1267 531.5H1277C1280.04 531.5 1282.5 533.962 1282.5 537V547C1282.5 550.038 1280.04 552.5 1277 552.5H1267C1263.96 552.5 1261.5 550.038 1261.5 547V537C1261.5 533.962 1263.96 531.5 1267 531.5Z" fill="#F5F5F5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1293" y="535.967">Recommend</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1312.48" y="553.854">EA</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1293" y="553.854">24 </tspan></text>
+<path d="M1372 542L1363 547.196V536.804L1372 542Z" fill="#D9D9D9"/>
+<rect x="1257" y="562.5" width="119" height="14" rx="2.5" fill="#F4F4F4"/>
+<rect x="1257" y="562.5" width="119" height="14" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#696967" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1264.77" y="572.967">Boeing Company (The)</tspan></text>
+<text fill="#435FA7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="217" y="535.854">AS3486-10</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="217" y="555.16">NUT</tspan></text>
+<rect x="217.5" y="563.5" width="65" height="14" rx="4.5" fill="#FFEBEB"/>
+<rect x="217.5" y="563.5" width="65" height="14" rx="4.5" stroke="#FFC4C4"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="222.388" y="573.967">SHORTAGE</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1158.55" y="560.547">8</tspan></text>
+<rect x="1410.5" y="569.5" width="59" height="14" rx="2.5" fill="#F4F4F4"/>
+<rect x="1410.5" y="569.5" width="59" height="14" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#696967" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1418.03" y="579.967">2 vendors</tspan></text>
+<g clip-path="url(#clip4_4383_9582)">
+<rect x="1000" y="535" width="96" height="7" rx="2.57944" fill="#EFEFEF"/>
+<rect x="1000" y="535.027" width="26.8269" height="6.94737" fill="#0AE09E"/>
+<mask id="path-112-inside-7_4383_9582" fill="white">
+<path d="M1027 535H1067V542H1027V535Z"/>
+</mask>
+<path d="M1027 535H1067V542H1027V535Z" fill="#4C7FFF"/>
+<path d="M1027 542H1027.26V535H1027H1026.74V542H1027Z" fill="white" mask="url(#path-112-inside-7_4383_9582)"/>
+<mask id="path-114-inside-8_4383_9582" fill="white">
+<path d="M1067 535H1096V542H1067V535Z"/>
+</mask>
+<path d="M1067 535H1096V542H1067V535Z" fill="#DEDEDE"/>
+<path d="M1067 542H1067.26V535H1067H1066.74V542H1067Z" fill="white" mask="url(#path-114-inside-8_4383_9582)"/>
+</g>
+<rect x="1000" y="544" width="96" height="5" rx="1.84246" fill="#EFEFEF"/>
+<rect x="1000" y="544" width="22" height="5" fill="#F06A6A"/>
+<path d="M1022 544H1091V549H1022V544Z" fill="#EFEFEF"/>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1000.06" y="561.12">NEW: </tspan></text>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1025.92" y="561.12">10</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1071.5" y="561.12">6</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1046.49" y="561.12">USM: </tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1018.76" y="571.12">-8</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1000.24" y="571.12">DO: </tspan></text>
+<mask id="path-122-inside-9_4383_9582" fill="white">
+<path d="M76 596H1879V664H76V596Z"/>
+</mask>
+<path d="M1879 664V663H76V664V665H1879V664Z" fill="#F4F4F4" mask="url(#path-122-inside-9_4383_9582)"/>
+<rect x="107.5" y="621.5" width="49" height="17" rx="4.5" fill="#FFF1CC" stroke="#FFD4AE"/>
+<text fill="#E09429" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="123.162" y="634.854">HL</tspan></text>
+<rect x="760.5" y="622.34" width="75" height="19" rx="2.5" fill="#E5F0FF"/>
+<rect x="760.5" y="622.34" width="75" height="19" rx="2.5" stroke="#A8C1FF"/>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="768" y="636.693">GV</tspan></text>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="787.715" y="636.693">: </tspan></text>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="795.508" y="636.693">+5</tspan></text>
+<rect x="618.5" y="623.34" width="49" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="652.508" y="636.693">3</tspan></text>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="625" y="636.693">GV: </tspan></text>
+<text fill="#435FA7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="217.285" y="618.854">J626P04</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="217.285" y="638.16">NUT-SLFLKG  (FOR CFM56/</tspan><tspan x="217.285" y="652.16">LP-1A/1B)</tspan></text>
+<rect x="520.5" y="623.34" width="48" height="17" rx="4.5" fill="#FFF6E4"/>
+<rect x="520.5" y="623.34" width="48" height="17" rx="4.5" stroke="#FFDD81"/>
+<text fill="#DF9732" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="532.148" y="636">High</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="412.311" y="635.693">CFM56-7</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="907.207" y="639.416">24</tspan></text>
+<rect x="930.5" y="623.34" width="23" height="22.4442" rx="4.5" fill="#F4F4F4"/>
+<rect x="930.5" y="623.34" width="23" height="22.4442" rx="4.5" stroke="#C0C0C0"/>
+<path d="M942.842 631.201V634.245L945.372 635.762C945.499 635.839 945.591 635.963 945.627 636.107C945.663 636.251 945.64 636.404 945.563 636.531C945.487 636.658 945.363 636.75 945.219 636.786C945.075 636.822 944.922 636.799 944.795 636.723L941.994 635.042C941.911 634.993 941.842 634.922 941.795 634.838C941.747 634.754 941.722 634.659 941.722 634.562V631.201C941.722 631.052 941.781 630.91 941.886 630.805C941.991 630.7 942.134 630.641 942.282 630.641C942.431 630.641 942.573 630.7 942.678 630.805C942.783 630.91 942.842 631.052 942.842 631.201ZM942.282 627.84C941.399 627.838 940.523 628.011 939.707 628.349C938.891 628.687 938.149 629.184 937.526 629.811C937.017 630.326 936.565 630.822 936.12 631.341V630.081C936.12 629.932 936.061 629.79 935.956 629.684C935.851 629.579 935.709 629.52 935.56 629.52C935.412 629.52 935.269 629.579 935.164 629.684C935.059 629.79 935 629.932 935 630.081V632.881C935 633.03 935.059 633.172 935.164 633.278C935.269 633.383 935.412 633.442 935.56 633.442H938.361C938.51 633.442 938.652 633.383 938.757 633.278C938.862 633.172 938.921 633.03 938.921 632.881C938.921 632.733 938.862 632.59 938.757 632.485C938.652 632.38 938.51 632.321 938.361 632.321H936.751C937.251 631.732 937.75 631.176 938.318 630.601C939.097 629.822 940.088 629.29 941.167 629.072C942.246 628.853 943.365 628.957 944.386 629.371C945.406 629.785 946.281 630.491 946.903 631.399C947.525 632.308 947.865 633.38 947.881 634.481C947.896 635.582 947.588 636.663 946.993 637.589C946.398 638.516 945.543 639.246 944.535 639.689C943.527 640.133 942.411 640.269 941.326 640.082C940.241 639.894 939.235 639.392 938.435 638.636C938.381 638.585 938.318 638.546 938.249 638.519C938.181 638.493 938.107 638.481 938.034 638.483C937.96 638.485 937.888 638.502 937.82 638.532C937.753 638.562 937.692 638.605 937.642 638.658C937.591 638.712 937.552 638.775 937.526 638.844C937.499 638.912 937.487 638.986 937.489 639.059C937.491 639.133 937.508 639.205 937.538 639.272C937.568 639.34 937.611 639.4 937.664 639.451C938.462 640.204 939.432 640.75 940.49 641.042C941.547 641.334 942.66 641.362 943.731 641.125C944.802 640.888 945.799 640.392 946.634 639.681C947.47 638.97 948.119 638.066 948.524 637.046C948.93 636.027 949.079 634.924 948.96 633.833C948.841 632.743 948.457 631.698 947.842 630.79C947.226 629.882 946.398 629.138 945.429 628.624C944.459 628.11 943.379 627.841 942.282 627.84Z" fill="#C0C0C0"/>
+<path d="M1267 607.5H1277C1280.04 607.5 1282.5 609.962 1282.5 613V623C1282.5 626.038 1280.04 628.5 1277 628.5H1267C1263.96 628.5 1261.5 626.038 1261.5 623V613C1261.5 609.962 1263.96 607.5 1267 607.5Z" fill="#F5F5F5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1293" y="611.967">Recommend</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1304.69" y="629.854">EA</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1293" y="629.854">4 </tspan></text>
+<path d="M1372 618L1363 623.196V612.804L1372 618Z" fill="#D9D9D9"/>
+<rect x="1269.5" y="638.5" width="94" height="14" rx="2.5" fill="#FFEBEB"/>
+<rect x="1269.5" y="638.5" width="94" height="14" rx="2.5" stroke="#FFC4C4"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1274.21" y="648.967">Not available in cat</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1410" y="611.967">Recommend</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1429.48" y="629.854">EA</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="629.854">24 </tspan></text>
+<path d="M1489 618L1480 623.196V612.804L1489 618Z" fill="#D9D9D9"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1158.55" y="636.547">8</tspan></text>
+<rect x="1410.5" y="638.5" width="59" height="14" rx="2.5" fill="#F4F4F4"/>
+<rect x="1410.5" y="638.5" width="59" height="14" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#696967" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1418.03" y="648.967">2 vendors</tspan></text>
+<g clip-path="url(#clip5_4383_9582)">
+<rect x="1000" y="611" width="100" height="7" rx="2.57944" fill="#EFEFEF"/>
+<rect x="1000" y="611.027" width="26.8269" height="6.94737" fill="#0AE09E"/>
+<mask id="path-152-inside-10_4383_9582" fill="white">
+<path d="M1027 611H1040V618H1027V611Z"/>
+</mask>
+<path d="M1027 611H1040V618H1027V611Z" fill="#4C7FFF"/>
+<path d="M1027 618H1027.26V611H1027H1026.74V618H1027Z" fill="white" mask="url(#path-152-inside-10_4383_9582)"/>
+<mask id="path-154-inside-11_4383_9582" fill="white">
+<path d="M1040 611H1100V618H1040V611Z"/>
+</mask>
+<path d="M1040 611H1100V618H1040V611Z" fill="#DEDEDE"/>
+<path d="M1040 618H1040.26V611H1040H1039.74V618H1040Z" fill="white" mask="url(#path-154-inside-11_4383_9582)"/>
+</g>
+<rect x="1000" y="620" width="100" height="5" rx="1.84246" fill="#EFEFEF"/>
+<rect x="1000" y="620" width="27" height="5" fill="#F06A6A"/>
+<path d="M1027 620H1091V625H1027V620Z" fill="#EFEFEF"/>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1000.06" y="637.12">NEW: </tspan></text>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1025.92" y="637.12">10</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1071.5" y="637.12">6</tspan></text>
+<text fill="#4C7FFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1046.49" y="637.12">USM: </tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1018.76" y="647.12">-8</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1000.24" y="647.12">DO: </tspan></text>
+<mask id="path-162-inside-12_4383_9582" fill="white">
+<path d="M76 664H1879V732H76V664Z"/>
+</mask>
+<path d="M1879 732V731H76V732V733H1879V732Z" fill="#F4F4F4" mask="url(#path-162-inside-12_4383_9582)"/>
+<rect x="107.5" y="689.5" width="49" height="17" rx="4.5" fill="#FFEBEC" stroke="#FFC5EC"/>
+<text fill="#BC74A4" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="122.383" y="702.854">HH</tspan></text>
+<rect x="517.5" y="689.5" width="48" height="17" rx="4.5" fill="#FFEBEB"/>
+<rect x="517.5" y="689.5" width="48" height="17" rx="4.5" stroke="#FFC4C4"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="523.148" y="702.16">Critical</tspan></text>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="779.104" y="702.854">0</tspan></text>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="618.104" y="702.854">0</tspan></text>
+<path d="M1267 678.5H1277C1280.04 678.5 1282.5 680.962 1282.5 684V694C1282.5 697.038 1280.04 699.5 1277 699.5H1267C1263.96 699.5 1261.5 697.038 1261.5 694V684C1261.5 680.962 1263.96 678.5 1267 678.5Z" fill="#F5F5F5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1293" y="682.967">Recommend</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1312.48" y="700.854">EA</tspan></text>
+<text fill="#059669" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1293" y="700.854">24 </tspan></text>
+<path d="M1372 689L1363 694.196V683.804L1372 689Z" fill="#D9D9D9"/>
+<rect x="1265.5" y="709.5" width="102" height="14" rx="2.5" fill="#F4F4F4"/>
+<rect x="1265.5" y="709.5" width="102" height="14" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#696967" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1273.49" y="719.967">GE Aviation (CFMI)</tspan></text>
+<text fill="#435FA7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="218" y="693.854">J1215P16</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="218" y="713.16">GASKET-SEAL</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="411.311" y="702.854">CFM56-7</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="911.104" y="703.576">5</tspan></text>
+<rect x="930.5" y="687.5" width="23" height="22.4442" rx="4.5" fill="#F4F4F4"/>
+<rect x="930.5" y="687.5" width="23" height="22.4442" rx="4.5" stroke="#C0C0C0"/>
+<path d="M942.842 695.361V698.405L945.372 699.922C945.499 699.999 945.591 700.123 945.627 700.267C945.663 700.411 945.64 700.564 945.563 700.691C945.487 700.819 945.363 700.91 945.219 700.946C945.075 700.982 944.922 700.96 944.795 700.883L941.994 699.202C941.911 699.153 941.842 699.082 941.795 698.998C941.747 698.914 941.722 698.819 941.722 698.722V695.361C941.722 695.213 941.781 695.07 941.886 694.965C941.991 694.86 942.134 694.801 942.282 694.801C942.431 694.801 942.573 694.86 942.678 694.965C942.783 695.07 942.842 695.213 942.842 695.361ZM942.282 692C941.399 691.998 940.523 692.171 939.707 692.509C938.891 692.848 938.149 693.344 937.526 693.971C937.017 694.486 936.565 694.982 936.12 695.501V694.241C936.12 694.092 936.061 693.95 935.956 693.845C935.851 693.74 935.709 693.681 935.56 693.681C935.412 693.681 935.269 693.74 935.164 693.845C935.059 693.95 935 694.092 935 694.241V697.042C935 697.19 935.059 697.333 935.164 697.438C935.269 697.543 935.412 697.602 935.56 697.602H938.361C938.51 697.602 938.652 697.543 938.757 697.438C938.862 697.333 938.921 697.19 938.921 697.042C938.921 696.893 938.862 696.751 938.757 696.645C938.652 696.54 938.51 696.481 938.361 696.481H936.751C937.251 695.892 937.75 695.337 938.318 694.761C939.097 693.982 940.088 693.451 941.167 693.232C942.246 693.013 943.365 693.117 944.386 693.531C945.406 693.945 946.281 694.651 946.903 695.56C947.525 696.468 947.865 697.54 947.881 698.641C947.896 699.742 947.588 700.823 946.993 701.749C946.398 702.676 945.543 703.406 944.535 703.85C943.527 704.293 942.411 704.429 941.326 704.242C940.241 704.055 939.235 703.552 938.435 702.796C938.381 702.745 938.318 702.706 938.249 702.68C938.181 702.653 938.107 702.641 938.034 702.643C937.96 702.645 937.888 702.662 937.82 702.692C937.753 702.722 937.692 702.765 937.642 702.818C937.591 702.872 937.552 702.935 937.526 703.004C937.499 703.072 937.487 703.146 937.489 703.219C937.491 703.293 937.508 703.365 937.538 703.433C937.568 703.5 937.611 703.56 937.664 703.611C938.462 704.364 939.432 704.91 940.49 705.202C941.547 705.494 942.66 705.522 943.731 705.285C944.802 705.048 945.799 704.552 946.634 703.841C947.47 703.13 948.119 702.226 948.524 701.206C948.93 700.187 949.079 699.084 948.96 697.993C948.841 696.903 948.457 695.858 947.842 694.95C947.226 694.042 946.398 693.298 945.429 692.784C944.459 692.27 943.379 692.001 942.282 692Z" fill="#C0C0C0"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1410" y="683.967">Recommend</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1429.48" y="701.854">EA</tspan></text>
+<text fill="#336DFF" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="701.854">24 </tspan></text>
+<path d="M1489 690L1480 695.196V684.804L1489 690Z" fill="#D9D9D9"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="1158.55" y="704.547">8</tspan></text>
+<rect x="1410.5" y="708.5" width="67" height="14" rx="2.5" fill="#FFEBEB"/>
+<rect x="1410.5" y="708.5" width="67" height="14" rx="2.5" stroke="#FFC4C4"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="1415.06" y="718.967">Not available</tspan></text>
+<g clip-path="url(#clip6_4383_9582)">
+<rect x="1000" y="684" width="95" height="7" rx="2.57944" fill="#EFEFEF"/>
+<rect x="1000" y="684.027" width="26.8269" height="6.94737" fill="#0AE09E"/>
+<mask id="path-190-inside-13_4383_9582" fill="white">
+<path d="M1027 684H1095V691H1027V684Z"/>
+</mask>
+<path d="M1027 684H1095V691H1027V684Z" fill="#DEDEDE"/>
+<path d="M1027 691H1027.26V684H1027H1026.74V691H1027Z" fill="white" mask="url(#path-190-inside-13_4383_9582)"/>
+</g>
+<g clip-path="url(#clip7_4383_9582)">
+<rect x="1000" y="693" width="95" height="5" rx="1.84246" fill="#EFEFEF"/>
+<rect x="1000" y="693" width="21" height="5" fill="#F06A6A"/>
+<path d="M1021 693H1095V698H1021V693Z" fill="#EFEFEF"/>
+</g>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1000.06" y="710.12">NEW: </tspan></text>
+<text fill="#0AA978" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1025.92" y="710.12">10</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" font-weight="bold" letter-spacing="0em"><tspan x="1064.76" y="710.12">-8</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="9" letter-spacing="0em"><tspan x="1046.24" y="710.12">DO: </tspan></text>
+</g>
+</g>
+<rect x="76.5" y="388.5" width="1802" height="343" rx="9.5" stroke="#EEEEEF"/>
+<path d="M106.75 133.438H84.25C83.6533 133.438 83.081 133.675 82.659 134.097C82.2371 134.518 82 135.091 82 135.688V143.562C82 150.976 85.5888 155.469 88.5995 157.933C91.8423 160.585 95.0683 161.485 95.2089 161.523C95.4023 161.576 95.6062 161.576 95.7995 161.523C95.9402 161.485 99.1619 160.585 102.409 157.933C105.411 155.469 109 150.976 109 143.562V135.688C109 135.091 108.763 134.518 108.341 134.097C107.919 133.675 107.347 133.438 106.75 133.438ZM106.75 143.562C106.75 148.775 104.829 153.007 101.041 156.137C99.3915 157.495 97.5159 158.552 95.5 159.259C93.5104 158.564 91.6581 157.526 90.0269 156.192C86.1934 153.056 84.25 148.808 84.25 143.562V135.688H106.75V143.562ZM89.0791 147.733C88.868 147.522 88.7494 147.236 88.7494 146.938C88.7494 146.639 88.868 146.353 89.0791 146.142C89.2902 145.93 89.5765 145.812 89.875 145.812C90.1735 145.812 90.4598 145.93 90.6709 146.142L93.25 148.722L100.329 141.642C100.434 141.537 100.558 141.454 100.694 141.398C100.831 141.341 100.977 141.312 101.125 141.312C101.273 141.312 101.419 141.341 101.556 141.398C101.692 141.454 101.816 141.537 101.921 141.642C102.025 141.746 102.108 141.87 102.165 142.007C102.222 142.143 102.251 142.29 102.251 142.438C102.251 142.585 102.222 142.732 102.165 142.868C102.108 143.005 102.025 143.129 101.921 143.233L94.0459 151.108C93.9415 151.213 93.8174 151.296 93.6808 151.353C93.5442 151.409 93.3978 151.438 93.25 151.438C93.1022 151.438 92.9558 151.409 92.8192 151.353C92.6826 151.296 92.5585 151.213 92.4541 151.108L89.0791 147.733Z" fill="#034FA7"/>
+<text fill="#034FA7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="34" font-weight="bold" letter-spacing="0em"><tspan x="119" y="159.287">Materials Provisioning</tspan></text>
+<line x1="76" y1="233.5" x2="1879" y2="233.5" stroke="#F4F4F4"/>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="101.209" y="214.434">Materials List</tspan></text>
+<line x1="73.1738" y1="233.5" x2="256.174" y2="233.5" stroke="#034FA7" stroke-width="3"/>
+<path d="M298.174 202.399L296.507 207.5H286.821M297.34 210.414H287.34L285.674 200.941H283.174M288.174 213.329C288.174 213.731 287.801 214.058 287.34 214.058C286.88 214.058 286.507 213.731 286.507 213.329C286.507 212.927 286.88 212.6 287.34 212.6C287.801 212.6 288.174 212.927 288.174 213.329ZM297.34 213.329C297.34 213.731 296.967 214.058 296.507 214.058C296.047 214.058 295.674 213.731 295.674 213.329C295.674 212.927 296.047 212.6 296.507 212.6C296.967 212.6 297.34 212.927 297.34 213.329Z" stroke="#878682" stroke-width="1.22965" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" letter-spacing="0em"><tspan x="308.256" y="214.434">Submission Cart (2)</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" letter-spacing="0em"><tspan x="514.67" y="214.434">Approval Monitoring</tspan></text>
+<rect width="245" height="63" transform="translate(723 961)" fill="white"/>
+<text fill="#9E9E9E" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="739" y="996.66">Previous</tspan></text>
+<rect x="798" y="977" width="31" height="31" rx="8" fill="#624DE3"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="810.16" y="996.16">1</tspan></text>
+<rect x="841" y="977" width="31" height="31" rx="8" fill="#E0E0E0"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="853.16" y="996.16">2</tspan></text>
+<rect x="884" y="977" width="31" height="31" rx="8" fill="#E0E0E0"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="896.16" y="996.16">3</tspan></text>
+<text fill="#9E9E9E" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="927" y="996.66">Next</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1059" y="997.854">Displaying 1-4 out of 4</tspan></text>
+<rect x="980.25" y="978.25" width="54.5" height="29.5" rx="4.75" fill="white" stroke="#C0C0C0" stroke-width="0.5"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="989" y="997.854">10</tspan></text>
+<path d="M1021.8 996L1026.81 990.75H1016.78L1021.8 996Z" fill="#C0C0C0"/>
+<rect width="41" height="1024" fill="url(#paint0_linear_4383_9582)"/>
+<rect width="41" height="1024" fill="black" fill-opacity="0.1"/>
+<path d="M1618 211.571C1617.32 211.571 1616.66 211.773 1616.1 212.149C1615.53 212.526 1615.09 213.061 1614.83 213.688C1614.57 214.314 1614.51 215.004 1614.64 215.669C1614.77 216.334 1615.1 216.945 1615.58 217.424C1616.06 217.903 1616.67 218.23 1617.33 218.362C1618 218.495 1618.69 218.427 1619.31 218.167C1619.94 217.908 1620.47 217.468 1620.85 216.905C1621.23 216.341 1621.43 215.678 1621.43 215C1621.43 214.091 1621.07 213.219 1620.42 212.577C1619.78 211.934 1618.91 211.572 1618 211.571ZM1618 217.285C1617.55 217.285 1617.11 217.151 1616.73 216.9C1616.36 216.649 1616.06 216.292 1615.89 215.874C1615.72 215.457 1615.67 214.997 1615.76 214.554C1615.85 214.111 1616.06 213.703 1616.38 213.384C1616.7 213.064 1617.11 212.846 1617.55 212.758C1618 212.67 1618.46 212.715 1618.88 212.888C1619.29 213.061 1619.65 213.354 1619.9 213.73C1620.15 214.106 1620.29 214.548 1620.29 215C1620.29 215.606 1620.05 216.187 1619.62 216.616C1619.19 217.045 1618.61 217.285 1618 217.285ZM1625.85 213.515C1625.84 213.434 1625.8 213.358 1625.76 213.292C1625.71 213.225 1625.65 213.17 1625.58 213.129L1623.44 211.915L1623.44 209.514C1623.44 209.431 1623.42 209.349 1623.38 209.274C1623.35 209.199 1623.3 209.133 1623.23 209.08C1622.46 208.426 1621.57 207.925 1620.61 207.603C1620.54 207.578 1620.46 207.568 1620.38 207.575C1620.3 207.583 1620.22 207.606 1620.15 207.645L1618 208.847L1615.85 207.643C1615.78 207.604 1615.7 207.58 1615.62 207.573C1615.54 207.565 1615.46 207.575 1615.39 207.6C1614.43 207.924 1613.54 208.427 1612.77 209.082C1612.7 209.136 1612.65 209.202 1612.62 209.277C1612.58 209.352 1612.57 209.433 1612.57 209.516L1612.55 211.919L1610.42 213.134C1610.35 213.174 1610.29 213.23 1610.24 213.296C1610.2 213.363 1610.16 213.439 1610.15 213.519C1609.95 214.499 1609.95 215.508 1610.15 216.488C1610.16 216.568 1610.2 216.644 1610.24 216.711C1610.29 216.777 1610.35 216.833 1610.42 216.873L1612.55 218.087L1612.56 220.489C1612.56 220.571 1612.58 220.653 1612.62 220.728C1612.65 220.803 1612.7 220.87 1612.77 220.923C1613.54 221.577 1614.43 222.078 1615.39 222.399C1615.46 222.425 1615.54 222.434 1615.62 222.427C1615.7 222.42 1615.78 222.396 1615.85 222.357L1618 221.153L1620.15 222.356C1620.24 222.404 1620.33 222.428 1620.43 222.428C1620.49 222.428 1620.55 222.418 1620.61 222.398C1621.57 222.074 1622.46 221.572 1623.23 220.917C1623.3 220.864 1623.35 220.797 1623.38 220.723C1623.42 220.648 1623.44 220.566 1623.44 220.484L1623.45 218.08L1625.58 216.866C1625.65 216.826 1625.71 216.77 1625.76 216.704C1625.81 216.637 1625.84 216.561 1625.86 216.48C1626.05 215.501 1626.05 214.494 1625.85 213.515ZM1624.78 216.008L1622.74 217.169C1622.65 217.22 1622.58 217.294 1622.53 217.383C1622.49 217.455 1622.44 217.53 1622.4 217.602C1622.34 217.692 1622.31 217.796 1622.31 217.902L1622.3 220.206C1621.75 220.637 1621.14 220.981 1620.49 221.227L1618.43 220.08C1618.34 220.033 1618.25 220.008 1618.15 220.009H1618.14C1618.05 220.009 1617.96 220.009 1617.88 220.009C1617.77 220.006 1617.67 220.031 1617.58 220.08L1615.52 221.23C1614.87 220.986 1614.26 220.643 1613.71 220.214L1613.7 217.914C1613.7 217.807 1613.67 217.703 1613.61 217.612C1613.57 217.541 1613.52 217.47 1613.48 217.394C1613.43 217.303 1613.36 217.228 1613.27 217.175L1611.23 216.012C1611.12 215.343 1611.12 214.662 1611.23 213.993L1613.26 212.831C1613.35 212.78 1613.43 212.706 1613.48 212.616C1613.52 212.545 1613.56 212.469 1613.61 212.398C1613.66 212.308 1613.69 212.204 1613.69 212.097L1613.7 209.794C1614.25 209.363 1614.86 209.019 1615.52 208.772L1617.57 209.919C1617.66 209.969 1617.76 209.994 1617.86 209.991C1617.95 209.991 1618.04 209.991 1618.12 209.991C1618.23 209.993 1618.33 209.969 1618.42 209.919L1620.48 208.77C1621.13 209.014 1621.74 209.357 1622.29 209.786L1622.3 212.086C1622.3 212.192 1622.33 212.297 1622.39 212.387C1622.43 212.459 1622.48 212.53 1622.52 212.606C1622.57 212.696 1622.64 212.772 1622.73 212.824L1624.78 213.988C1624.88 214.657 1624.88 215.339 1624.78 216.008H1624.78Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1631.48" y="219.854">Global Settings</tspan></text>
+<line x1="1749.5" y1="206" x2="1749.5" y2="224" stroke="#C0C0C0"/>
+<path d="M1786 217.481V222.481C1786 222.647 1785.93 222.806 1785.82 222.923C1785.7 223.04 1785.54 223.106 1785.38 223.106H1771.62C1771.46 223.106 1771.3 223.04 1771.18 222.923C1771.07 222.806 1771 222.647 1771 222.481V217.481C1771 217.315 1771.07 217.156 1771.18 217.039C1771.3 216.922 1771.46 216.856 1771.62 216.856C1771.79 216.856 1771.95 216.922 1772.07 217.039C1772.18 217.156 1772.25 217.315 1772.25 217.481V221.856H1784.75V217.481C1784.75 217.315 1784.82 217.156 1784.93 217.039C1785.05 216.922 1785.21 216.856 1785.38 216.856C1785.54 216.856 1785.7 216.922 1785.82 217.039C1785.93 217.156 1786 217.315 1786 217.481ZM1775.82 212.298L1777.88 210.24V217.481C1777.88 217.647 1777.94 217.806 1778.06 217.923C1778.18 218.04 1778.33 218.106 1778.5 218.106C1778.67 218.106 1778.82 218.04 1778.94 217.923C1779.06 217.806 1779.12 217.647 1779.12 217.481V210.24L1781.18 212.298C1781.3 212.415 1781.46 212.481 1781.62 212.481C1781.79 212.481 1781.95 212.415 1782.07 212.298C1782.18 212.181 1782.25 212.022 1782.25 211.856C1782.25 211.69 1782.18 211.531 1782.07 211.414L1778.94 208.289C1778.88 208.231 1778.82 208.185 1778.74 208.153C1778.66 208.122 1778.58 208.105 1778.5 208.105C1778.42 208.105 1778.34 208.122 1778.26 208.153C1778.18 208.185 1778.12 208.231 1778.06 208.289L1774.93 211.414C1774.82 211.531 1774.75 211.69 1774.75 211.856C1774.75 212.022 1774.82 212.181 1774.93 212.298C1775.05 212.415 1775.21 212.481 1775.38 212.481C1775.54 212.481 1775.7 212.415 1775.82 212.298Z" fill="#7C3CC0"/>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1798.1" y="219.746">Data Upload</tspan></text>
+<g filter="url(#filter0_d_4383_9582)">
+<rect x="562" y="869" width="797" height="63" rx="31.5" fill="#46209E"/>
+<rect x="1141" y="882" width="207" height="40" rx="20" fill="#48C74C"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1199.36" y="906.854">Add to Cart</tspan></text>
+<path d="M1331.57 895.75L1337.48 901.875L1331.57 908" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#C1BDC7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="1062.65" y="897.16">Clear </tspan><tspan x="1052.3" y="911.16">Selection</tspan></text>
+<line x1="1018.5" y1="886" x2="1018.5" y2="919" stroke="#C1BDC7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M587.444 902.502C587.444 901.136 587.77 899.79 588.397 898.575C589.023 897.361 589.931 896.315 591.045 895.524C592.159 894.733 593.446 894.22 594.798 894.028C596.151 893.836 597.529 893.971 598.819 894.421C599.125 894.528 599.461 894.508 599.753 894.367C600.045 894.226 600.269 893.975 600.376 893.669C600.482 893.363 600.463 893.027 600.322 892.735C600.181 892.443 599.93 892.219 599.623 892.112C597.371 891.326 594.925 891.294 592.653 892.02C590.381 892.746 588.406 894.191 587.026 896.137C585.647 898.083 584.937 900.425 585.004 902.809C585.072 905.194 585.912 907.492 587.399 909.357C588.886 911.223 590.939 912.554 593.248 913.151C595.557 913.748 597.998 913.578 600.203 912.666C602.407 911.755 604.255 910.152 605.469 908.098C606.683 906.044 607.196 903.652 606.932 901.281C606.915 901.122 606.866 900.967 606.788 900.826C606.711 900.686 606.607 900.562 606.481 900.461C606.356 900.361 606.212 900.286 606.058 900.242C605.904 900.197 605.743 900.183 605.583 900.201C605.423 900.218 605.269 900.267 605.128 900.344C604.988 900.422 604.864 900.526 604.763 900.651C604.663 900.777 604.588 900.921 604.544 901.075C604.499 901.229 604.485 901.39 604.503 901.55C604.631 902.706 604.523 903.877 604.184 904.99C603.845 906.102 603.283 907.135 602.532 908.023C601.781 908.911 600.856 909.637 599.815 910.156C598.774 910.674 597.638 910.975 596.476 911.04C595.315 911.105 594.152 910.932 593.06 910.533C591.968 910.133 590.968 909.515 590.123 908.716C589.277 907.916 588.604 906.953 588.143 905.885C587.683 904.817 587.445 903.666 587.444 902.502ZM605.472 895.977C605.686 895.734 605.796 895.416 605.775 895.092C605.755 894.768 605.607 894.466 605.364 894.251C605.121 894.037 604.803 893.927 604.479 893.948C604.155 893.968 603.853 894.116 603.638 894.359L595.773 903.258L591.883 900.088C591.759 899.987 591.616 899.911 591.462 899.865C591.308 899.818 591.147 899.803 590.987 899.819C590.665 899.852 590.368 900.012 590.163 900.263C590.062 900.387 589.986 900.53 589.94 900.684C589.894 900.838 589.878 900.999 589.895 901.159C589.927 901.482 590.087 901.778 590.338 901.983L595.14 905.894C595.385 906.093 595.697 906.19 596.011 906.164C596.326 906.139 596.618 905.992 596.827 905.756L605.472 895.977Z" fill="#48C74C"/>
+<text fill="#48C74C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="625" y="907.354">1</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="643" y="907.354">NEW selected</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="902.055" y="909.32">$57.90</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="975.531" y="909.32"> USD</tspan></text>
+</g>
+<rect x="76.5" y="249.5" width="166" height="66" rx="9.5" fill="#F2F2F2"/>
+<rect x="76.5" y="249.5" width="166" height="66" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="91" y="274.16">Total parts:</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="91" y="297.434">175</tspan></text>
+<rect x="253.5" y="249.5" width="166" height="66" rx="9.5" fill="#F2F2F2"/>
+<rect x="253.5" y="249.5" width="166" height="66" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="268" y="274.16">Historical data (mths):</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="268" y="297.434">24</tspan></text>
+<rect x="430.5" y="249.5" width="191" height="66" rx="9.5" fill="#FFEBEC"/>
+<rect x="430.5" y="249.5" width="191" height="66" rx="9.5" stroke="#FFC4C4"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="454" y="272.16">Critical</tspan></text>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="454" y="299.32">2</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="10" letter-spacing="0em"><tspan x="474" y="294.467">Require immediate action</tspan></text>
+<rect x="632.5" y="249.5" width="191" height="66" rx="9.5" fill="#FFF1CC"/>
+<rect x="632.5" y="249.5" width="191" height="66" rx="9.5" stroke="#FFDD81"/>
+<text fill="#E09429" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="656" y="272.16">High</tspan></text>
+<text fill="#E09429" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="656" y="299.32">1</tspan></text>
+<rect x="834.5" y="249.5" width="191" height="66" rx="9.5" fill="#E5F0FF"/>
+<rect x="834.5" y="249.5" width="191" height="66" rx="9.5" stroke="#A8C1FF"/>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="858" y="272.16">Medium</tspan></text>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="858" y="299.32">0</tspan></text>
+<rect x="1036.5" y="249.5" width="191" height="66" rx="9.5" fill="#F4F4F4"/>
+<rect x="1036.5" y="249.5" width="191" height="66" rx="9.5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1060" y="272.16">Low</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="1060" y="299.32">0</tspan></text>
+<path d="M1817 302C1815.62 302 1814.26 302.411 1813.11 303.18C1811.96 303.949 1811.06 305.042 1810.53 306.321C1810 307.6 1809.86 309.008 1810.13 310.366C1810.4 311.723 1811.07 312.971 1812.05 313.95C1813.03 314.929 1814.28 315.595 1815.63 315.865C1816.99 316.136 1818.4 315.997 1819.68 315.467C1820.96 314.937 1822.05 314.04 1822.82 312.889C1823.59 311.738 1824 310.384 1824 309C1824 307.144 1823.26 305.365 1821.95 304.052C1820.64 302.74 1818.86 302.002 1817 302ZM1817 314.923C1815.83 314.923 1814.68 314.576 1813.71 313.925C1812.74 313.274 1811.98 312.349 1811.53 311.267C1811.08 310.184 1810.96 308.993 1811.19 307.844C1811.42 306.695 1811.98 305.64 1812.81 304.812C1813.64 303.983 1814.7 303.419 1815.84 303.191C1816.99 302.962 1818.18 303.079 1819.27 303.528C1820.35 303.976 1821.27 304.735 1821.92 305.709C1822.58 306.683 1822.92 307.829 1822.92 309C1822.92 310.57 1822.3 312.076 1821.19 313.186C1820.08 314.297 1818.57 314.921 1817 314.923ZM1820.23 309C1820.23 309.143 1820.17 309.28 1820.07 309.381C1819.97 309.482 1819.84 309.538 1819.69 309.538H1817.54V311.692C1817.54 311.835 1817.48 311.972 1817.38 312.073C1817.28 312.174 1817.14 312.231 1817 312.231C1816.86 312.231 1816.72 312.174 1816.62 312.073C1816.52 311.972 1816.46 311.835 1816.46 311.692V309.538H1814.31C1814.16 309.538 1814.03 309.482 1813.93 309.381C1813.83 309.28 1813.77 309.143 1813.77 309C1813.77 308.857 1813.83 308.72 1813.93 308.619C1814.03 308.518 1814.16 308.462 1814.31 308.462H1816.46V306.308C1816.46 306.165 1816.52 306.028 1816.62 305.927C1816.72 305.826 1816.86 305.769 1817 305.769C1817.14 305.769 1817.28 305.826 1817.38 305.927C1817.48 306.028 1817.54 306.165 1817.54 306.308V308.462H1819.69C1819.84 308.462 1819.97 308.518 1820.07 308.619C1820.17 308.72 1820.23 308.857 1820.23 309Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1829" y="313.16">Add Part</tspan></text>
+<line x1="76" y1="323.5" x2="1880" y2="323.5" stroke="#F4F4F4"/>
+<rect x="76" y="332" width="232" height="34" rx="8" fill="#F6F6F6"/>
+<path d="M97.9121 342.596C97.8351 342.418 97.7076 342.267 97.5453 342.161C97.383 342.055 97.1932 341.999 96.9995 342H85.9981C85.8046 342 85.6153 342.057 85.4532 342.163C85.2912 342.269 85.1633 342.419 85.0851 342.596C85.007 342.773 84.9819 342.969 85.0129 343.16C85.044 343.352 85.1298 343.529 85.2599 343.673L85.2649 343.678L89.4986 348.199V353.001C89.4985 353.182 89.5476 353.36 89.6406 353.515C89.7336 353.671 89.8669 353.798 90.0265 353.883C90.1861 353.969 90.3658 354.009 90.5466 354.001C90.7274 353.992 90.9025 353.934 91.0531 353.834L93.0534 352.5C93.1905 352.409 93.3029 352.285 93.3807 352.14C93.4584 351.994 93.4991 351.832 93.499 351.667V348.199L97.7333 343.678L97.7383 343.673C97.8699 343.53 97.9565 343.352 97.9874 343.16C98.0183 342.969 97.9921 342.772 97.9121 342.596ZM92.6352 347.662C92.5487 347.754 92.5 347.875 92.4989 348.001V351.667L90.4987 353.001V348.001C90.4987 347.874 90.4505 347.752 90.3637 347.659L85.9981 343H96.9995L92.6352 347.662Z" fill="#7C3CC0"/>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="106" y="354.547">CFM56-7</tspan></text>
+<path d="M291.5 354.795L297.995 346.102H285.005L291.5 354.795Z" fill="#D4D4D4"/>
+<path d="M327 341C327 336.582 330.582 333 335 333H648C652.418 333 656 336.582 656 341V357C656 361.418 652.418 365 648 365H335C330.582 365 327 361.418 327 357V341Z" fill="#F6F6F6"/>
+<path d="M350.001 355.001L347.01 352.005L350.001 355.001ZM348.667 348.001C348.667 349.504 348.07 350.945 347.008 352.008C345.945 353.07 344.504 353.667 343.001 353.667C341.498 353.667 340.056 353.07 338.994 352.008C337.931 350.945 337.334 349.504 337.334 348.001C337.334 346.498 337.931 345.056 338.994 343.994C340.056 342.931 341.498 342.334 343.001 342.334C344.504 342.334 345.945 342.931 347.008 343.994C348.07 345.056 348.667 346.498 348.667 348.001V348.001Z" stroke="#878682" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="360" y="353.854">Search Part Number, Description</tspan></text>
+<rect x="675.5" y="340.5" width="17" height="17" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="700" y="353.16">Shortage parts only</tspan></text>
+<line x1="817.577" y1="337" x2="817.577" y2="361" stroke="#DDDDDD" stroke-width="1.1547"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="829" y="343.16">Categories</tspan></text>
+<path d="M832 348.5H876C877.381 348.5 878.5 349.619 878.5 351V363C878.5 364.381 877.381 365.5 876 365.5H832C830.619 365.5 829.5 364.381 829.5 363V351C829.5 349.619 830.619 348.5 832 348.5Z" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="844.383" y="361.854">HH</tspan></text>
+<path d="M886 348.5H930C931.381 348.5 932.5 349.619 932.5 351V363C932.5 364.381 931.381 365.5 930 365.5H886C884.619 365.5 883.5 364.381 883.5 363V351C883.5 349.619 884.619 348.5 886 348.5Z" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="899.162" y="361.854">HL</tspan></text>
+<path d="M940 348.5H984C985.381 348.5 986.5 349.619 986.5 351V363C986.5 364.381 985.381 365.5 984 365.5H940C938.619 365.5 937.5 364.381 937.5 363V351C937.5 349.619 938.619 348.5 940 348.5Z" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="953.162" y="361.854">LH</tspan></text>
+<path d="M994 348.5H1038C1039.38 348.5 1040.5 349.619 1040.5 351V363C1040.5 364.381 1039.38 365.5 1038 365.5H994C992.619 365.5 991.5 364.381 991.5 363V351C991.5 349.619 992.619 348.5 994 348.5Z" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1007.44" y="361.854">LL</tspan></text>
+<path d="M1048 348.5H1092C1093.38 348.5 1094.5 349.619 1094.5 351V363C1094.5 364.381 1093.38 365.5 1092 365.5H1048C1046.62 365.5 1045.5 364.381 1045.5 363V351C1045.5 349.619 1046.62 348.5 1048 348.5Z" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1056.38" y="361.854">ALL</tspan></text>
+<line x1="1107.58" y1="337" x2="1107.58" y2="361" stroke="#DDDDDD" stroke-width="1.1547"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="1119" y="343.16">Urgency</tspan></text>
+<rect x="1119.5" y="348.5" width="48" height="17" rx="4.5" fill="#FFEBEB"/>
+<rect x="1119.5" y="348.5" width="48" height="17" rx="4.5" stroke="#FFC4C4"/>
+<text fill="#E15C5C" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="1125.15" y="361.16">Critical</tspan></text>
+<rect x="1173.5" y="348.5" width="48" height="17" rx="4.5" fill="#FFF6E4"/>
+<rect x="1173.5" y="348.5" width="48" height="17" rx="4.5" stroke="#FFDD81"/>
+<text fill="#DF9732" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="1185.15" y="361.16">High</tspan></text>
+<rect x="1227.5" y="348.5" width="48" height="17" rx="2.5" fill="#E5F0FF"/>
+<rect x="1227.5" y="348.5" width="48" height="17" rx="2.5" stroke="#A8C1FF"/>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="1230.15" y="361.16">Medium</tspan></text>
+<rect x="1281.5" y="348.5" width="60" height="17" rx="2.5" fill="#F4F4F4"/>
+<rect x="1281.5" y="348.5" width="60" height="17" rx="2.5" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="1300.48" y="361.16">Low</tspan></text>
+<line x1="1354.58" y1="337" x2="1354.58" y2="361" stroke="#DDDDDD" stroke-width="1.1547"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="1366" y="343.16">Vendor push list availibility</tspan></text>
+<path d="M1369 348.5H1433C1434.38 348.5 1435.5 349.619 1435.5 351V363C1435.5 364.381 1434.38 365.5 1433 365.5H1369C1367.62 365.5 1366.5 364.381 1366.5 363V351C1366.5 349.619 1367.62 348.5 1369 348.5Z" fill="#F4F4F4"/>
+<path d="M1369 348.5H1433C1434.38 348.5 1435.5 349.619 1435.5 351V363C1435.5 364.381 1434.38 365.5 1433 365.5H1369C1367.62 365.5 1366.5 364.381 1366.5 363V351C1366.5 349.619 1367.62 348.5 1369 348.5Z" stroke="#DDDDDD"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1394.02" y="361.16">All</tspan></text>
+<path d="M1443 348.5H1507C1508.38 348.5 1509.5 349.619 1509.5 351V363C1509.5 364.381 1508.38 365.5 1507 365.5H1443C1441.62 365.5 1440.5 364.381 1440.5 363V351C1440.5 349.619 1441.62 348.5 1443 348.5Z" fill="#F4F4F4"/>
+<path d="M1443 348.5H1507C1508.38 348.5 1509.5 349.619 1509.5 351V363C1509.5 364.381 1508.38 365.5 1507 365.5H1443C1441.62 365.5 1440.5 364.381 1440.5 363V351C1440.5 349.619 1441.62 348.5 1443 348.5Z" stroke="#DDDDDD"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1449.54" y="361.16">Available</tspan></text>
+<path d="M1517 349.5H1590C1591.38 349.5 1592.5 350.619 1592.5 352V362C1592.5 363.381 1591.38 364.5 1590 364.5H1517C1515.62 364.5 1514.5 363.381 1514.5 362V352C1514.5 350.619 1515.62 349.5 1517 349.5Z" fill="#F4F4F4"/>
+<path d="M1517 349.5H1590C1591.38 349.5 1592.5 350.619 1592.5 352V362C1592.5 363.381 1591.38 364.5 1590 364.5H1517C1515.62 364.5 1514.5 363.381 1514.5 362V352C1514.5 350.619 1515.62 349.5 1517 349.5Z" stroke="#DDDDDD"/>
+<text fill="#C0C0C0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1520.12" y="361.16">Unavailable</tspan></text>
+<path d="M1796 350.875V355.875C1796 356.041 1795.93 356.2 1795.82 356.317C1795.7 356.434 1795.54 356.5 1795.38 356.5H1781.62C1781.46 356.5 1781.3 356.434 1781.18 356.317C1781.07 356.2 1781 356.041 1781 355.875V350.875C1781 350.709 1781.07 350.55 1781.18 350.433C1781.3 350.316 1781.46 350.25 1781.62 350.25C1781.79 350.25 1781.95 350.316 1782.07 350.433C1782.18 350.55 1782.25 350.709 1782.25 350.875V355.25H1794.75V350.875C1794.75 350.709 1794.82 350.55 1794.93 350.433C1795.05 350.316 1795.21 350.25 1795.38 350.25C1795.54 350.25 1795.7 350.316 1795.82 350.433C1795.93 350.55 1796 350.709 1796 350.875ZM1788.06 351.317C1788.12 351.375 1788.18 351.421 1788.26 351.453C1788.34 351.484 1788.42 351.5 1788.5 351.5C1788.58 351.5 1788.66 351.484 1788.74 351.453C1788.82 351.421 1788.88 351.375 1788.94 351.317L1792.07 348.192C1792.13 348.134 1792.17 348.065 1792.2 347.989C1792.23 347.913 1792.25 347.832 1792.25 347.75C1792.25 347.668 1792.23 347.587 1792.2 347.511C1792.17 347.435 1792.13 347.366 1792.07 347.308C1792.01 347.25 1791.94 347.204 1791.86 347.172C1791.79 347.141 1791.71 347.125 1791.62 347.125C1791.54 347.125 1791.46 347.141 1791.39 347.172C1791.31 347.204 1791.24 347.25 1791.18 347.308L1789.12 349.366V342.125C1789.12 341.959 1789.06 341.8 1788.94 341.683C1788.82 341.566 1788.67 341.5 1788.5 341.5C1788.33 341.5 1788.18 341.566 1788.06 341.683C1787.94 341.8 1787.88 341.959 1787.88 342.125V349.366L1785.82 347.308C1785.7 347.191 1785.54 347.125 1785.38 347.125C1785.21 347.125 1785.05 347.191 1784.93 347.308C1784.82 347.425 1784.75 347.584 1784.75 347.75C1784.75 347.916 1784.82 348.075 1784.93 348.192L1788.06 351.317Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="1801" y="352.66">Download list</tspan></text>
+<line x1="76" y1="373.5" x2="1880" y2="373.5" stroke="#F4F4F4"/>
+<defs>
+<pattern id="pattern0_4383_9582" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_4383_9582" transform="matrix(0.00444444 0 0 0.0219259 0 -1.96667)"/>
+</pattern>
+<filter id="filter0_d_4383_9582" x="558" y="869" width="805" height="71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4383_9582"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4383_9582" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_4383_9582" x1="20.5" y1="0" x2="20.5" y2="1024" gradientUnits="userSpaceOnUse">
+<stop stop-color="#297CD4"/>
+<stop offset="1" stop-color="#0045B3"/>
+</linearGradient>
+<clipPath id="clip0_4383_9582">
+<rect x="76" y="388" width="1803" height="344" rx="10" fill="white"/>
+</clipPath>
+<clipPath id="clip1_4383_9582">
+<rect width="1803" height="300" fill="white" transform="translate(76 432)"/>
+</clipPath>
+<clipPath id="clip2_4383_9582">
+<rect width="40" height="40" fill="white" transform="translate(1251 441)"/>
+</clipPath>
+<clipPath id="clip3_4383_9582">
+<rect x="1000" y="453" width="95" height="7" rx="2.57944" fill="white"/>
+</clipPath>
+<clipPath id="clip4_4383_9582">
+<rect x="1000" y="535" width="96" height="7" rx="2.57944" fill="white"/>
+</clipPath>
+<clipPath id="clip5_4383_9582">
+<rect x="1000" y="611" width="100" height="7" rx="2.57944" fill="white"/>
+</clipPath>
+<clipPath id="clip6_4383_9582">
+<rect x="1000" y="684" width="95" height="7" rx="2.57944" fill="white"/>
+</clipPath>
+<clipPath id="clip7_4383_9582">
+<rect x="1000" y="693" width="95" height="5" rx="1.84246" fill="white"/>
+</clipPath>
+<image id="image0_4383_9582" width="225" height="225" preserveAspectRatio="none" xlink:href="data:image/png;base64,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"/>
+</defs>
+</svg>

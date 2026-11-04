@@ -1,0 +1,311 @@
+<svg width="1920" height="1024" viewBox="0 0 1920 1024" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_7486_11717)">
+<rect width="1920" height="1024" fill="white"/>
+<g clip-path="url(#clip1_7486_11717)">
+<path d="M85 337C85 331.477 89.4772 327 95 327H1869C1874.52 327 1879 331.477 1879 337V1149C1879 1154.52 1874.52 1159 1869 1159H94.9999C89.4771 1159 85 1154.52 85 1149V337Z" fill="#D6D6D6"/>
+<path d="M85 327H1879V375H85V327Z" fill="#EEEBF2"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="171" y="355.854">Part</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="771.466" y="355.854">Price (USD)</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="658.876" y="347.854">ePR </tspan><tspan x="639.811" y="363.854">download</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1209" y="355.854">ESN</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1068" y="355.854">Leading Order</tspan></text>
+<path d="M1176.25 347.286H1186.54V346H1176.25V347.286Z" fill="#878682"/>
+<path d="M1177.54 349.858H1185.25V348.572H1177.54V349.858Z" fill="#878682"/>
+<path d="M1178.82 352.428H1183.96V351.143H1178.82V352.428Z" fill="#878682"/>
+<path d="M1182.68 355.001H1180.11V353.715H1182.68V355.001Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1305" y="355.854">Customer</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="487" y="355.854">Submitted</tspan></text>
+<path d="M568.25 347.286H578.536V346H568.25V347.286Z" fill="#878682"/>
+<path d="M569.535 349.858H577.249V348.572H569.535V349.858Z" fill="#878682"/>
+<path d="M570.82 352.428H575.963V351.143H570.82V352.428Z" fill="#878682"/>
+<path d="M574.681 355.001H572.109V353.715H574.681V355.001Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="915" y="355.854">Planner</tspan></text>
+<path d="M979.25 347.286H989.536V346H979.25V347.286Z" fill="#878682"/>
+<path d="M980.535 349.858H988.249V348.572H980.535V349.858Z" fill="#878682"/>
+<path d="M981.82 352.428H986.963V351.143H981.82V352.428Z" fill="#878682"/>
+<path d="M985.681 355.001H983.109V353.715H985.681V355.001Z" fill="#878682"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="369" y="355.854">Status</tspan></text>
+<path d="M424.25 347.286H434.536V346H424.25V347.286Z" fill="#878682"/>
+<path d="M425.535 349.858H433.249V348.572H425.535V349.858Z" fill="#878682"/>
+<path d="M426.82 352.428H431.963V351.143H426.82V352.428Z" fill="#878682"/>
+<path d="M430.681 355.001H428.109V353.715H430.681V355.001Z" fill="#878682"/>
+<mask id="path-29-inside-1_7486_11717" fill="white">
+<path d="M85 375H1879V487H85V375Z"/>
+</mask>
+<path d="M85 375H1879V487H85V375Z" fill="#FFEFEF"/>
+<path d="M85 375V376H1879V375V374H85V375ZM1879 487V486H85V487V488H1879V487Z" fill="#DDDDDD" mask="url(#path-29-inside-1_7486_11717)"/>
+<g clip-path="url(#clip2_7486_11717)">
+<rect x="114.5" y="420.5" width="21" height="21" rx="5.5" fill="white"/>
+<rect x="114.5" y="420.5" width="21" height="21" rx="5.5" stroke="#878682"/>
+<path d="M130.998 425.914C131.13 425.914 131.261 425.94 131.383 425.991C131.505 426.042 131.615 426.116 131.708 426.21C131.81 426.304 131.891 426.417 131.946 426.544C132.002 426.67 132.03 426.807 132.03 426.945C132.03 427.083 132.002 427.219 131.946 427.346C131.891 427.472 131.81 427.586 131.708 427.68L123.548 435.84C123.455 435.934 123.345 436.008 123.223 436.059C123.101 436.109 122.97 436.136 122.838 436.136C122.706 436.136 122.575 436.109 122.453 436.059C122.332 436.008 122.221 435.933 122.128 435.84L118.288 432C118.192 431.907 118.114 431.795 118.061 431.672C118.007 431.549 117.979 431.416 117.977 431.282C117.974 431.148 117.998 431.015 118.047 430.891C118.096 430.766 118.17 430.651 118.263 430.555C118.356 430.458 118.468 430.381 118.591 430.327C118.714 430.274 118.847 430.245 118.981 430.243C119.115 430.241 119.248 430.265 119.373 430.314C119.498 430.364 119.612 430.437 119.708 430.53L122.838 433.67L130.288 426.21C130.381 426.116 130.492 426.042 130.613 425.991C130.735 425.94 130.866 425.914 130.998 425.914Z" fill="white"/>
+</g>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em" text-decoration="underline"><tspan x="171" y="420.74">ADC1234456</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="171" y="440.16">STG 2 LPT NGV SEGMENT </tspan><tspan x="171" y="454.16">(NOZZ, STG 2) -7BE</tspan></text>
+<rect x="370.5" y="414.5" width="91" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="383.304" y="427.854">Approved</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="915" y="433.854">Lee Kwang Hua</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="776.432" y="433.854">$23,934.00</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="622" y="445.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="620.511" y="425.854">Lee Kwang </tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1209" y="433.854">3422565</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1093" y="433.854">3422565</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1305" y="433.854">NOK AIRLINES PUBLIC CO., LTD</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="487" y="452.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="367" y="452.16">11 Feb 26, 2:45pm </tspan></text>
+<path d="M491 408.5H584C585.381 408.5 586.5 409.619 586.5 411V428C586.5 429.381 585.381 430.5 584 430.5H491C489.619 430.5 488.5 429.381 488.5 428V411C488.5 409.619 489.619 408.5 491 408.5Z" fill="#F4F4F4"/>
+<path d="M491 408.5H584C585.381 408.5 586.5 409.619 586.5 411V428C586.5 429.381 585.381 430.5 584 430.5H491C489.619 430.5 488.5 429.381 488.5 428V411C488.5 409.619 489.619 408.5 491 408.5Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="547.512" y="425.547">+44</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="543.059" y="425.547"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="495" y="425.547">#SJ-348:</tspan></text>
+<path d="M273.983 442.99V442.65C273.983 440.63 272.373 438.98 270.383 438.98C269.933 438.98 269.503 439.06 269.113 439.22C268.773 437.55 267.323 436.29 265.593 436.29C265.123 436.29 264.673 436.38 264.263 436.55C263.823 435.01 262.383 433.84 260.723 433.84C260.273 433.84 259.843 433.93 259.443 434.09V429.67C259.443 427.65 257.833 426 255.843 426C253.853 426 252.253 427.65 252.253 429.67V440.48C251.623 439.66 250.863 438.94 249.993 438.58C249.013 438.17 247.983 438.22 247.013 438.72C245.223 439.65 244.493 441.88 245.373 443.71L249.843 452.94C249.973 453.19 252.993 459.14 258.473 459.14H264.863C269.903 459.14 274.003 454.93 274.003 449.75V442.98L273.983 442.99Z" fill="black"/>
+<path d="M264.851 456.689H258.461C254.511 456.689 252.051 451.999 251.971 451.829L247.521 442.619C247.211 441.979 247.471 441.229 248.101 440.899C248.451 440.719 248.751 440.699 249.081 440.839C250.401 441.389 251.701 444.059 252.211 445.619L252.601 446.799L254.661 446.059V429.669C254.661 428.999 255.201 428.449 255.861 428.449C256.521 428.449 257.061 428.999 257.061 429.669V443.789H259.481V437.589C259.481 436.909 260.081 436.279 260.741 436.279C261.401 436.279 262.021 436.849 262.021 437.499V444.189H264.421V439.949C264.421 439.269 264.961 438.729 265.621 438.729C266.281 438.729 266.821 439.279 266.821 439.949V445.339H269.221V442.649C269.221 441.969 269.761 441.429 270.421 441.429C271.081 441.429 271.621 441.979 271.621 442.649V444.399V449.759C271.621 453.579 268.601 456.699 264.881 456.699L264.851 456.689Z" fill="white"/>
+<rect x="171" y="461.002" width="36" height="13.76" rx="2.65" fill="#059669"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="174.996" y="472.043">NEW</tspan></text>
+<g clip-path="url(#clip3_7486_11717)">
+<rect x="114.5" y="341.5" width="21" height="21" rx="5.5" fill="white"/>
+<rect x="114.5" y="341.5" width="21" height="21" rx="5.5" stroke="#878682"/>
+<path d="M130.998 346.914C131.13 346.914 131.261 346.94 131.383 346.991C131.505 347.042 131.615 347.116 131.708 347.21C131.81 347.304 131.891 347.417 131.946 347.544C132.002 347.67 132.03 347.807 132.03 347.945C132.03 348.083 132.002 348.219 131.946 348.346C131.891 348.472 131.81 348.586 131.708 348.68L123.548 356.84C123.455 356.934 123.345 357.008 123.223 357.059C123.101 357.109 122.97 357.136 122.838 357.136C122.706 357.136 122.575 357.109 122.453 357.059C122.332 357.008 122.221 356.933 122.128 356.84L118.288 353C118.192 352.907 118.114 352.795 118.061 352.672C118.007 352.549 117.979 352.416 117.977 352.282C117.974 352.148 117.998 352.015 118.047 351.891C118.096 351.766 118.17 351.651 118.263 351.555C118.356 351.458 118.468 351.381 118.591 351.327C118.714 351.274 118.847 351.245 118.981 351.243C119.115 351.241 119.248 351.265 119.373 351.314C119.498 351.364 119.612 351.437 119.708 351.53L122.838 354.67L130.288 347.21C130.381 347.116 130.492 347.042 130.613 346.991C130.735 346.94 130.866 346.914 130.998 346.914Z" fill="white"/>
+</g>
+<mask id="path-56-inside-2_7486_11717" fill="white">
+<path d="M85 487H1879V599H85V487Z"/>
+</mask>
+<path d="M85 487H1879V599H85V487Z" fill="white"/>
+<path d="M1879 599V598H85V599V600H1879V599Z" fill="#DDDDDD" mask="url(#path-56-inside-2_7486_11717)"/>
+<g clip-path="url(#clip4_7486_11717)">
+<rect x="114" y="532" width="22" height="22" rx="6" fill="#033A7B"/>
+<path d="M130.998 537.914C131.13 537.914 131.261 537.94 131.383 537.991C131.505 538.042 131.615 538.116 131.708 538.21C131.81 538.304 131.891 538.417 131.946 538.544C132.002 538.67 132.03 538.807 132.03 538.945C132.03 539.083 132.002 539.219 131.946 539.346C131.891 539.472 131.81 539.586 131.708 539.68L123.548 547.84C123.455 547.934 123.345 548.008 123.223 548.059C123.101 548.109 122.97 548.136 122.838 548.136C122.706 548.136 122.575 548.109 122.453 548.059C122.332 548.008 122.221 547.933 122.128 547.84L118.288 544C118.192 543.907 118.114 543.795 118.061 543.672C118.007 543.549 117.979 543.416 117.977 543.282C117.974 543.148 117.998 543.015 118.047 542.891C118.096 542.766 118.17 542.651 118.263 542.555C118.356 542.458 118.468 542.381 118.591 542.327C118.714 542.274 118.847 542.245 118.981 542.243C119.115 542.241 119.248 542.265 119.373 542.314C119.498 542.364 119.612 542.437 119.708 542.53L122.838 545.67L130.288 538.21C130.381 538.116 130.492 538.042 130.613 537.991C130.735 537.94 130.866 537.914 130.998 537.914Z" fill="white"/>
+</g>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em" text-decoration="underline"><tspan x="171" y="532.74">340-000-205-0</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="171" y="559.16">REAR SPINNER CONE</tspan></text>
+<rect x="370.5" y="534.5" width="91" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="383.304" y="547.854">Approved</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="487" y="571.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="367" y="571.16">11 Feb 26, 2:45pm </tspan></text>
+<path d="M491 527.5H580C581.381 527.5 582.5 528.619 582.5 530V547C582.5 548.381 581.381 549.5 580 549.5H491C489.619 549.5 488.5 548.381 488.5 547V530C488.5 528.619 489.619 527.5 491 527.5Z" fill="#F4F4F4"/>
+<path d="M491 527.5H580C581.381 527.5 582.5 528.619 582.5 530V547C582.5 548.381 581.381 549.5 580 549.5H491C489.619 549.5 488.5 548.381 488.5 547V530C488.5 528.619 489.619 527.5 491 527.5Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="548.512" y="544.547">+12</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="544.059" y="544.547"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="496" y="544.547">#SJ-348:</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="915" y="545.854">Lee Kwang Hua</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="776.432" y="545.854">$23,934.00</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="624" y="558.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="630.511" y="538.854">Lee Kwang </tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1209" y="545.854">3422565</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1093" y="545.854">20053539</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1305" y="545.854">NOK AIRLINES PUBLIC CO., LTD</tspan></text>
+<g clip-path="url(#clip5_7486_11717)">
+<rect x="171" y="571" width="36" height="13.7647" rx="2.64706" fill="#336DFF"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="175.965" y="582.422">USM</tspan></text>
+</g>
+<mask id="path-78-inside-3_7486_11717" fill="white">
+<path d="M85 599H1879V711H85V599Z"/>
+</mask>
+<path d="M85 599H1879V711H85V599Z" fill="white"/>
+<path d="M1879 711V710H85V711V712H1879V711Z" fill="#DDDDDD" mask="url(#path-78-inside-3_7486_11717)"/>
+<g clip-path="url(#clip6_7486_11717)">
+<rect x="114.5" y="644.5" width="21" height="21" rx="5.5" fill="white"/>
+<rect x="114.5" y="644.5" width="21" height="21" rx="5.5" stroke="#878682"/>
+<path d="M130.998 649.914C131.13 649.914 131.261 649.94 131.383 649.991C131.505 650.042 131.615 650.116 131.708 650.21C131.81 650.304 131.891 650.417 131.946 650.544C132.002 650.67 132.03 650.807 132.03 650.945C132.03 651.083 132.002 651.219 131.946 651.346C131.891 651.472 131.81 651.586 131.708 651.68L123.548 659.84C123.455 659.934 123.345 660.008 123.223 660.059C123.101 660.109 122.97 660.136 122.838 660.136C122.706 660.136 122.575 660.109 122.453 660.059C122.332 660.008 122.221 659.933 122.128 659.84L118.288 656C118.192 655.907 118.114 655.795 118.061 655.672C118.007 655.549 117.979 655.416 117.977 655.282C117.974 655.148 117.998 655.015 118.047 654.891C118.096 654.766 118.17 654.651 118.263 654.555C118.356 654.458 118.468 654.381 118.591 654.327C118.714 654.274 118.847 654.245 118.981 654.243C119.115 654.241 119.248 654.265 119.373 654.314C119.498 654.364 119.612 654.437 119.708 654.53L122.838 657.67L130.288 650.21C130.381 650.116 130.492 650.042 130.613 649.991C130.735 649.94 130.866 649.914 130.998 649.914Z" fill="white"/>
+</g>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em" text-decoration="underline"><tspan x="171" y="644.74">340-001-038-0</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="171" y="664.16">FAN BLADE,SINGLE (PAIR </tspan><tspan x="171" y="678.16">340-161-304-0)</tspan></text>
+<rect x="370.5" y="646.5" width="91" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="383.304" y="659.854">Approved</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="487" y="683.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="367" y="683.16">11 Feb 26, 2:45pm </tspan></text>
+<path d="M491 639.5H580C581.381 639.5 582.5 640.619 582.5 642V659C582.5 660.381 581.381 661.5 580 661.5H491C489.619 661.5 488.5 660.381 488.5 659V642C488.5 640.619 489.619 639.5 491 639.5Z" fill="#F4F4F4"/>
+<path d="M491 639.5H580C581.381 639.5 582.5 640.619 582.5 642V659C582.5 660.381 581.381 661.5 580 661.5H491C489.619 661.5 488.5 660.381 488.5 659V642C488.5 640.619 489.619 639.5 491 639.5Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="548.512" y="656.547">+85</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="544.059" y="656.547"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="496" y="656.547">#SJ-348:</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="915" y="657.854">Soh Li Zhen Karen</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="775.432" y="657.854">$23,934.00</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="624" y="670.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="622.511" y="650.854">Lee Kwang </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1209" y="657.854">-</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1093" y="657.854">-</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1305" y="657.854">-</tspan></text>
+<g clip-path="url(#clip7_7486_11717)">
+<rect x="171" y="685" width="36" height="13.7647" rx="2.64706" fill="#336DFF"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="175.965" y="696.422">USM</tspan></text>
+</g>
+<mask id="path-100-inside-4_7486_11717" fill="white">
+<path d="M85 711H1879V823H85V711Z"/>
+</mask>
+<path d="M85 711H1879V823H85V711Z" fill="white"/>
+<path d="M1879 823V822H85V823V824H1879V823Z" fill="#DDDDDD" mask="url(#path-100-inside-4_7486_11717)"/>
+<g clip-path="url(#clip8_7486_11717)">
+<rect x="114" y="756" width="22" height="22" rx="6" fill="#033A7B"/>
+<path d="M130.998 761.914C131.13 761.914 131.261 761.94 131.383 761.991C131.505 762.042 131.615 762.116 131.708 762.21C131.81 762.304 131.891 762.417 131.946 762.544C132.002 762.67 132.03 762.807 132.03 762.945C132.03 763.083 132.002 763.219 131.946 763.346C131.891 763.472 131.81 763.586 131.708 763.68L123.548 771.84C123.455 771.934 123.345 772.008 123.223 772.059C123.101 772.109 122.97 772.136 122.838 772.136C122.706 772.136 122.575 772.109 122.453 772.059C122.332 772.008 122.221 771.933 122.128 771.84L118.288 768C118.192 767.907 118.114 767.795 118.061 767.672C118.007 767.549 117.979 767.416 117.977 767.282C117.974 767.148 117.998 767.015 118.047 766.891C118.096 766.766 118.17 766.651 118.263 766.555C118.356 766.458 118.468 766.381 118.591 766.327C118.714 766.274 118.847 766.245 118.981 766.243C119.115 766.241 119.248 766.265 119.373 766.314C119.498 766.364 119.612 766.437 119.708 766.53L122.838 769.67L130.288 762.21C130.381 762.116 130.492 762.042 130.613 761.991C130.735 761.94 130.866 761.914 130.998 761.914Z" fill="white"/>
+</g>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em" text-decoration="underline"><tspan x="171" y="756.74">219339-1</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="171" y="776.16">BEARING, FIXED, </tspan><tspan x="171" y="790.16">MATCHED SET</tspan></text>
+<rect x="370.5" y="758.5" width="91" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="383.304" y="771.854">Approved</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="487" y="795.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="367" y="795.16">11 Feb 26, 2:45pm </tspan></text>
+<path d="M491 751.5H580C581.381 751.5 582.5 752.619 582.5 754V771C582.5 772.381 581.381 773.5 580 773.5H491C489.619 773.5 488.5 772.381 488.5 771V754C488.5 752.619 489.619 751.5 491 751.5Z" fill="#F4F4F4"/>
+<path d="M491 751.5H580C581.381 751.5 582.5 752.619 582.5 754V771C582.5 772.381 581.381 773.5 580 773.5H491C489.619 773.5 488.5 772.381 488.5 771V754C488.5 752.619 489.619 751.5 491 751.5Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="548.512" y="768.547">+76</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="544.059" y="768.547"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="496" y="768.547">#SJ-348:</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="915" y="769.854">Lee Kwang Hua</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="776.432" y="769.854">$15,742.00</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="624" y="782.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="626.907" y="762.854">Soh Li Zhen </tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1209" y="769.854">3422565</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1093" y="769.854">20054846</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1305" y="769.854">NOK AIRLINES PUBLIC CO., LTD</tspan></text>
+<rect x="171" y="798.002" width="36" height="13.76" rx="2.65" fill="#059669"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="174.996" y="809.043">NEW</tspan></text>
+<mask id="path-122-inside-5_7486_11717" fill="white">
+<path d="M85 823H1879V935H85V823Z"/>
+</mask>
+<path d="M85 823H1879V935H85V823Z" fill="white"/>
+<path d="M1879 935V934H85V935V936H1879V935Z" fill="#DDDDDD" mask="url(#path-122-inside-5_7486_11717)"/>
+<g clip-path="url(#clip9_7486_11717)">
+<rect x="114.5" y="868.5" width="21" height="21" rx="5.5" fill="white"/>
+<rect x="114.5" y="868.5" width="21" height="21" rx="5.5" stroke="#878682"/>
+<path d="M130.998 873.914C131.13 873.914 131.261 873.94 131.383 873.991C131.505 874.042 131.615 874.116 131.708 874.21C131.81 874.304 131.891 874.417 131.946 874.544C132.002 874.67 132.03 874.807 132.03 874.945C132.03 875.083 132.002 875.219 131.946 875.346C131.891 875.472 131.81 875.586 131.708 875.68L123.548 883.84C123.455 883.934 123.345 884.008 123.223 884.059C123.101 884.109 122.97 884.136 122.838 884.136C122.706 884.136 122.575 884.109 122.453 884.059C122.332 884.008 122.221 883.933 122.128 883.84L118.288 880C118.192 879.907 118.114 879.795 118.061 879.672C118.007 879.549 117.979 879.416 117.977 879.282C117.974 879.148 117.998 879.015 118.047 878.891C118.096 878.766 118.17 878.651 118.263 878.555C118.356 878.458 118.468 878.381 118.591 878.327C118.714 878.274 118.847 878.245 118.981 878.243C119.115 878.241 119.248 878.265 119.373 878.314C119.498 878.364 119.612 878.437 119.708 878.53L122.838 881.67L130.288 874.21C130.381 874.116 130.492 874.042 130.613 873.991C130.735 873.94 130.866 873.914 130.998 873.914Z" fill="white"/>
+</g>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em" text-decoration="underline"><tspan x="171" y="868.74">340-002-408-0</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="171" y="895.16">SHROUD-OGV</tspan></text>
+<rect x="370.5" y="870.5" width="91" height="17" rx="4.5" fill="#EEFFE9" stroke="#68ED6D"/>
+<text fill="#45A148" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="383.304" y="883.854">Approved</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="487" y="907.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="367" y="907.16">11 Feb 26, 2:45pm </tspan></text>
+<path d="M491 863.5H580C581.381 863.5 582.5 864.619 582.5 866V883C582.5 884.381 581.381 885.5 580 885.5H491C489.619 885.5 488.5 884.381 488.5 883V866C488.5 864.619 489.619 863.5 491 863.5Z" fill="#F4F4F4"/>
+<path d="M491 863.5H580C581.381 863.5 582.5 864.619 582.5 866V883C582.5 884.381 581.381 885.5 580 885.5H491C489.619 885.5 488.5 884.381 488.5 883V866C488.5 864.619 489.619 863.5 491 863.5Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="548.512" y="880.547">+12</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="544.059" y="880.547"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="496" y="880.547">#SJ-348:</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="915" y="881.854">Pabalan Aaron Maristela</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="775.432" y="881.854">$23,934.00</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="624" y="894.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="622.511" y="874.854">Lee Kwang </tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1209" y="881.854">3422565</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1093" y="881.854">20053539</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1305" y="881.854">NOK AIRLINES PUBLIC CO., LTD</tspan></text>
+<g clip-path="url(#clip10_7486_11717)">
+<rect x="171" y="902.854" width="36" height="13.7647" rx="2.64706" fill="#336DFF"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="175.965" y="914.275">USM</tspan></text>
+</g>
+<mask id="path-144-inside-6_7486_11717" fill="white">
+<path d="M85 935H1879V1047H85V935Z"/>
+</mask>
+<path d="M85 935H1879V1047H85V935Z" fill="white"/>
+<path d="M1879 1047V1046H85V1047V1048H1879V1047Z" fill="#DDDDDD" mask="url(#path-144-inside-6_7486_11717)"/>
+<rect x="114" y="980" width="22" height="22" rx="6" fill="#D9D9D9"/>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em" text-decoration="underline"><tspan x="171" y="980.74">203806</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="171" y="1007.16">PIN, DOWER</tspan></text>
+<path d="M373 982.5H459C460.381 982.5 461.5 983.619 461.5 985V997C461.5 998.381 460.381 999.5 459 999.5H373C371.619 999.5 370.5 998.381 370.5 997V985C370.5 983.619 371.619 982.5 373 982.5Z" fill="#F4F4F4" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="388.369" y="995.854">Pending</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="487" y="1019.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="367" y="1019.16">11 Feb 26, 2:45pm </tspan></text>
+<path d="M491 975.5H580C581.381 975.5 582.5 976.619 582.5 978V995C582.5 996.381 581.381 997.5 580 997.5H491C489.619 997.5 488.5 996.381 488.5 995V978C488.5 976.619 489.619 975.5 491 975.5Z" fill="#F4F4F4"/>
+<path d="M491 975.5H580C581.381 975.5 582.5 976.619 582.5 978V995C582.5 996.381 581.381 997.5 580 997.5H491C489.619 997.5 488.5 996.381 488.5 995V978C488.5 976.619 489.619 975.5 491 975.5Z" stroke="#DDDDDD"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="548.512" y="992.547">+35</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="16" letter-spacing="0em"><tspan x="544.059" y="992.547"> </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="496" y="992.547">#SJ-348:</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="915" y="993.854">Lee Kwang Hua</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="776.432" y="993.854">$23,934.00</tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="12" letter-spacing="0em"><tspan x="624" y="1006.16">11 Feb 26, 2:45pm </tspan></text>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="622.511" y="986.854">Lee Kwang </tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1209" y="993.854">3422565</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1093" y="993.854">20053539</tspan></text>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1305" y="993.854">NOK AIRLINES PUBLIC CO., LTD</tspan></text>
+</g>
+<path d="M95 327.5H1869C1874.25 327.5 1878.5 331.753 1878.5 337V1149C1878.5 1154.25 1874.25 1158.5 1869 1158.5H95C89.7533 1158.5 85.5 1154.25 85.5 1149V337C85.5 331.753 89.7533 327.5 95 327.5Z" stroke="#DDDDDD"/>
+<path d="M88 285.5H1876C1877.38 285.5 1878.5 286.619 1878.5 288V312C1878.5 313.381 1877.38 314.5 1876 314.5H88C86.6193 314.5 85.5 313.381 85.5 312V288L85.5127 287.744C85.6408 286.484 86.7057 285.5 88 285.5Z" fill="#E5F0FF"/>
+<path d="M88 285.5H1876C1877.38 285.5 1878.5 286.619 1878.5 288V312C1878.5 313.381 1877.38 314.5 1876 314.5H88C86.6193 314.5 85.5 313.381 85.5 312V288L85.5127 287.744C85.6408 286.484 86.7057 285.5 88 285.5Z" stroke="#A8C1FF"/>
+<text fill="#5F7FD0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="11" letter-spacing="0em"><tspan x="127" y="304.313">Only items with an &#34;Approved&#34; status can be selected for ePR generation.</tspan></text>
+<path d="M105.5 293C104.017 293 102.567 293.44 101.333 294.264C100.1 295.088 99.1386 296.259 98.5709 297.63C98.0032 299 97.8547 300.508 98.1441 301.963C98.4335 303.418 99.1478 304.754 100.197 305.803C101.246 306.852 102.582 307.566 104.037 307.856C105.492 308.145 107 307.997 108.37 307.429C109.741 306.861 110.912 305.9 111.736 304.667C112.56 303.433 113 301.983 113 300.5C112.998 298.512 112.207 296.605 110.801 295.199C109.395 293.793 107.488 293.002 105.5 293ZM105.5 306.846C104.245 306.846 103.018 306.474 101.974 305.777C100.931 305.079 100.117 304.088 99.6369 302.929C99.1566 301.769 99.0309 300.493 99.2758 299.262C99.5207 298.031 100.125 296.9 101.013 296.013C101.9 295.125 103.031 294.521 104.262 294.276C105.493 294.031 106.769 294.157 107.929 294.637C109.088 295.117 110.079 295.931 110.777 296.974C111.474 298.018 111.846 299.245 111.846 300.5C111.844 302.183 111.175 303.796 109.985 304.985C108.796 306.175 107.183 306.844 105.5 306.846ZM106.654 303.962C106.654 304.115 106.593 304.261 106.485 304.369C106.377 304.478 106.23 304.538 106.077 304.538C105.771 304.538 105.477 304.417 105.261 304.201C105.045 303.984 104.923 303.691 104.923 303.385V300.5C104.77 300.5 104.623 300.439 104.515 300.331C104.407 300.223 104.346 300.076 104.346 299.923C104.346 299.77 104.407 299.623 104.515 299.515C104.623 299.407 104.77 299.346 104.923 299.346C105.229 299.346 105.523 299.468 105.739 299.684C105.955 299.9 106.077 300.194 106.077 300.5V303.385C106.23 303.385 106.377 303.445 106.485 303.554C106.593 303.662 106.654 303.809 106.654 303.962ZM104.346 297.327C104.346 297.156 104.397 296.988 104.492 296.846C104.587 296.704 104.722 296.593 104.88 296.527C105.039 296.462 105.213 296.445 105.38 296.478C105.548 296.512 105.702 296.594 105.823 296.715C105.944 296.836 106.027 296.99 106.06 297.158C106.094 297.326 106.077 297.5 106.011 297.658C105.946 297.816 105.835 297.951 105.692 298.046C105.55 298.142 105.383 298.192 105.212 298.192C104.982 298.192 104.762 298.101 104.6 297.939C104.437 297.777 104.346 297.556 104.346 297.327Z" fill="#5F7FD0"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" letter-spacing="0em"><tspan x="113.717" y="214.434">Materials List</tspan></text>
+<path d="M306.172 202.399L304.505 207.5H294.819M305.339 210.414H295.339L293.672 200.941H291.172M296.172 213.329C296.172 213.731 295.799 214.058 295.339 214.058C294.878 214.058 294.505 213.731 294.505 213.329C294.505 212.927 294.878 212.6 295.339 212.6C295.799 212.6 296.172 212.927 296.172 213.329ZM305.339 213.329C305.339 213.731 304.965 214.058 304.505 214.058C304.045 214.058 303.672 213.731 303.672 213.329C303.672 212.927 304.045 212.6 304.505 212.6C304.965 212.6 305.339 212.927 305.339 213.329Z" stroke="#878682" stroke-width="1.22965" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="#878682" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" letter-spacing="0em"><tspan x="316.254" y="214.434">Submission Cart (2)</tspan></text>
+<text fill="#7C3CC0" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="520.172" y="214.434">Approval Monitoring</tspan></text>
+<line x1="520.172" y1="233.5" x2="716.172" y2="233.5" stroke="#034FA7" stroke-width="3"/>
+<rect x="114.5" y="275.5" width="117" height="87" rx="4.5" fill="white"/>
+<rect x="114.5" y="275.5" width="117" height="87" rx="4.5" stroke="#DDDDDD"/>
+<rect x="114" y="280" width="118" height="26" fill="#D9D9D9"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="124" y="297.854">All materials</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="124" y="323.854">NEW materials</tspan></text>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="124" y="349.854">USM materials</tspan></text>
+<rect x="85.5" y="239.5" width="146" height="35" rx="4.5" fill="white"/>
+<rect x="85.5" y="239.5" width="146" height="35" rx="4.5" stroke="#DDDDDD"/>
+<text fill="black" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="95" y="261.854">All materials</tspan></text>
+<path d="M216 262L221.196 254.5H210.804L216 262Z" fill="#D9D9D9"/>
+<rect x="67" y="40" width="296" height="60" fill="url(#pattern0_7486_11717)"/>
+<circle cx="1798" cy="70" r="20" fill="#D9D9D9"/>
+<text fill="#282828" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1839" y="74.8535">Karen</tspan></text>
+<path d="M106.75 133.438H84.25C83.6533 133.438 83.081 133.675 82.659 134.097C82.2371 134.518 82 135.091 82 135.688V143.562C82 150.976 85.5888 155.469 88.5995 157.933C91.8423 160.585 95.0683 161.485 95.2089 161.523C95.4023 161.576 95.6062 161.576 95.7995 161.523C95.9402 161.485 99.1619 160.585 102.409 157.933C105.411 155.469 109 150.976 109 143.562V135.688C109 135.091 108.763 134.518 108.341 134.097C107.919 133.675 107.347 133.438 106.75 133.438ZM106.75 143.562C106.75 148.775 104.829 153.007 101.041 156.137C99.3915 157.495 97.5159 158.552 95.5 159.259C93.5104 158.564 91.6581 157.526 90.0269 156.192C86.1934 153.056 84.25 148.808 84.25 143.562V135.688H106.75V143.562ZM89.0791 147.733C88.868 147.522 88.7494 147.236 88.7494 146.938C88.7494 146.639 88.868 146.353 89.0791 146.142C89.2902 145.93 89.5765 145.812 89.875 145.812C90.1735 145.812 90.4598 145.93 90.6709 146.142L93.25 148.722L100.329 141.642C100.434 141.537 100.558 141.454 100.694 141.398C100.831 141.341 100.977 141.312 101.125 141.312C101.273 141.312 101.419 141.341 101.556 141.398C101.692 141.454 101.816 141.537 101.921 141.642C102.025 141.746 102.108 141.87 102.165 142.007C102.222 142.143 102.251 142.29 102.251 142.438C102.251 142.585 102.222 142.732 102.165 142.868C102.108 143.005 102.025 143.129 101.921 143.233L94.0459 151.108C93.9415 151.213 93.8174 151.296 93.6808 151.353C93.5442 151.409 93.3978 151.438 93.25 151.438C93.1022 151.438 92.9558 151.409 92.8192 151.353C92.6826 151.296 92.5585 151.213 92.4541 151.108L89.0791 147.733Z" fill="#034FA7"/>
+<text fill="#034FA7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="34" font-weight="bold" letter-spacing="0em"><tspan x="119" y="159.287">Materials Provisioning</tspan></text>
+<rect width="41" height="1024" fill="url(#paint0_linear_7486_11717)"/>
+<rect width="41" height="1024" fill="black" fill-opacity="0.1"/>
+<g filter="url(#filter0_d_7486_11717)">
+<rect x="562" y="896" width="797" height="63" rx="31.5" fill="#46209E"/>
+<rect x="1141" y="909" width="207" height="40" rx="20" fill="#336DFF"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="1174.45" y="934.74">Download ePR</tspan></text>
+<path d="M1331.57 922.75L1337.48 928.875L1331.57 935" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="18" font-weight="bold" letter-spacing="0em"><tspan x="640.402" y="935.74">2 parts selected</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="24" font-weight="bold" letter-spacing="0em"><tspan x="858" y="937.32">$39,676.00</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="978.234" y="937.32"> USD</tspan></text>
+<text fill="#C1BDC7" style="white-space: pre" xml:space="preserve" font-family="Arimo" font-size="14" letter-spacing="0em"><tspan x="1051.08" y="933.854">Clear Cart</tspan></text>
+<line x1="1027.5" y1="913" x2="1027.5" y2="946" stroke="#C1BDC7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M598.679 928.94C598.678 927.333 599.062 925.75 599.799 924.322C600.536 922.895 601.604 921.664 602.913 920.734C604.223 919.804 605.736 919.2 607.326 918.975C608.917 918.749 610.538 918.908 612.055 919.437C612.415 919.563 612.81 919.54 613.153 919.374C613.496 919.208 613.76 918.913 613.885 918.553C614.011 918.192 613.988 917.797 613.822 917.454C613.656 917.111 613.361 916.847 613.001 916.722C610.352 915.798 607.475 915.76 604.804 916.614C602.132 917.467 599.81 919.166 598.188 921.455C596.565 923.743 595.731 926.497 595.81 929.301C595.889 932.105 596.877 934.807 598.625 937.001C600.374 939.194 602.788 940.76 605.504 941.462C608.219 942.164 611.089 941.964 613.681 940.892C616.274 939.82 618.447 937.935 619.874 935.52C621.302 933.105 621.906 930.292 621.595 927.504C621.574 927.316 621.517 927.135 621.426 926.969C621.335 926.804 621.212 926.658 621.065 926.54C620.918 926.422 620.748 926.334 620.567 926.282C620.386 926.229 620.196 926.213 620.008 926.233C619.821 926.254 619.639 926.312 619.474 926.403C619.308 926.494 619.163 926.616 619.045 926.764C618.927 926.911 618.839 927.08 618.786 927.261C618.734 927.443 618.717 927.633 618.738 927.82C618.889 929.18 618.762 930.556 618.363 931.865C617.965 933.173 617.304 934.387 616.42 935.432C615.537 936.476 614.45 937.33 613.226 937.94C612.001 938.55 610.666 938.904 609.3 938.98C607.934 939.056 606.567 938.853 605.283 938.383C603.998 937.913 602.823 937.186 601.829 936.246C600.834 935.306 600.042 934.174 599.501 932.918C598.959 931.661 598.679 930.308 598.679 928.94ZM619.878 921.267C620.13 920.981 620.258 920.607 620.235 920.226C620.211 919.845 620.037 919.49 619.751 919.237C619.465 918.985 619.091 918.857 618.71 918.88C618.33 918.904 617.974 919.078 617.722 919.364L608.473 929.828L603.899 926.101C603.752 925.982 603.584 925.892 603.403 925.838C603.222 925.784 603.033 925.766 602.845 925.785C602.466 925.824 602.117 926.011 601.876 926.307C601.757 926.453 601.668 926.621 601.614 926.802C601.559 926.983 601.541 927.173 601.56 927.36C601.599 927.74 601.787 928.088 602.082 928.329L607.729 932.929C608.016 933.163 608.384 933.277 608.753 933.246C609.123 933.216 609.466 933.044 609.712 932.766L619.878 921.267Z" fill="#48C74C"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0_7486_11717" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_7486_11717" transform="matrix(0.00444444 0 0 0.0219259 0 -1.96667)"/>
+</pattern>
+<filter id="filter0_d_7486_11717" x="558" y="896" width="805" height="71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7486_11717"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7486_11717" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_7486_11717" x1="20.5" y1="0" x2="20.5" y2="1024" gradientUnits="userSpaceOnUse">
+<stop stop-color="#297CD4"/>
+<stop offset="1" stop-color="#0045B3"/>
+</linearGradient>
+<clipPath id="clip0_7486_11717">
+<rect width="1920" height="1024" fill="white"/>
+</clipPath>
+<clipPath id="clip1_7486_11717">
+<path d="M85 337C85 331.477 89.4772 327 95 327H1869C1874.52 327 1879 331.477 1879 337V1149C1879 1154.52 1874.52 1159 1869 1159H94.9999C89.4771 1159 85 1154.52 85 1149V337Z" fill="white"/>
+</clipPath>
+<clipPath id="clip2_7486_11717">
+<rect width="40" height="40" fill="white" transform="translate(105 411)"/>
+</clipPath>
+<clipPath id="clip3_7486_11717">
+<rect width="40" height="40" fill="white" transform="translate(105 332)"/>
+</clipPath>
+<clipPath id="clip4_7486_11717">
+<rect width="40" height="40" fill="white" transform="translate(105 523)"/>
+</clipPath>
+<clipPath id="clip5_7486_11717">
+<rect x="171" y="571" width="36" height="13.7647" rx="2.64706" fill="white"/>
+</clipPath>
+<clipPath id="clip6_7486_11717">
+<rect width="40" height="40" fill="white" transform="translate(105 635)"/>
+</clipPath>
+<clipPath id="clip7_7486_11717">
+<rect x="171" y="685" width="36" height="13.7647" rx="2.64706" fill="white"/>
+</clipPath>
+<clipPath id="clip8_7486_11717">
+<rect width="40" height="40" fill="white" transform="translate(105 747)"/>
+</clipPath>
+<clipPath id="clip9_7486_11717">
+<rect width="40" height="40" fill="white" transform="translate(105 859)"/>
+</clipPath>
+<clipPath id="clip10_7486_11717">
+<rect x="171" y="902.854" width="36" height="13.7647" rx="2.64706" fill="white"/>
+</clipPath>
+<image id="image0_7486_11717" width="225" height="225" preserveAspectRatio="none" xlink:href="data:image/png;base64,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"/>
+</defs>
+</svg>

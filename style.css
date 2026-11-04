@@ -1026,7 +1026,11 @@ a:focus-visible, button:focus-visible{
   .esc-feature-row.esc-zoomed .esc-feature-media {
     order: 1;
     flex: 0 0 auto;
+    width: 100%;
     max-width: 100%;
+  }
+  .esc-feature-row.esc-reverse.esc-zoomed .esc-feature-media {
+    align-self: flex-end;
   }
   .esc-feature-row.esc-zoomed .esc-feature-text {
     order: 2;
@@ -1301,7 +1305,11 @@ a:focus-visible, button:focus-visible{
   .spw-feature-row.spw-zoomed .spw-feature-media {
     order: 1;
     flex: 0 0 auto;
+    width: 100%;
     max-width: 100%;
+  }
+  .spw-feature-row.spw-reverse.spw-zoomed .spw-feature-media {
+    align-self: flex-end;
   }
   .spw-feature-row.spw-zoomed .spw-feature-text {
     order: 2;
@@ -1323,6 +1331,14 @@ a:focus-visible, button:focus-visible{
     position: relative;
   }
   .spw-media-btn.spw-is-zoomed { cursor: zoom-out; }
+  .spw-media-btn--auditable-records {
+    max-height: 570px;
+    overflow: auto;
+  }
+  .spw-media-btn--auditable-records.spw-is-zoomed {
+    max-height: none;
+    overflow: visible;
+  }
   .spw-media-btn:focus-visible {
     outline: 2px solid var(--spw-accent);
     outline-offset: 2px;
@@ -1660,7 +1676,11 @@ a:focus-visible, button:focus-visible{
 .cd-feature.cd-zoomed .cd-feature-media{
   order: 1;
   flex: 0 0 auto;
+  width: 100%;
   max-width: 100%;
+}
+.cd-feature.cd-feature--reverse.cd-zoomed .cd-feature-media{
+  align-self: flex-end;
 }
 .cd-feature.cd-zoomed .cd-feature-text{
   order: 2;
@@ -1833,4 +1853,31 @@ a:focus-visible, button:focus-visible{
   .case-modal .modal-title{ font-size: 1.05rem; line-height: 1.3; }
   .case-doc h2{ font-size: 1.3rem; }
   .case-doc-summary{ padding: 1rem; }
+}
+
+/* ============================================
+   STATUS + PERSONA NOTES
+   ============================================ */
+.case-status{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: .75rem;
+  color: var(--ink-soft);
+  margin: -8px 0 16px;
+}
+.case-status-dot{
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #d99a2b;
+  display: inline-block;
+}
+.section-status{ margin-top: 12px; font-size: .92rem; }
+.persona-note{
+  font-size: .85rem;
+  font-style: italic;
+  color: var(--case-doc-ink-soft, #5b6b73);
+  margin-bottom: .5rem;
 }
